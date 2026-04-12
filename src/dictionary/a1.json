@@ -1,0 +1,1401 @@
+{
+  "a": {
+    "from": [
+      {
+        "en": "from",
+        "ru": "с, от",
+        "de": "ab"
+      }
+    ],
+    "evening": [
+      {
+        "en": "evening",
+        "ru": "вечер",
+        "de": "Abend"
+      }
+    ],
+    "in_the_evening": [
+      {
+        "en": "in_the_evening",
+        "ru": "вечером",
+        "de": "abends"
+      }
+    ],
+    "but": [
+      {
+        "en": "but",
+        "ru": "но",
+        "de": "aber"
+      }
+    ],
+    "cancel": [
+      {
+        "en": "cancel",
+        "ru": "отменять",
+        "de": "absagen"
+      }
+    ],
+    "sender": [
+      {
+        "en": "sender",
+        "ru": "отправитель",
+        "de": "Absender"
+      }
+    ],
+    "attention": [
+      {
+        "en": "attention",
+        "ru": "внимание",
+        "de": "Achtung"
+      }
+    ],
+    "address": [
+      {
+        "en": "address",
+        "ru": "адрес",
+        "de": "Adresse"
+      }
+    ],
+    "idea": [
+      {
+        "en": "idea",
+        "ru": "представление, догадка",
+        "de": "Ahnung"
+      }
+    ],
+    "alone": [
+      {
+        "en": "alone",
+        "ru": "один, одинокий",
+        "de": "allein"
+      }
+    ],
+    "everything": [
+      {
+        "en": "everything",
+        "ru": "всё",
+        "de": "alles"
+      }
+    ],
+    "everyday_life": [
+      {
+        "en": "everyday_life",
+        "ru": "повседневная жизнь, быт",
+        "de": "Alltag"
+      }
+    ],
+    "than": [
+      {
+        "en": "than",
+        "ru": "чем",
+        "de": "als"
+      }
+    ],
+    "so": [
+      {
+        "en": "so",
+        "ru": "итак, значит",
+        "de": "also"
+      }
+    ],
+    "old": [
+      {
+        "en": "old",
+        "ru": "старый",
+        "de": "alt"
+      }
+    ],
+    "old_building": [
+      {
+        "en": "old_building",
+        "ru": "старое здание, старый дом",
+        "de": "Altbau"
+      }
+    ],
+    "nursing_home": [
+      {
+        "en": "nursing_home",
+        "ru": "дом престарелых, учреждение по уходу",
+        "de": "Altenpflegeheim"
+      }
+    ],
+    "traffic_light": [
+      {
+        "en": "traffic_light",
+        "ru": "светофор",
+        "de": "Ampel"
+      }
+    ],
+    "at": [
+      {
+        "en": "at",
+        "ru": "у, на, к",
+        "de": "an"
+      }
+    ],
+    "attached": [
+      {
+        "en": "attached",
+        "ru": "в приложении, прилагается",
+        "de": "anbei"
+      }
+    ],
+    "other": [
+      {
+        "en": "other",
+        "ru": "другой",
+        "de": "andere"
+      }
+    ],
+    "begin": [
+      {
+        "en": "begin",
+        "ru": "начинать",
+        "de": "anfangen"
+      }
+    ],
+    "detail": [
+      {
+        "en": "detail",
+        "ru": "данные, указание",
+        "de": "Angabe"
+      }
+    ],
+    "offer": [
+      {
+        "en": "offer",
+        "ru": "предложение",
+        "de": "Angebot"
+      }
+    ],
+    "arrival_time": [
+      {
+        "en": "arrival_time",
+        "ru": "время прибытия",
+        "de": "Ankunftszeit"
+      }
+    ],
+    "register": [
+      {
+        "en": "register",
+        "ru": "регистрироваться",
+        "de": "anmelden"
+      }
+    ],
+    "registration": [
+      {
+        "en": "registration",
+        "ru": "регистрация",
+        "de": "Anmeldung"
+      }
+    ],
+    "anorak": [
+      {
+        "en": "anorak",
+        "ru": "анорак, куртка",
+        "de": "Anorak"
+      }
+    ],
+    "salutation": [
+      {
+        "en": "salutation",
+        "ru": "обращение, приветствие",
+        "de": "Anrede"
+      }
+    ],
+    "call": [
+      {
+        "en": "call",
+        "ru": "звонить",
+        "de": "anrufen"
+      }
+    ],
+    "announcement": [
+      {
+        "en": "announcement",
+        "ru": "объявление, сообщение",
+        "de": "Ansage"
+      }
+    ],
+    "answer_noun": [
+      {
+        "en": "answer",
+        "ru": "ответ",
+        "de": "Antwort"
+      }
+    ],
+    "answer_verb": [
+      {
+        "en": "answer",
+        "ru": "отвечать",
+        "de": "antworten"
+      }
+    ],
+    "advertisement": [
+      {
+        "en": "advertisement",
+        "ru": "объявление, реклама",
+        "de": "Anzeige"
+      }
+    ],
+    "put_on": [
+      {
+        "en": "put_on",
+        "ru": "надевать",
+        "de": "anziehen"
+      }
+    ],
+    "suit": [
+      {
+        "en": "suit",
+        "ru": "костюм",
+        "de": "Anzug"
+      }
+    ],
+    "apple": [
+      {
+        "en": "apple",
+        "ru": "яблоко",
+        "de": "Apfel"
+      }
+    ],
+    "apple_juice": [
+      {
+        "en": "apple_juice",
+        "ru": "яблочный сок",
+        "de": "Apfelsaft"
+      }
+    ],
+    "pharmacy": [
+      {
+        "en": "pharmacy",
+        "ru": "аптека",
+        "de": "Apotheke"
+      }
+    ],
+    "april": [
+      {
+        "en": "april",
+        "ru": "апрель",
+        "de": "April"
+      }
+    ],
+    "work_noun": [
+      {
+        "en": "work",
+        "ru": "работа",
+        "de": "Arbeit"
+      }
+    ],
+    "work_verb": [
+      {
+        "en": "work",
+        "ru": "работать",
+        "de": "arbeiten"
+      }
+    ],
+    "working_day": [
+      {
+        "en": "working_day",
+        "ru": "рабочий день",
+        "de": "Arbeitstag"
+      }
+    ],
+    "study": [
+      {
+        "en": "study",
+        "ru": "кабинет, рабочая комната",
+        "de": "Arbeitszimmer"
+      }
+    ],
+    "arm": [
+      {
+        "en": "arm",
+        "ru": "рука",
+        "de": "Arm"
+      }
+    ],
+    "doctor": [
+      {
+        "en": "doctor",
+        "ru": "врач",
+        "de": "Arzt/Ärztin"
+      }
+    ],
+    "breathe": [
+      {
+        "en": "breathe",
+        "ru": "дышать",
+        "de": "atmen"
+      }
+    ],
+    "also_too": [
+      {
+        "en": "also",
+        "ru": "тоже, также",
+        "de": "auch"
+      }
+    ],
+    "on": [
+      {
+        "en": "on",
+        "ru": "на",
+        "de": "auf"
+      }
+    ],
+    "task": [
+      {
+        "en": "task",
+        "ru": "задача",
+        "de": "Aufgabe"
+      }
+    ],
+    "get_upset": [
+      {
+        "en": "get_upset",
+        "ru": "расстраиваться, злиться",
+        "de": "aufregen"
+      }
+    ],
+    "get_up": [
+      {
+        "en": "get_up",
+        "ru": "вставать",
+        "de": "aufstehen"
+      }
+    ],
+    "grow_up": [
+      {
+        "en": "grow_up",
+        "ru": "вырастать",
+        "de": "aufwachsen"
+      }
+    ],
+    "eye": [
+      {
+        "en": "eye",
+        "ru": "глаз",
+        "de": "Auge"
+      }
+    ],
+    "august": [
+      {
+        "en": "august",
+        "ru": "август",
+        "de": "August"
+      }
+    ],
+    "out_of": [
+      {
+        "en": "out_of",
+        "ru": "из",
+        "de": "aus"
+      }
+    ],
+    "training": [
+      {
+        "en": "training",
+        "ru": "обучение, образование",
+        "de": "Ausbildung"
+      }
+    ],
+    "fill_out": [
+      {
+        "en": "fill_out",
+        "ru": "заполнять",
+        "de": "ausfüllen"
+      }
+    ],
+    "temp_worker": [
+      {
+        "en": "temp_worker",
+        "ru": "временный работник, помощник",
+        "de": "Aushilfe"
+      }
+    ],
+    "information": [
+      {
+        "en": "information",
+        "ru": "справка, информация",
+        "de": "Auskunft"
+      }
+    ],
+    "statement": [
+      {
+        "en": "statement",
+        "ru": "высказывание, заявление",
+        "de": "Aussage"
+      }
+    ],
+    "besides": [
+      {
+        "en": "besides",
+        "ru": "кроме того",
+        "de": "außerdem"
+      }
+    ],
+    "unscheduled": [
+      {
+        "en": "unscheduled",
+        "ru": "внеплановый",
+        "de": "außerplanmäßig"
+      }
+    ],
+    "car": [
+      {
+        "en": "car",
+        "ru": "машина, автомобиль",
+        "de": "Auto"
+      }
+    ],
+    "auto_mechanic": [
+      {
+        "en": "auto_mechanic",
+        "ru": "автомеханик",
+        "de": "Automechaniker"
+      }
+    ]
+  },
+  "b": {
+    "baby_food": [
+      {
+        "en": "baby_food",
+        "ru": "детское питание",
+        "de": "Babynahrung"
+      }
+    ],
+    "bake": [
+      {
+        "en": "bake",
+        "ru": "печь, выпекать",
+        "de": "backen"
+      }
+    ],
+    "baker": [
+      {
+        "en": "baker",
+        "ru": "пекарь",
+        "de": "Bäcker/in"
+      }
+    ],
+    "bath": [
+      {
+        "en": "bath",
+        "ru": "ванна, купание",
+        "de": "Bad"
+      }
+    ],
+    "bathe": [
+      {
+        "en": "bathe",
+        "ru": "купаться",
+        "de": "baden"
+      }
+    ],
+    "bathtub": [
+      {
+        "en": "bathtub",
+        "ru": "ванна",
+        "de": "Badewanne"
+      }
+    ],
+    "bathroom": [
+      {
+        "en": "bathroom",
+        "ru": "ванная комната",
+        "de": "Badezimmer"
+      }
+    ],
+    "railway": [
+      {
+        "en": "railway",
+        "ru": "железная дорога, поезд",
+        "de": "Bahn"
+      }
+    ],
+    "train_station": [
+      {
+        "en": "train_station",
+        "ru": "вокзал",
+        "de": "Bahnhof"
+      }
+    ],
+    "soon": [
+      {
+        "en": "soon",
+        "ru": "скоро",
+        "de": "bald"
+      }
+    ],
+    "balcony": [
+      {
+        "en": "balcony",
+        "ru": "балкон",
+        "de": "Balkon"
+      }
+    ],
+    "ball": [
+      {
+        "en": "ball",
+        "ru": "мяч",
+        "de": "Ball"
+      }
+    ],
+    "banana": [
+      {
+        "en": "banana",
+        "ru": "банан",
+        "de": "Banane"
+      }
+    ],
+    "bank": [
+      {
+        "en": "bank, bench",
+        "ru": "банк, скамейка",
+        "de": "Bank"
+      }
+    ],
+    "belly": [
+      {
+        "en": "belly",
+        "ru": "живот",
+        "de": "Bauch"
+      }
+    ],
+    "stomachache": [
+      {
+        "en": "stomachache",
+        "ru": "боль в животе",
+        "de": "Bauchschmerzen"
+      }
+    ],
+    "build": [
+      {
+        "en": "build",
+        "ru": "строить",
+        "de": "bauen"
+      }
+    ],
+    "farm": [
+      {
+        "en": "farm",
+        "ru": "ферма",
+        "de": "Bauernhof"
+      }
+    ],
+    "tree": [
+      {
+        "en": "tree",
+        "ru": "дерево",
+        "de": "Baum"
+      }
+    ],
+    "answer": [
+      {
+        "en": "answer",
+        "ru": "отвечать",
+        "de": "beantworten"
+      }
+    ],
+    "cup": [
+      {
+        "en": "cup",
+        "ru": "стакан, кружка",
+        "de": "Becher"
+      }
+    ],
+    "begin": [
+      {
+        "en": "begin",
+        "ru": "начинать",
+        "de": "beginnen"
+      }
+    ],
+    "at_with": [
+      {
+        "en": "at, with, near",
+        "ru": "у, при, у кого-то",
+        "de": "bei"
+      }
+    ],
+    "both": [
+      {
+        "en": "both",
+        "ru": "оба, обе",
+        "de": "beide"
+      }
+    ],
+    "beige": [
+      {
+        "en": "beige",
+        "ru": "бежевый",
+        "de": "beige"
+      }
+    ],
+    "leg": [
+      {
+        "en": "leg",
+        "ru": "нога",
+        "de": "Bein"
+      }
+    ],
+    "example": [
+      {
+        "en": "example",
+        "ru": "пример",
+        "de": "Beispiel"
+      }
+    ],
+    "get": [
+      {
+        "en": "get, receive",
+        "ru": "получать",
+        "de": "bekommen"
+      }
+    ],
+    "use": [
+      {
+        "en": "use",
+        "ru": "использовать",
+        "de": "benutzen"
+      }
+    ],
+    "comfortable": [
+      {
+        "en": "comfortable",
+        "ru": "удобный",
+        "de": "bequem"
+      }
+    ],
+    "report": [
+      {
+        "en": "report",
+        "ru": "сообщать, рассказывать",
+        "de": "berichten"
+      }
+    ],
+    "profession": [
+      {
+        "en": "profession",
+        "ru": "профессия",
+        "de": "Beruf"
+      }
+    ],
+    "professional": [
+      {
+        "en": "professional",
+        "ru": "профессиональный, по профессии",
+        "de": "beruflich"
+      }
+    ],
+    "notice": [
+      {
+        "en": "notice, information",
+        "ru": "известие, информация",
+        "de": "Bescheid"
+      }
+    ],
+    "viewing_appointment": [
+      {
+        "en": "viewing_appointment",
+        "ru": "встреча для осмотра",
+        "de": "Besichtigungstermin"
+      }
+    ],
+    "better": [
+      {
+        "en": "better",
+        "ru": "лучше",
+        "de": "besser"
+      }
+    ],
+    "recovery": [
+      {
+        "en": "recovery, improvement",
+        "ru": "выздоровление, улучшение",
+        "de": "Besserung"
+      }
+    ],
+    "best": [
+      {
+        "en": "best",
+        "ru": "лучше всего",
+        "de": "besten (am besten)"
+      }
+    ],
+    "certainly": [
+      {
+        "en": "certainly",
+        "ru": "определенно, точно",
+        "de": "bestimmt"
+      }
+    ],
+    "visit_noun": [
+      {
+        "en": "visit",
+        "ru": "визит, посещение",
+        "de": "Besuch"
+      }
+    ],
+    "visit_verb": [
+      {
+        "en": "visit",
+        "ru": "посещать",
+        "de": "besuchen"
+      }
+    ],
+    "subject": [
+      {
+        "en": "subject",
+        "ru": "тема",
+        "de": "Betreff"
+      }
+    ],
+    "bed": [
+      {
+        "en": "bed",
+        "ru": "кровать",
+        "de": "Bett"
+      }
+    ],
+    "before": [
+      {
+        "en": "before",
+        "ru": "прежде чем, перед тем как",
+        "de": "bevor"
+      }
+    ],
+    "movement": [
+      {
+        "en": "movement",
+        "ru": "движение",
+        "de": "Bewegung"
+      }
+    ],
+    "cloudy": [
+      {
+        "en": "cloudy",
+        "ru": "облачно",
+        "de": "bewölkt"
+      }
+    ],
+    "pay": [
+      {
+        "en": "pay",
+        "ru": "платить, оплачивать",
+        "de": "bezahlen"
+      }
+    ],
+    "library": [
+      {
+        "en": "library",
+        "ru": "библиотека",
+        "de": "Bibliothek"
+      }
+    ],
+    "beer": [
+      {
+        "en": "beer",
+        "ru": "пиво",
+        "de": "Bier"
+      }
+    ],
+    "picture": [
+      {
+        "en": "picture",
+        "ru": "картина, изображение",
+        "de": "Bild"
+      }
+    ],
+    "form": [
+      {
+        "en": "form",
+        "ru": "образовывать",
+        "de": "bilden"
+      }
+    ],
+    "cheap": [
+      {
+        "en": "cheap",
+        "ru": "дешевый",
+        "de": "billig"
+      }
+    ],
+    "pear": [
+      {
+        "en": "pear",
+        "ru": "груша",
+        "de": "Birne"
+      }
+    ],
+    "until": [
+      {
+        "en": "until",
+        "ru": "до",
+        "de": "bis"
+      }
+    ],
+    "a_little": [
+      {
+        "en": "a_little",
+        "ru": "немного",
+        "de": "bisschen"
+      }
+    ],
+    "bistro": [
+      {
+        "en": "bistro",
+        "ru": "бистро",
+        "de": "Bistro"
+      }
+    ],
+    "please": [
+      {
+        "en": "please",
+        "ru": "пожалуйста",
+        "de": "bitte"
+      }
+    ],
+    "leaf": [
+      {
+        "en": "leaf",
+        "ru": "лист",
+        "de": "Blatt"
+      }
+    ],
+    "blue": [
+      {
+        "en": "blue",
+        "ru": "синий",
+        "de": "blau"
+      }
+    ],
+    "blueberry": [
+      {
+        "en": "blueberry",
+        "ru": "черника, голубика",
+        "de": "Blaubeere"
+      }
+    ],
+    "stay": [
+      {
+        "en": "stay",
+        "ru": "оставаться",
+        "de": "bleiben"
+      }
+    ],
+    "pencil": [
+      {
+        "en": "pencil",
+        "ru": "карандаш",
+        "de": "Bleistift"
+      }
+    ],
+    "stupid": [
+      {
+        "en": "stupid",
+        "ru": "глупый",
+        "de": "blöd"
+      }
+    ],
+    "flower": [
+      {
+        "en": "flower",
+        "ru": "цветок",
+        "de": "Blume"
+      }
+    ],
+    "blouse": [
+      {
+        "en": "blouse",
+        "ru": "блузка",
+        "de": "Bluse"
+      }
+    ],
+    "bean": [
+      {
+        "en": "bean",
+        "ru": "фасоль, боб",
+        "de": "Bohne"
+      }
+    ],
+    "need": [
+      {
+        "en": "need",
+        "ru": "нуждаться",
+        "de": "brauchen"
+      }
+    ],
+    "brown": [
+      {
+        "en": "brown",
+        "ru": "коричневый",
+        "de": "braun"
+      }
+    ],
+    "bride": [
+      {
+        "en": "bride",
+        "ru": "невеста",
+        "de": "Braut"
+      }
+    ],
+    "wide": [
+      {
+        "en": "wide, broad",
+        "ru": "широкий",
+        "de": "breit"
+      }
+    ],
+    "letter": [
+      {
+        "en": "letter",
+        "ru": "письмо",
+        "de": "Brief"
+      }
+    ],
+    "letter_part": [
+      {
+        "en": "letter_part",
+        "ru": "часть письма",
+        "de": "Briefteil"
+      }
+    ],
+    "bring": [
+      {
+        "en": "bring",
+        "ru": "приносить, привозить",
+        "de": "bringen"
+      }
+    ],
+    "bread": [
+      {
+        "en": "bread",
+        "ru": "хлеб",
+        "de": "Brot"
+      }
+    ],
+    "bread_roll": [
+      {
+        "en": "bread_roll",
+        "ru": "булочка",
+        "de": "Brötchen"
+      }
+    ],
+    "brother": [
+      {
+        "en": "brother",
+        "ru": "брат",
+        "de": "Bruder"
+      }
+    ],
+    "chest": [
+      {
+        "en": "chest",
+        "ru": "грудь",
+        "de": "Brust"
+      }
+    ],
+    "spell": [
+      {
+        "en": "spell",
+        "ru": "произносить по буквам",
+        "de": "buchstabieren"
+      }
+    ],
+    "citizens_office": [
+      {
+        "en": "citizens_office",
+        "ru": "бюро по делам граждан",
+        "de": "Bürgerbüro"
+      }
+    ],
+    "office": [
+      {
+        "en": "office",
+        "ru": "офис, бюро",
+        "de": "Büro"
+      }
+    ],
+    "office_clerk": [
+      {
+        "en": "office_clerk",
+        "ru": "офис-менеджер, офисный служащий",
+        "de": "Bürokaufmann/Bürokauffrau"
+      }
+    ],
+    "bus": [
+      {
+        "en": "bus",
+        "ru": "автобус",
+        "de": "Bus"
+      }
+    ],
+    "bus_stop": [
+      {
+        "en": "bus_stop",
+        "ru": "автобусная остановка",
+        "de": "Bushaltestelle"
+      }
+    ],
+    "cafe": [
+      {
+        "en": "cafe",
+        "ru": "кафе",
+        "de": "Café"
+      }
+    ],
+    "cent": [
+      {
+        "en": "cent",
+        "ru": "цент",
+        "de": "Cent"
+      }
+    ],
+    "boss": [
+      {
+        "en": "boss",
+        "ru": "начальник, начальница",
+        "de": "Chef/in"
+      }
+    ],
+    "circa": [
+      {
+        "en": "circa",
+        "ru": "около, приблизительно",
+        "de": "circa"
+      }
+    ],
+    "cola": [
+      {
+        "en": "cola",
+        "ru": "кола",
+        "de": "Cola"
+      }
+    ],
+    "computer": [
+      {
+        "en": "computer",
+        "ru": "компьютер",
+        "de": "Computer"
+      }
+    ],
+    "computer_program": [
+      {
+        "en": "computer_program",
+        "ru": "компьютерная программа",
+        "de": "Computerprogramm"
+      }
+    ],
+    "computer_game": [
+      {
+        "en": "computer_game",
+        "ru": "компьютерная игра",
+        "de": "Computerspiel"
+      }
+    ],
+    "computer_system": [
+      {
+        "en": "computer_system",
+        "ru": "компьютерная система",
+        "de": "Computersystem"
+      }
+    ],
+    "couscous": [
+      {
+        "en": "couscous",
+        "ru": "кускус",
+        "de": "Couscous"
+      }
+    ]
+  },
+  "d": {
+    "there": [
+      {
+        "en": "there",
+        "ru": "там",
+        "de": "da"
+      }
+    ],
+    "for_it": [
+      {
+        "en": "for_it",
+        "ru": "для этого, за это",
+        "de": "dafür"
+      }
+    ],
+    "afterwards": [
+      {
+        "en": "afterwards",
+        "ru": "потом, после этого",
+        "de": "danach"
+      }
+    ],
+    "gratitude": [
+      {
+        "en": "gratitude",
+        "ru": "благодарность",
+        "de": "Dank"
+      }
+    ],
+    "thank_you": [
+      {
+        "en": "thank_you",
+        "ru": "спасибо",
+        "de": "danke"
+      }
+    ],
+    "then": [
+      {
+        "en": "then",
+        "ru": "тогда, потом",
+        "de": "dann"
+      }
+    ],
+    "about_it": [
+      {
+        "en": "about_it",
+        "ru": "об этом",
+        "de": "darüber"
+      }
+    ],
+    "the_neuter": [
+      {
+        "en": "the_neuter",
+        "ru": "определенный артикль среднего рода",
+        "de": "das"
+      }
+    ],
+    "date": [
+      {
+        "en": "date",
+        "ru": "дата",
+        "de": "Datum"
+      }
+    ],
+    "last": [
+      {
+        "en": "last",
+        "ru": "длиться",
+        "de": "dauern"
+      }
+    ],
+    "for_that": [
+      {
+        "en": "for_that",
+        "ru": "к этому, для этого",
+        "de": "dazu"
+      }
+    ],
+    "your": [
+      {
+        "en": "your",
+        "ru": "твой, твоя",
+        "de": "dein/deine"
+      }
+    ],
+    "think": [
+      {
+        "en": "think",
+        "ru": "думать",
+        "de": "denken"
+      }
+    ],
+    "because": [
+      {
+        "en": "because",
+        "ru": "потому что",
+        "de": "denn"
+      }
+    ],
+    "the_masculine": [
+      {
+        "en": "the_masculine",
+        "ru": "определенный артикль мужского рода",
+        "de": "der"
+      }
+    ],
+    "german": [
+      {
+        "en": "german",
+        "ru": "немецкий язык",
+        "de": "Deutsch"
+      }
+    ],
+    "german_course": [
+      {
+        "en": "german_course",
+        "ru": "курс немецкого языка",
+        "de": "Deutschkurs"
+      }
+    ],
+    "map_of_germany": [
+      {
+        "en": "map_of_germany",
+        "ru": "карта Германии",
+        "de": "Deutschlandkarte"
+      }
+    ],
+    "december": [
+      {
+        "en": "december",
+        "ru": "декабрь",
+        "de": "Dezember"
+      }
+    ],
+    "dialogue": [
+      {
+        "en": "dialogue",
+        "ru": "диалог",
+        "de": "Dialog"
+      }
+    ],
+    "the_feminine": [
+      {
+        "en": "the_feminine",
+        "ru": "определенный артикль женского рода",
+        "de": "die"
+      }
+    ],
+    "hallway": [
+      {
+        "en": "hallway",
+        "ru": "прихожая, коридор",
+        "de": "Diele"
+      }
+    ],
+    "service": [
+      {
+        "en": "service",
+        "ru": "служба, дежурство",
+        "de": "Dienst"
+      }
+    ],
+    "tuesday": [
+      {
+        "en": "tuesday",
+        "ru": "вторник",
+        "de": "Dienstag"
+      }
+    ],
+    "this": [
+      {
+        "en": "this",
+        "ru": "этот, эта, это",
+        "de": "dieser/diese/dieses"
+      }
+    ],
+    "to_you": [
+      {
+        "en": "to_you",
+        "ru": "тебе",
+        "de": "dir"
+      }
+    ],
+    "directly": [
+      {
+        "en": "directly",
+        "ru": "прямо, непосредственно",
+        "de": "direkt"
+      }
+    ],
+    "after_all": [
+      {
+        "en": "after_all",
+        "ru": "ведь, же, всё-таки",
+        "de": "doch"
+      }
+    ],
+    "thursday": [
+      {
+        "en": "thursday",
+        "ru": "четверг",
+        "de": "Donnerstag"
+      }
+    ],
+    "there_over_there": [
+      {
+        "en": "there_over_there",
+        "ru": "вон там",
+        "de": "dort"
+      }
+    ],
+    "can": [
+      {
+        "en": "can",
+        "ru": "банка",
+        "de": "Dose"
+      }
+    ],
+    "outside": [
+      {
+        "en": "outside",
+        "ru": "снаружи, на улице",
+        "de": "draußen"
+      }
+    ],
+    "three_times": [
+      {
+        "en": "three_times",
+        "ru": "три раза",
+        "de": "dreimal"
+      }
+    ],
+    "urgent": [
+      {
+        "en": "urgent",
+        "ru": "срочно, срочный",
+        "de": "dringend"
+      }
+    ],
+    "third": [
+      {
+        "en": "third",
+        "ru": "третий, третья, третье",
+        "de": "dritte"
+      }
+    ],
+    "you": [
+      {
+        "en": "you",
+        "ru": "ты",
+        "de": "du"
+      }
+    ],
+    "dark": [
+      {
+        "en": "dark",
+        "ru": "темный, темно",
+        "de": "dunkel"
+      }
+    ],
+    "through": [
+      {
+        "en": "through",
+        "ru": "через, сквозь",
+        "de": "durch"
+      }
+    ],
+    "announcement": [
+      {
+        "en": "announcement",
+        "ru": "объявление по громкой связи",
+        "de": "Durchsage"
+      }
+    ],
+    "may": [
+      {
+        "en": "may",
+        "ru": "мочь, иметь разрешение",
+        "de": "dürfen"
+      }
+    ],
+    "shower": [
+      {
+        "en": "shower",
+        "ru": "душ",
+        "de": "Dusche"
+      }
+    ]
+  }
+}
