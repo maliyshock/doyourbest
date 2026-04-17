@@ -337,7 +337,7 @@ function App() {
           <span>German A1 trainer</span>
           <span className="app-title-meta">
             {hasCurrentBlock
-              ? `${completedWordsCount}/${currentBlockWords.length + 1} in block`
+              ? `${completedWordsCount}/${currentBlockWords.length} in block`
               : `${words.length} words`}
           </span>
         </h1>
