@@ -1,1401 +1,6621 @@
 {
   "a": {
-    "from": [
-      {
-        "en": "from",
-        "ru": "с, от",
-        "de": "ab"
-      }
-    ],
-    "evening": [
-      {
-        "en": "evening",
-        "ru": "вечер",
-        "de": "Abend"
-      }
-    ],
-    "in_the_evening": [
-      {
-        "en": "in_the_evening",
-        "ru": "вечером",
-        "de": "abends"
-      }
-    ],
-    "but": [
-      {
-        "en": "but",
-        "ru": "но",
-        "de": "aber"
-      }
-    ],
-    "cancel": [
-      {
-        "en": "cancel",
-        "ru": "отменять",
-        "de": "absagen"
-      }
-    ],
-    "sender": [
-      {
-        "en": "sender",
-        "ru": "отправитель",
-        "de": "Absender"
-      }
-    ],
-    "attention": [
-      {
-        "en": "attention",
-        "ru": "внимание",
-        "de": "Achtung"
-      }
-    ],
-    "address": [
-      {
-        "en": "address",
-        "ru": "адрес",
-        "de": "Adresse"
-      }
-    ],
-    "idea": [
-      {
-        "en": "idea",
-        "ru": "представление, догадка",
-        "de": "Ahnung"
-      }
-    ],
-    "alone": [
-      {
-        "en": "alone",
-        "ru": "один, одинокий",
-        "de": "allein"
-      }
-    ],
-    "everything": [
-      {
-        "en": "everything",
-        "ru": "всё",
-        "de": "alles"
-      }
-    ],
-    "everyday_life": [
-      {
-        "en": "everyday_life",
-        "ru": "повседневная жизнь, быт",
-        "de": "Alltag"
-      }
-    ],
-    "than": [
-      {
-        "en": "than",
-        "ru": "чем",
-        "de": "als"
-      }
-    ],
-    "so": [
-      {
-        "en": "so",
-        "ru": "итак, значит",
-        "de": "also"
-      }
-    ],
-    "old": [
-      {
-        "en": "old",
-        "ru": "старый",
-        "de": "alt"
-      }
-    ],
-    "old_building": [
-      {
-        "en": "old_building",
-        "ru": "старое здание, старый дом",
-        "de": "Altbau"
-      }
-    ],
-    "nursing_home": [
-      {
-        "en": "nursing_home",
-        "ru": "дом престарелых, учреждение по уходу",
-        "de": "Altenpflegeheim"
-      }
-    ],
-    "traffic_light": [
-      {
-        "en": "traffic_light",
-        "ru": "светофор",
-        "de": "Ampel"
-      }
-    ],
-    "at": [
-      {
-        "en": "at",
-        "ru": "у, на, к",
-        "de": "an"
-      }
-    ],
-    "attached": [
-      {
-        "en": "attached",
-        "ru": "в приложении, прилагается",
-        "de": "anbei"
-      }
-    ],
-    "other": [
-      {
-        "en": "other",
-        "ru": "другой",
-        "de": "andere"
-      }
-    ],
-    "begin": [
-      {
-        "en": "begin",
-        "ru": "начинать",
-        "de": "anfangen"
-      }
-    ],
-    "detail": [
-      {
-        "en": "detail",
-        "ru": "данные, указание",
-        "de": "Angabe"
-      }
-    ],
-    "offer": [
-      {
-        "en": "offer",
-        "ru": "предложение",
-        "de": "Angebot"
-      }
-    ],
-    "arrival_time": [
-      {
-        "en": "arrival_time",
-        "ru": "время прибытия",
-        "de": "Ankunftszeit"
-      }
-    ],
-    "register": [
-      {
-        "en": "register",
-        "ru": "регистрироваться",
-        "de": "anmelden"
-      }
-    ],
-    "registration": [
-      {
-        "en": "registration",
-        "ru": "регистрация",
-        "de": "Anmeldung"
-      }
-    ],
-    "anorak": [
-      {
-        "en": "anorak",
-        "ru": "анорак, куртка",
-        "de": "Anorak"
-      }
-    ],
-    "salutation": [
-      {
-        "en": "salutation",
-        "ru": "обращение, приветствие",
-        "de": "Anrede"
-      }
-    ],
-    "call": [
-      {
-        "en": "call",
-        "ru": "звонить",
-        "de": "anrufen"
-      }
-    ],
-    "announcement": [
-      {
-        "en": "announcement",
-        "ru": "объявление, сообщение",
-        "de": "Ansage"
-      }
-    ],
-    "answer_noun": [
-      {
-        "en": "answer",
-        "ru": "ответ",
-        "de": "Antwort"
-      }
-    ],
-    "answer_verb": [
-      {
-        "en": "answer",
-        "ru": "отвечать",
-        "de": "antworten"
-      }
-    ],
-    "advertisement": [
-      {
-        "en": "advertisement",
-        "ru": "объявление, реклама",
-        "de": "Anzeige"
-      }
-    ],
-    "put_on": [
-      {
-        "en": "put_on",
-        "ru": "надевать",
-        "de": "anziehen"
-      }
-    ],
-    "suit": [
-      {
-        "en": "suit",
-        "ru": "костюм",
-        "de": "Anzug"
-      }
-    ],
-    "apple": [
-      {
-        "en": "apple",
-        "ru": "яблоко",
-        "de": "Apfel"
-      }
-    ],
-    "apple_juice": [
-      {
-        "en": "apple_juice",
-        "ru": "яблочный сок",
-        "de": "Apfelsaft"
-      }
-    ],
-    "pharmacy": [
-      {
-        "en": "pharmacy",
-        "ru": "аптека",
-        "de": "Apotheke"
-      }
-    ],
-    "april": [
-      {
-        "en": "april",
-        "ru": "апрель",
-        "de": "April"
-      }
-    ],
-    "work_noun": [
-      {
-        "en": "work",
-        "ru": "работа",
-        "de": "Arbeit"
-      }
-    ],
-    "work_verb": [
-      {
-        "en": "work",
-        "ru": "работать",
-        "de": "arbeiten"
-      }
-    ],
-    "working_day": [
-      {
-        "en": "working_day",
-        "ru": "рабочий день",
-        "de": "Arbeitstag"
-      }
-    ],
-    "study": [
-      {
-        "en": "study",
-        "ru": "кабинет, рабочая комната",
-        "de": "Arbeitszimmer"
-      }
-    ],
-    "arm": [
-      {
-        "en": "arm",
-        "ru": "рука",
-        "de": "Arm"
-      }
-    ],
-    "doctor": [
-      {
-        "en": "doctor",
-        "ru": "врач",
-        "de": "Arzt/Ärztin"
-      }
-    ],
-    "breathe": [
-      {
-        "en": "breathe",
-        "ru": "дышать",
-        "de": "atmen"
-      }
-    ],
-    "also_too": [
-      {
-        "en": "also",
-        "ru": "тоже, также",
-        "de": "auch"
-      }
-    ],
-    "on": [
-      {
-        "en": "on",
-        "ru": "на",
-        "de": "auf"
-      }
-    ],
-    "task": [
-      {
-        "en": "task",
-        "ru": "задача",
-        "de": "Aufgabe"
-      }
-    ],
-    "get_upset": [
-      {
-        "en": "get_upset",
-        "ru": "расстраиваться, злиться",
-        "de": "aufregen"
-      }
-    ],
-    "get_up": [
-      {
-        "en": "get_up",
-        "ru": "вставать",
-        "de": "aufstehen"
-      }
-    ],
-    "grow_up": [
-      {
-        "en": "grow_up",
-        "ru": "вырастать",
-        "de": "aufwachsen"
-      }
-    ],
-    "eye": [
-      {
-        "en": "eye",
-        "ru": "глаз",
-        "de": "Auge"
-      }
-    ],
-    "august": [
-      {
-        "en": "august",
-        "ru": "август",
-        "de": "August"
-      }
-    ],
-    "out_of": [
-      {
-        "en": "out_of",
-        "ru": "из",
-        "de": "aus"
-      }
-    ],
-    "training": [
-      {
-        "en": "training",
-        "ru": "обучение, образование",
-        "de": "Ausbildung"
-      }
-    ],
-    "fill_out": [
-      {
-        "en": "fill_out",
-        "ru": "заполнять",
-        "de": "ausfüllen"
-      }
-    ],
-    "temp_worker": [
-      {
-        "en": "temp_worker",
-        "ru": "временный работник, помощник",
-        "de": "Aushilfe"
-      }
-    ],
-    "information": [
-      {
-        "en": "information",
-        "ru": "справка, информация",
-        "de": "Auskunft"
-      }
-    ],
-    "statement": [
-      {
-        "en": "statement",
-        "ru": "высказывание, заявление",
-        "de": "Aussage"
-      }
-    ],
-    "besides": [
-      {
-        "en": "besides",
-        "ru": "кроме того",
-        "de": "außerdem"
-      }
-    ],
-    "unscheduled": [
-      {
-        "en": "unscheduled",
-        "ru": "внеплановый",
-        "de": "außerplanmäßig"
-      }
-    ],
-    "car": [
-      {
-        "en": "car",
-        "ru": "машина, автомобиль",
-        "de": "Auto"
-      }
-    ],
-    "auto_mechanic": [
-      {
-        "en": "auto_mechanic",
-        "ru": "автомеханик",
-        "de": "Automechaniker"
-      }
-    ]
+    "from": {
+      "en": ["from"],
+      "ru": ["с", "от"],
+      "de": ["ab"],
+      "example": ["Der Kurs beginnt ab Montag."]
+    },
+    "evening": {
+      "en": ["evening"],
+      "ru": ["вечер"],
+      "de": ["der Abend"],
+      "example": ["Das ist der Abend."]
+    },
+    "in_the_evening": {
+      "en": ["in_the_evening"],
+      "ru": ["вечером"],
+      "de": ["abends"],
+      "example": ["Abends lese ich gern."]
+    },
+    "but": {
+      "en": ["but"],
+      "ru": ["но"],
+      "de": ["aber"],
+      "example": ["Ich komme, aber ich bin spät."]
+    },
+    "cancel": {
+      "en": ["cancel"],
+      "ru": ["отменять"],
+      "de": ["absagen"],
+      "example": ["Ich möchte absagen."]
+    },
+    "sender": {
+      "en": ["sender"],
+      "ru": ["отправитель"],
+      "de": ["der Absender"],
+      "example": ["Das ist der Absender."]
+    },
+    "attention": {
+      "en": ["attention"],
+      "ru": ["внимание"],
+      "de": ["die Achtung"],
+      "example": ["Das ist die Achtung."]
+    },
+    "address": {
+      "en": ["address"],
+      "ru": ["адрес"],
+      "de": ["die Adresse"],
+      "example": ["Die Adresse sind hier."]
+    },
+    "idea": {
+      "en": ["idea"],
+      "ru": ["представление", "догадка"],
+      "de": ["die Ahnung"],
+      "example": ["Das ist die Ahnung."]
+    },
+    "alone": {
+      "en": ["alone"],
+      "ru": ["один", "одинокий"],
+      "de": ["allein"],
+      "example": ["Das ist allein."]
+    },
+    "everything": {
+      "en": ["everything"],
+      "ru": ["всё"],
+      "de": ["alles"],
+      "example": ["Alles ist bereit."]
+    },
+    "everyday_life": {
+      "en": ["everyday_life"],
+      "ru": ["повседневная жизнь", "быт"],
+      "de": ["der Alltag"],
+      "example": ["Das ist der Alltag."]
+    },
+    "than": {
+      "en": ["than"],
+      "ru": ["чем"],
+      "de": ["als"],
+      "example": ["Heute ist es wärmer als gestern."]
+    },
+    "so": {
+      "en": ["so"],
+      "ru": ["итак", "значит"],
+      "de": ["also"],
+      "example": ["Also, wir fangen jetzt an."]
+    },
+    "old": {
+      "en": ["old"],
+      "ru": ["старый"],
+      "de": ["alt"],
+      "example": ["Das ist alt."]
+    },
+    "old_building": {
+      "en": ["old_building"],
+      "ru": ["старое здание", "старый дом"],
+      "de": ["der Altbau"],
+      "example": ["Das ist der Altbau."]
+    },
+    "nursing_home": {
+      "en": ["nursing_home"],
+      "ru": ["дом престарелых", "учреждение по уходу"],
+      "de": ["das Altenpflegeheim"],
+      "example": ["Das ist das Altenpflegeheim."]
+    },
+    "traffic_light": {
+      "en": ["traffic_light"],
+      "ru": ["светофор"],
+      "de": ["die Ampel"],
+      "example": ["Das ist die Ampel."]
+    },
+    "at": {
+      "en": ["at"],
+      "ru": ["у", "на", "к"],
+      "de": ["an"],
+      "example": ["Das Bild hängt an der Wand."]
+    },
+    "attached": {
+      "en": ["attached"],
+      "ru": ["в приложении", "прилагается"],
+      "de": ["anbei"],
+      "example": ["Anbei sende ich dir die Unterlagen."]
+    },
+    "other": {
+      "en": ["other"],
+      "ru": ["другой"],
+      "de": ["andere"],
+      "example": ["Das ist andere."]
+    },
+    "begin": {
+      "en": ["begin"],
+      "ru": ["начинать"],
+      "de": ["anfangen"],
+      "example": ["Ich möchte anfangen."]
+    },
+    "detail": {
+      "en": ["detail"],
+      "ru": ["данные", "указание"],
+      "de": ["die Angabe"],
+      "example": ["Das ist die Angabe."]
+    },
+    "offer": {
+      "en": ["offer"],
+      "ru": ["предложение"],
+      "de": ["das Angebot"],
+      "example": ["Das ist das Angebot."]
+    },
+    "arrival_time": {
+      "en": ["arrival_time"],
+      "ru": ["время прибытия"],
+      "de": ["die Ankunftszeit"],
+      "example": ["Das ist die Ankunftszeit."]
+    },
+    "register": {
+      "en": ["register"],
+      "ru": ["регистрироваться"],
+      "de": ["anmelden"],
+      "example": ["Ich möchte anmelden."]
+    },
+    "registration": {
+      "en": ["registration"],
+      "ru": ["регистрация"],
+      "de": ["die Anmeldung"],
+      "example": ["Das ist die Anmeldung."]
+    },
+    "anorak": {
+      "en": ["anorak"],
+      "ru": ["анорак", "куртка"],
+      "de": ["der Anorak"],
+      "example": ["Das ist der Anorak."]
+    },
+    "salutation": {
+      "en": ["salutation"],
+      "ru": ["обращение", "приветствие"],
+      "de": ["die Anrede"],
+      "example": ["Das ist die Anrede."]
+    },
+    "call": {
+      "en": ["call"],
+      "ru": ["звонить"],
+      "de": ["anrufen"],
+      "example": ["Ich möchte anrufen."]
+    },
+    "announcement": {
+      "en": ["announcement"],
+      "ru": ["объявление", "сообщение"],
+      "de": ["die Ansage"],
+      "example": ["Das ist die Ansage."]
+    },
+    "answer_noun": {
+      "en": ["answer"],
+      "ru": ["ответ"],
+      "de": ["die Antwort"],
+      "example": ["Das ist die Antwort."]
+    },
+    "answer_verb": {
+      "en": ["answer"],
+      "ru": ["отвечать"],
+      "de": ["antworten"],
+      "example": ["Ich möchte antworten."]
+    },
+    "advertisement": {
+      "en": ["advertisement"],
+      "ru": ["объявление", "реклама"],
+      "de": ["die Anzeige"],
+      "example": ["Das ist die Anzeige."]
+    },
+    "put_on": {
+      "en": ["put_on"],
+      "ru": ["надевать"],
+      "de": ["anziehen"],
+      "example": ["Ich möchte anziehen."]
+    },
+    "suit": {
+      "en": ["suit"],
+      "ru": ["костюм"],
+      "de": ["der Anzug"],
+      "example": ["Das ist der Anzug."]
+    },
+    "apple": {
+      "en": ["apple"],
+      "ru": ["яблоко"],
+      "de": ["der Apfel"],
+      "example": ["Das ist der Apfel."]
+    },
+    "apple_juice": {
+      "en": ["apple_juice"],
+      "ru": ["яблочный сок"],
+      "de": ["der Apfelsaft"],
+      "example": ["Das ist der Apfelsaft."]
+    },
+    "pharmacy": {
+      "en": ["pharmacy"],
+      "ru": ["аптека"],
+      "de": ["die Apotheke"],
+      "example": ["Das ist die Apotheke."]
+    },
+    "april": {
+      "en": ["april"],
+      "ru": ["апрель"],
+      "de": ["der April"],
+      "example": ["Das ist der April."]
+    },
+    "work_noun": {
+      "en": ["work"],
+      "ru": ["работа"],
+      "de": ["die Arbeit"],
+      "example": ["Das ist die Arbeit."]
+    },
+    "work_verb": {
+      "en": ["work"],
+      "ru": ["работать"],
+      "de": ["arbeiten"],
+      "example": ["Ich arbeite im Büro."]
+    },
+    "working_day": {
+      "en": ["working_day"],
+      "ru": ["рабочий день"],
+      "de": ["der Arbeitstag"],
+      "example": ["Das ist der Arbeitstag."]
+    },
+    "study": {
+      "en": ["study"],
+      "ru": ["кабинет", "рабочая комната"],
+      "de": ["das Arbeitszimmer"],
+      "example": ["Das ist das Arbeitszimmer."]
+    },
+    "arm": {
+      "en": ["arm"],
+      "ru": ["рука"],
+      "de": ["der Arm"],
+      "example": ["Das ist der Arm."]
+    },
+    "doctor": {
+      "en": ["doctor"],
+      "ru": ["врач"],
+      "de": ["der Arzt", "die Ärztin"],
+      "example": ["Das ist der Arzt."]
+    },
+    "breathe": {
+      "en": ["breathe"],
+      "ru": ["дышать"],
+      "de": ["atmen"],
+      "example": ["Ich möchte atmen."]
+    },
+    "also_too": {
+      "en": ["also"],
+      "ru": ["тоже", "также"],
+      "de": ["auch"],
+      "example": ["Ich komme auch."]
+    },
+    "on": {
+      "en": ["on"],
+      "ru": ["на"],
+      "de": ["auf"],
+      "example": ["Das Buch liegt auf dem Tisch."]
+    },
+    "task": {
+      "en": ["task"],
+      "ru": ["задача"],
+      "de": ["die Aufgabe"],
+      "example": ["Das ist die Aufgabe."]
+    },
+    "get_upset": {
+      "en": ["get_upset"],
+      "ru": ["расстраиваться", "злиться"],
+      "de": ["aufregen"],
+      "example": ["Ich möchte aufregen."]
+    },
+    "get_up": {
+      "en": ["get_up"],
+      "ru": ["вставать"],
+      "de": ["aufstehen"],
+      "example": ["Ich möchte aufstehen."]
+    },
+    "grow_up": {
+      "en": ["grow_up"],
+      "ru": ["вырастать"],
+      "de": ["aufwachsen"],
+      "example": ["Ich möchte aufwachsen."]
+    },
+    "eye": {
+      "en": ["eye"],
+      "ru": ["глаз"],
+      "de": ["das Auge"],
+      "example": ["Das ist das Auge."]
+    },
+    "august": {
+      "en": ["august"],
+      "ru": ["август"],
+      "de": ["der August"],
+      "example": ["Das ist der August."]
+    },
+    "out_of": {
+      "en": ["out_of"],
+      "ru": ["из"],
+      "de": ["aus"],
+      "example": ["Ich komme aus Berlin."]
+    },
+    "training": {
+      "en": ["training"],
+      "ru": ["обучение", "образование"],
+      "de": ["die Ausbildung"],
+      "example": ["Das ist die Ausbildung."]
+    },
+    "fill_out": {
+      "en": ["fill_out"],
+      "ru": ["заполнять"],
+      "de": ["ausfüllen"],
+      "example": ["Ich möchte ausfüllen."]
+    },
+    "temp_worker": {
+      "en": ["temp_worker"],
+      "ru": ["временный работник", "помощник"],
+      "de": ["die Aushilfe"],
+      "example": ["Das ist die Aushilfe."]
+    },
+    "information": {
+      "en": ["information"],
+      "ru": ["справка", "информация"],
+      "de": ["die Auskunft"],
+      "example": ["Das ist die Auskunft."]
+    },
+    "statement": {
+      "en": ["statement"],
+      "ru": ["высказывание", "заявление"],
+      "de": ["die Aussage"],
+      "example": ["Das ist die Aussage."]
+    },
+    "besides": {
+      "en": ["besides"],
+      "ru": ["кроме того"],
+      "de": ["außerdem"],
+      "example": ["Außerdem ist das sehr praktisch."]
+    },
+    "unscheduled": {
+      "en": ["unscheduled"],
+      "ru": ["внеплановый"],
+      "de": ["außerplanmäßig"],
+      "example": ["Das ist außerplanmäßig."]
+    },
+    "car": {
+      "en": ["car"],
+      "ru": ["машина", "автомобиль"],
+      "de": ["das Auto"],
+      "example": ["Das ist das Auto."]
+    },
+    "auto_mechanic": {
+      "en": ["auto_mechanic"],
+      "ru": ["автомеханик"],
+      "de": ["der Automechaniker"],
+      "example": ["Das ist der Automechaniker."]
+    }
   },
   "b": {
-    "baby_food": [
-      {
-        "en": "baby_food",
-        "ru": "детское питание",
-        "de": "Babynahrung"
-      }
-    ],
-    "bake": [
-      {
-        "en": "bake",
-        "ru": "печь, выпекать",
-        "de": "backen"
-      }
-    ],
-    "baker": [
-      {
-        "en": "baker",
-        "ru": "пекарь",
-        "de": "Bäcker/in"
-      }
-    ],
-    "bath": [
-      {
-        "en": "bath",
-        "ru": "ванна, купание",
-        "de": "Bad"
-      }
-    ],
-    "bathe": [
-      {
-        "en": "bathe",
-        "ru": "купаться",
-        "de": "baden"
-      }
-    ],
-    "bathtub": [
-      {
-        "en": "bathtub",
-        "ru": "ванна",
-        "de": "Badewanne"
-      }
-    ],
-    "bathroom": [
-      {
-        "en": "bathroom",
-        "ru": "ванная комната",
-        "de": "Badezimmer"
-      }
-    ],
-    "railway": [
-      {
-        "en": "railway",
-        "ru": "железная дорога, поезд",
-        "de": "Bahn"
-      }
-    ],
-    "train_station": [
-      {
-        "en": "train_station",
-        "ru": "вокзал",
-        "de": "Bahnhof"
-      }
-    ],
-    "soon": [
-      {
-        "en": "soon",
-        "ru": "скоро",
-        "de": "bald"
-      }
-    ],
-    "balcony": [
-      {
-        "en": "balcony",
-        "ru": "балкон",
-        "de": "Balkon"
-      }
-    ],
-    "ball": [
-      {
-        "en": "ball",
-        "ru": "мяч",
-        "de": "Ball"
-      }
-    ],
-    "banana": [
-      {
-        "en": "banana",
-        "ru": "банан",
-        "de": "Banane"
-      }
-    ],
-    "bank": [
-      {
-        "en": "bank, bench",
-        "ru": "банк, скамейка",
-        "de": "Bank"
-      }
-    ],
-    "belly": [
-      {
-        "en": "belly",
-        "ru": "живот",
-        "de": "Bauch"
-      }
-    ],
-    "stomachache": [
-      {
-        "en": "stomachache",
-        "ru": "боль в животе",
-        "de": "Bauchschmerzen"
-      }
-    ],
-    "build": [
-      {
-        "en": "build",
-        "ru": "строить",
-        "de": "bauen"
-      }
-    ],
-    "farm": [
-      {
-        "en": "farm",
-        "ru": "ферма",
-        "de": "Bauernhof"
-      }
-    ],
-    "tree": [
-      {
-        "en": "tree",
-        "ru": "дерево",
-        "de": "Baum"
-      }
-    ],
-    "answer": [
-      {
-        "en": "answer",
-        "ru": "отвечать",
-        "de": "beantworten"
-      }
-    ],
-    "cup": [
-      {
-        "en": "cup",
-        "ru": "стакан, кружка",
-        "de": "Becher"
-      }
-    ],
-    "begin": [
-      {
-        "en": "begin",
-        "ru": "начинать",
-        "de": "beginnen"
-      }
-    ],
-    "at_with": [
-      {
-        "en": "at, with, near",
-        "ru": "у, при, у кого-то",
-        "de": "bei"
-      }
-    ],
-    "both": [
-      {
-        "en": "both",
-        "ru": "оба, обе",
-        "de": "beide"
-      }
-    ],
-    "beige": [
-      {
-        "en": "beige",
-        "ru": "бежевый",
-        "de": "beige"
-      }
-    ],
-    "leg": [
-      {
-        "en": "leg",
-        "ru": "нога",
-        "de": "Bein"
-      }
-    ],
-    "example": [
-      {
-        "en": "example",
-        "ru": "пример",
-        "de": "Beispiel"
-      }
-    ],
-    "get": [
-      {
-        "en": "get, receive",
-        "ru": "получать",
-        "de": "bekommen"
-      }
-    ],
-    "use": [
-      {
-        "en": "use",
-        "ru": "использовать",
-        "de": "benutzen"
-      }
-    ],
-    "comfortable": [
-      {
-        "en": "comfortable",
-        "ru": "удобный",
-        "de": "bequem"
-      }
-    ],
-    "report": [
-      {
-        "en": "report",
-        "ru": "сообщать, рассказывать",
-        "de": "berichten"
-      }
-    ],
-    "profession": [
-      {
-        "en": "profession",
-        "ru": "профессия",
-        "de": "Beruf"
-      }
-    ],
-    "professional": [
-      {
-        "en": "professional",
-        "ru": "профессиональный, по профессии",
-        "de": "beruflich"
-      }
-    ],
-    "notice": [
-      {
-        "en": "notice, information",
-        "ru": "известие, информация",
-        "de": "Bescheid"
-      }
-    ],
-    "viewing_appointment": [
-      {
-        "en": "viewing_appointment",
-        "ru": "встреча для осмотра",
-        "de": "Besichtigungstermin"
-      }
-    ],
-    "better": [
-      {
-        "en": "better",
-        "ru": "лучше",
-        "de": "besser"
-      }
-    ],
-    "recovery": [
-      {
-        "en": "recovery, improvement",
-        "ru": "выздоровление, улучшение",
-        "de": "Besserung"
-      }
-    ],
-    "best": [
-      {
-        "en": "best",
-        "ru": "лучше всего",
-        "de": "besten (am besten)"
-      }
-    ],
-    "certainly": [
-      {
-        "en": "certainly",
-        "ru": "определенно, точно",
-        "de": "bestimmt"
-      }
-    ],
-    "visit_noun": [
-      {
-        "en": "visit",
-        "ru": "визит, посещение",
-        "de": "Besuch"
-      }
-    ],
-    "visit_verb": [
-      {
-        "en": "visit",
-        "ru": "посещать",
-        "de": "besuchen"
-      }
-    ],
-    "subject": [
-      {
-        "en": "subject",
-        "ru": "тема",
-        "de": "Betreff"
-      }
-    ],
-    "bed": [
-      {
-        "en": "bed",
-        "ru": "кровать",
-        "de": "Bett"
-      }
-    ],
-    "before": [
-      {
-        "en": "before",
-        "ru": "прежде чем, перед тем как",
-        "de": "bevor"
-      }
-    ],
-    "movement": [
-      {
-        "en": "movement",
-        "ru": "движение",
-        "de": "Bewegung"
-      }
-    ],
-    "cloudy": [
-      {
-        "en": "cloudy",
-        "ru": "облачно",
-        "de": "bewölkt"
-      }
-    ],
-    "pay": [
-      {
-        "en": "pay",
-        "ru": "платить, оплачивать",
-        "de": "bezahlen"
-      }
-    ],
-    "library": [
-      {
-        "en": "library",
-        "ru": "библиотека",
-        "de": "Bibliothek"
-      }
-    ],
-    "beer": [
-      {
-        "en": "beer",
-        "ru": "пиво",
-        "de": "Bier"
-      }
-    ],
-    "picture": [
-      {
-        "en": "picture",
-        "ru": "картина, изображение",
-        "de": "Bild"
-      }
-    ],
-    "form": [
-      {
-        "en": "form",
-        "ru": "образовывать",
-        "de": "bilden"
-      }
-    ],
-    "cheap": [
-      {
-        "en": "cheap",
-        "ru": "дешевый",
-        "de": "billig"
-      }
-    ],
-    "pear": [
-      {
-        "en": "pear",
-        "ru": "груша",
-        "de": "Birne"
-      }
-    ],
-    "until": [
-      {
-        "en": "until",
-        "ru": "до",
-        "de": "bis"
-      }
-    ],
-    "a_little": [
-      {
-        "en": "a_little",
-        "ru": "немного",
-        "de": "bisschen"
-      }
-    ],
-    "bistro": [
-      {
-        "en": "bistro",
-        "ru": "бистро",
-        "de": "Bistro"
-      }
-    ],
-    "please": [
-      {
-        "en": "please",
-        "ru": "пожалуйста",
-        "de": "bitte"
-      }
-    ],
-    "leaf": [
-      {
-        "en": "leaf",
-        "ru": "лист",
-        "de": "Blatt"
-      }
-    ],
-    "blue": [
-      {
-        "en": "blue",
-        "ru": "синий",
-        "de": "blau"
-      }
-    ],
-    "blueberry": [
-      {
-        "en": "blueberry",
-        "ru": "черника, голубика",
-        "de": "Blaubeere"
-      }
-    ],
-    "stay": [
-      {
-        "en": "stay",
-        "ru": "оставаться",
-        "de": "bleiben"
-      }
-    ],
-    "pencil": [
-      {
-        "en": "pencil",
-        "ru": "карандаш",
-        "de": "Bleistift"
-      }
-    ],
-    "stupid": [
-      {
-        "en": "stupid",
-        "ru": "глупый",
-        "de": "blöd"
-      }
-    ],
-    "flower": [
-      {
-        "en": "flower",
-        "ru": "цветок",
-        "de": "Blume"
-      }
-    ],
-    "blouse": [
-      {
-        "en": "blouse",
-        "ru": "блузка",
-        "de": "Bluse"
-      }
-    ],
-    "bean": [
-      {
-        "en": "bean",
-        "ru": "фасоль, боб",
-        "de": "Bohne"
-      }
-    ],
-    "need": [
-      {
-        "en": "need",
-        "ru": "нуждаться",
-        "de": "brauchen"
-      }
-    ],
-    "brown": [
-      {
-        "en": "brown",
-        "ru": "коричневый",
-        "de": "braun"
-      }
-    ],
-    "bride": [
-      {
-        "en": "bride",
-        "ru": "невеста",
-        "de": "Braut"
-      }
-    ],
-    "wide": [
-      {
-        "en": "wide, broad",
-        "ru": "широкий",
-        "de": "breit"
-      }
-    ],
-    "letter": [
-      {
-        "en": "letter",
-        "ru": "письмо",
-        "de": "Brief"
-      }
-    ],
-    "letter_part": [
-      {
-        "en": "letter_part",
-        "ru": "часть письма",
-        "de": "Briefteil"
-      }
-    ],
-    "bring": [
-      {
-        "en": "bring",
-        "ru": "приносить, привозить",
-        "de": "bringen"
-      }
-    ],
-    "bread": [
-      {
-        "en": "bread",
-        "ru": "хлеб",
-        "de": "Brot"
-      }
-    ],
-    "bread_roll": [
-      {
-        "en": "bread_roll",
-        "ru": "булочка",
-        "de": "Brötchen"
-      }
-    ],
-    "brother": [
-      {
-        "en": "brother",
-        "ru": "брат",
-        "de": "Bruder"
-      }
-    ],
-    "chest": [
-      {
-        "en": "chest",
-        "ru": "грудь",
-        "de": "Brust"
-      }
-    ],
-    "spell": [
-      {
-        "en": "spell",
-        "ru": "произносить по буквам",
-        "de": "buchstabieren"
-      }
-    ],
-    "citizens_office": [
-      {
-        "en": "citizens_office",
-        "ru": "бюро по делам граждан",
-        "de": "Bürgerbüro"
-      }
-    ],
-    "office": [
-      {
-        "en": "office",
-        "ru": "офис, бюро",
-        "de": "Büro"
-      }
-    ],
-    "office_clerk": [
-      {
-        "en": "office_clerk",
-        "ru": "офис-менеджер, офисный служащий",
-        "de": "Bürokaufmann/Bürokauffrau"
-      }
-    ],
-    "bus": [
-      {
-        "en": "bus",
-        "ru": "автобус",
-        "de": "Bus"
-      }
-    ],
-    "bus_stop": [
-      {
-        "en": "bus_stop",
-        "ru": "автобусная остановка",
-        "de": "Bushaltestelle"
-      }
-    ],
-    "cafe": [
-      {
-        "en": "cafe",
-        "ru": "кафе",
-        "de": "Café"
-      }
-    ],
-    "cent": [
-      {
-        "en": "cent",
-        "ru": "цент",
-        "de": "Cent"
-      }
-    ],
-    "boss": [
-      {
-        "en": "boss",
-        "ru": "начальник, начальница",
-        "de": "Chef/in"
-      }
-    ],
-    "circa": [
-      {
-        "en": "circa",
-        "ru": "около, приблизительно",
-        "de": "circa"
-      }
-    ],
-    "cola": [
-      {
-        "en": "cola",
-        "ru": "кола",
-        "de": "Cola"
-      }
-    ],
-    "computer": [
-      {
-        "en": "computer",
-        "ru": "компьютер",
-        "de": "Computer"
-      }
-    ],
-    "computer_program": [
-      {
-        "en": "computer_program",
-        "ru": "компьютерная программа",
-        "de": "Computerprogramm"
-      }
-    ],
-    "computer_game": [
-      {
-        "en": "computer_game",
-        "ru": "компьютерная игра",
-        "de": "Computerspiel"
-      }
-    ],
-    "computer_system": [
-      {
-        "en": "computer_system",
-        "ru": "компьютерная система",
-        "de": "Computersystem"
-      }
-    ],
-    "couscous": [
-      {
-        "en": "couscous",
-        "ru": "кускус",
-        "de": "Couscous"
-      }
-    ]
+    "baby_food": {
+      "en": ["baby_food"],
+      "ru": ["детское питание"],
+      "de": ["die Babynahrung"],
+      "example": ["Das ist die Babynahrung."]
+    },
+    "bake": {
+      "en": ["bake"],
+      "ru": ["печь", "выпекать"],
+      "de": ["backen"],
+      "example": ["Ich möchte backen."]
+    },
+    "baker": {
+      "en": ["baker"],
+      "ru": ["пекарь"],
+      "de": ["der Bäcker", "die Bäckerin"],
+      "example": ["Das ist der Bäcker."]
+    },
+    "bath": {
+      "en": ["bath"],
+      "ru": ["ванна", "купание"],
+      "de": ["das Bad"],
+      "example": ["Das ist das Bad."]
+    },
+    "bathe": {
+      "en": ["bathe"],
+      "ru": ["купаться"],
+      "de": ["baden"],
+      "example": ["Ich möchte baden."]
+    },
+    "bathtub": {
+      "en": ["bathtub"],
+      "ru": ["ванна"],
+      "de": ["die Badewanne"],
+      "example": ["Das ist die Badewanne."]
+    },
+    "bathroom": {
+      "en": ["bathroom"],
+      "ru": ["ванная комната"],
+      "de": ["das Badezimmer"],
+      "example": ["Das ist das Badezimmer."]
+    },
+    "railway": {
+      "en": ["railway"],
+      "ru": ["железная дорога", "поезд"],
+      "de": ["die Bahn"],
+      "example": ["Das ist die Bahn."]
+    },
+    "train_station": {
+      "en": ["train_station"],
+      "ru": ["вокзал"],
+      "de": ["der Bahnhof"],
+      "example": ["Das ist der Bahnhof."]
+    },
+    "soon": {
+      "en": ["soon"],
+      "ru": ["скоро"],
+      "de": ["bald"],
+      "example": ["Wir sehen uns bald."]
+    },
+    "balcony": {
+      "en": ["balcony"],
+      "ru": ["балкон"],
+      "de": ["der Balkon"],
+      "example": ["Das ist der Balkon."]
+    },
+    "ball": {
+      "en": ["ball"],
+      "ru": ["мяч"],
+      "de": ["der Ball"],
+      "example": ["Das ist der Ball."]
+    },
+    "banana": {
+      "en": ["banana"],
+      "ru": ["банан"],
+      "de": ["die Banane"],
+      "example": ["Das ist die Banane."]
+    },
+    "bank": {
+      "en": ["bank", "bench"],
+      "ru": ["банк", "скамейка"],
+      "de": ["die Bank"],
+      "example": ["Das ist die Bank."]
+    },
+    "belly": {
+      "en": ["belly"],
+      "ru": ["живот"],
+      "de": ["der Bauch"],
+      "example": ["Das ist der Bauch."]
+    },
+    "stomachache": {
+      "en": ["stomachache"],
+      "ru": ["боль в животе"],
+      "de": ["die Bauchschmerzen"],
+      "example": ["Das ist die Bauchschmerzen."]
+    },
+    "build": {
+      "en": ["build"],
+      "ru": ["строить"],
+      "de": ["bauen"],
+      "example": ["Ich möchte bauen."]
+    },
+    "farm": {
+      "en": ["farm"],
+      "ru": ["ферма"],
+      "de": ["der Bauernhof"],
+      "example": ["Das ist der Bauernhof."]
+    },
+    "tree": {
+      "en": ["tree"],
+      "ru": ["дерево"],
+      "de": ["der Baum"],
+      "example": ["Das ist der Baum."]
+    },
+    "answer": {
+      "en": ["answer"],
+      "ru": ["отвечать"],
+      "de": ["beantworten"],
+      "example": ["Ich möchte beantworten."]
+    },
+    "cup": {
+      "en": ["cup"],
+      "ru": ["стакан", "кружка"],
+      "de": ["der Becher"],
+      "example": ["Das ist der Becher."]
+    },
+    "begin": {
+      "en": ["begin"],
+      "ru": ["начинать"],
+      "de": ["beginnen"],
+      "example": ["Ich möchte beginnen."]
+    },
+    "at_with": {
+      "en": ["at", "with", "near"],
+      "ru": ["у", "при", "у кого-то"],
+      "de": ["bei"],
+      "example": ["Ich bin heute bei meiner Freundin."]
+    },
+    "both": {
+      "en": ["both"],
+      "ru": ["оба", "обе"],
+      "de": ["beide"],
+      "example": ["Das ist beide."]
+    },
+    "beige": {
+      "en": ["beige"],
+      "ru": ["бежевый"],
+      "de": ["beige"],
+      "example": ["Das Auto ist beige."]
+    },
+    "leg": {
+      "en": ["leg"],
+      "ru": ["нога"],
+      "de": ["das Bein"],
+      "example": ["Das ist das Bein."]
+    },
+    "example": {
+      "en": ["example"],
+      "ru": ["пример"],
+      "de": ["das Beispiel"],
+      "example": ["Das ist das Beispiel."]
+    },
+    "get": {
+      "en": ["get", "receive"],
+      "ru": ["получать"],
+      "de": ["bekommen"],
+      "example": ["Ich möchte bekommen."]
+    },
+    "use": {
+      "en": ["use"],
+      "ru": ["использовать"],
+      "de": ["benutzen"],
+      "example": ["Ich möchte benutzen."]
+    },
+    "comfortable": {
+      "en": ["comfortable"],
+      "ru": ["удобный"],
+      "de": ["bequem"],
+      "example": ["Das ist bequem."]
+    },
+    "report": {
+      "en": ["report"],
+      "ru": ["сообщать", "рассказывать"],
+      "de": ["berichten"],
+      "example": ["Ich möchte berichten."]
+    },
+    "profession": {
+      "en": ["profession"],
+      "ru": ["профессия"],
+      "de": ["der Beruf"],
+      "example": ["Das ist der Beruf."]
+    },
+    "professional": {
+      "en": ["professional"],
+      "ru": ["профессиональный", "по профессии"],
+      "de": ["beruflich"],
+      "example": ["Das ist beruflich."]
+    },
+    "notice": {
+      "en": ["notice", "information"],
+      "ru": ["известие", "информация"],
+      "de": ["der Bescheid"],
+      "example": ["Das ist der Bescheid."]
+    },
+    "viewing_appointment": {
+      "en": ["viewing_appointment"],
+      "ru": ["встреча для осмотра"],
+      "de": ["der Besichtigungstermin"],
+      "example": ["Das ist der Besichtigungstermin."]
+    },
+    "better": {
+      "en": ["better"],
+      "ru": ["лучше"],
+      "de": ["besser"],
+      "example": ["Das ist besser."]
+    },
+    "recovery": {
+      "en": ["recovery", "improvement"],
+      "ru": ["выздоровление", "улучшение"],
+      "de": ["die Besserung"],
+      "example": ["Das ist die Besserung."]
+    },
+    "best": {
+      "en": ["best"],
+      "ru": ["лучше всего"],
+      "de": ["besten (am besten)"],
+      "example": ["Am besten lernen wir zusammen."]
+    },
+    "certainly": {
+      "en": ["certainly"],
+      "ru": ["определенно", "точно"],
+      "de": ["bestimmt"],
+      "example": ["Das klappt bestimmt."]
+    },
+    "visit_noun": {
+      "en": ["visit"],
+      "ru": ["визит", "посещение"],
+      "de": ["der Besuch"],
+      "example": ["Das ist der Besuch."]
+    },
+    "visit_verb": {
+      "en": ["visit"],
+      "ru": ["посещать"],
+      "de": ["besuchen"],
+      "example": ["Ich möchte besuchen."]
+    },
+    "subject": {
+      "en": ["subject"],
+      "ru": ["тема"],
+      "de": ["der Betreff"],
+      "example": ["Das ist der Betreff."]
+    },
+    "bed": {
+      "en": ["bed"],
+      "ru": ["кровать"],
+      "de": ["das Bett"],
+      "example": ["Das ist das Bett."]
+    },
+    "before": {
+      "en": ["before"],
+      "ru": ["прежде чем", "перед тем как"],
+      "de": ["bevor"],
+      "example": ["Ruf mich an, bevor du gehst."]
+    },
+    "movement": {
+      "en": ["movement"],
+      "ru": ["движение"],
+      "de": ["die Bewegung"],
+      "example": ["Das ist die Bewegung."]
+    },
+    "cloudy": {
+      "en": ["cloudy"],
+      "ru": ["облачно"],
+      "de": ["bewölkt"],
+      "example": ["Heute ist es bewölkt."]
+    },
+    "pay": {
+      "en": ["pay"],
+      "ru": ["платить", "оплачивать"],
+      "de": ["bezahlen"],
+      "example": ["Ich möchte bezahlen."]
+    },
+    "library": {
+      "en": ["library"],
+      "ru": ["библиотека"],
+      "de": ["die Bibliothek"],
+      "example": ["Das ist die Bibliothek."]
+    },
+    "beer": {
+      "en": ["beer"],
+      "ru": ["пиво"],
+      "de": ["das Bier"],
+      "example": ["Das ist das Bier."]
+    },
+    "picture": {
+      "en": ["picture"],
+      "ru": ["картина", "изображение"],
+      "de": ["das Bild"],
+      "example": ["Das ist das Bild."]
+    },
+    "form": {
+      "en": ["form"],
+      "ru": ["образовывать"],
+      "de": ["bilden"],
+      "example": ["Ich möchte bilden."]
+    },
+    "cheap": {
+      "en": ["cheap"],
+      "ru": ["дешевый"],
+      "de": ["billig"],
+      "example": ["Das ist billig."]
+    },
+    "pear": {
+      "en": ["pear"],
+      "ru": ["груша"],
+      "de": ["die Birne"],
+      "example": ["Das ist die Birne."]
+    },
+    "until": {
+      "en": ["until"],
+      "ru": ["до"],
+      "de": ["bis"],
+      "example": ["Wir arbeiten bis 18 Uhr."]
+    },
+    "a_little": {
+      "en": ["a_little"],
+      "ru": ["немного"],
+      "de": ["bisschen"],
+      "example": ["Ich möchte bisschen."]
+    },
+    "bistro": {
+      "en": ["bistro"],
+      "ru": ["бистро"],
+      "de": ["das Bistro"],
+      "example": ["Das ist das Bistro."]
+    },
+    "please": {
+      "en": ["please"],
+      "ru": ["пожалуйста"],
+      "de": ["bitte"],
+      "example": ["Bitte komm pünktlich."]
+    },
+    "leaf": {
+      "en": ["leaf"],
+      "ru": ["лист"],
+      "de": ["das Blatt"],
+      "example": ["Das ist das Blatt."]
+    },
+    "blue": {
+      "en": ["blue"],
+      "ru": ["синий"],
+      "de": ["blau"],
+      "example": ["Das Auto ist blau."]
+    },
+    "blueberry": {
+      "en": ["blueberry"],
+      "ru": ["черника", "голубика"],
+      "de": ["die Blaubeere"],
+      "example": ["Das ist die Blaubeere."]
+    },
+    "stay": {
+      "en": ["stay"],
+      "ru": ["оставаться"],
+      "de": ["bleiben"],
+      "example": ["Ich bleibe heute zu Hause."]
+    },
+    "pencil": {
+      "en": ["pencil"],
+      "ru": ["карандаш"],
+      "de": ["der Bleistift"],
+      "example": ["Das ist der Bleistift."]
+    },
+    "stupid": {
+      "en": ["stupid"],
+      "ru": ["глупый"],
+      "de": ["blöd"],
+      "example": ["Das ist blöd."]
+    },
+    "flower": {
+      "en": ["flower"],
+      "ru": ["цветок"],
+      "de": ["die Blume"],
+      "example": ["Das ist die Blume."]
+    },
+    "blouse": {
+      "en": ["blouse"],
+      "ru": ["блузка"],
+      "de": ["die Bluse"],
+      "example": ["Das ist die Bluse."]
+    },
+    "bean": {
+      "en": ["bean"],
+      "ru": ["фасоль", "боб"],
+      "de": ["die Bohne"],
+      "example": ["Das ist die Bohne."]
+    },
+    "need": {
+      "en": ["need"],
+      "ru": ["нуждаться"],
+      "de": ["brauchen"],
+      "example": ["Ich brauche deine Hilfe."]
+    },
+    "brown": {
+      "en": ["brown"],
+      "ru": ["коричневый"],
+      "de": ["braun"],
+      "example": ["Das Auto ist braun."]
+    },
+    "bride": {
+      "en": ["bride"],
+      "ru": ["невеста"],
+      "de": ["die Braut"],
+      "example": ["Das ist die Braut."]
+    },
+    "wide": {
+      "en": ["wide", "broad"],
+      "ru": ["широкий"],
+      "de": ["breit"],
+      "example": ["Das ist breit."]
+    },
+    "letter": {
+      "en": ["letter"],
+      "ru": ["письмо"],
+      "de": ["der Brief"],
+      "example": ["Das ist der Brief."]
+    },
+    "letter_part": {
+      "en": ["letter_part"],
+      "ru": ["часть письма"],
+      "de": ["der Briefteil"],
+      "example": ["Das ist der Briefteil."]
+    },
+    "bring": {
+      "en": ["bring"],
+      "ru": ["приносить", "привозить"],
+      "de": ["bringen"],
+      "example": ["Ich möchte bringen."]
+    },
+    "bread": {
+      "en": ["bread"],
+      "ru": ["хлеб"],
+      "de": ["das Brot"],
+      "example": ["Das ist das Brot."]
+    },
+    "bread_roll": {
+      "en": ["bread_roll"],
+      "ru": ["булочка"],
+      "de": ["das Brötchen"],
+      "example": ["Das ist das Brötchen."]
+    },
+    "brother": {
+      "en": ["brother"],
+      "ru": ["брат"],
+      "de": ["der Bruder"],
+      "example": ["Das ist der Bruder."]
+    },
+    "chest": {
+      "en": ["chest"],
+      "ru": ["грудь"],
+      "de": ["die Brust"],
+      "example": ["Das ist die Brust."]
+    },
+    "spell": {
+      "en": ["spell"],
+      "ru": ["произносить по буквам"],
+      "de": ["buchstabieren"],
+      "example": ["Ich möchte buchstabieren."]
+    },
+    "citizens_office": {
+      "en": ["citizens_office"],
+      "ru": ["бюро по делам граждан"],
+      "de": ["das Bürgerbüro"],
+      "example": ["Das ist das Bürgerbüro."]
+    },
+    "office": {
+      "en": ["office"],
+      "ru": ["офис", "бюро"],
+      "de": ["das Büro"],
+      "example": ["Das ist das Büro."]
+    },
+    "office_clerk": {
+      "en": ["office_clerk"],
+      "ru": ["офис-менеджер", "офисный служащий"],
+      "de": ["der Bürokaufmann", "die Bürokauffrau"],
+      "example": ["Das ist der Bürokaufmann."]
+    },
+    "bus": {
+      "en": ["bus"],
+      "ru": ["автобус"],
+      "de": ["der Bus"],
+      "example": ["Das ist der Bus."]
+    },
+    "bus_stop": {
+      "en": ["bus_stop"],
+      "ru": ["автобусная остановка"],
+      "de": ["die Bushaltestelle"],
+      "example": ["Die Bushaltestelle sind hier."]
+    },
+    "cafe": {
+      "en": ["cafe"],
+      "ru": ["кафе"],
+      "de": ["das Café"],
+      "example": ["Das ist das Café."]
+    },
+    "cent": {
+      "en": ["cent"],
+      "ru": ["цент"],
+      "de": ["der Cent"],
+      "example": ["Das ist der Cent."]
+    },
+    "boss": {
+      "en": ["boss"],
+      "ru": ["начальник", "начальница"],
+      "de": ["der Chef", "die Chefin"],
+      "example": ["Das ist der Chef."]
+    },
+    "circa": {
+      "en": ["circa"],
+      "ru": ["около", "приблизительно"],
+      "de": ["circa"],
+      "example": ["Es dauert circa zehn Minuten."]
+    },
+    "cola": {
+      "en": ["cola"],
+      "ru": ["кола"],
+      "de": ["die Cola"],
+      "example": ["Das ist die Cola."]
+    },
+    "computer": {
+      "en": ["computer"],
+      "ru": ["компьютер"],
+      "de": ["der Computer"],
+      "example": ["Das ist der Computer."]
+    },
+    "computer_program": {
+      "en": ["computer_program"],
+      "ru": ["компьютерная программа"],
+      "de": ["das Computerprogramm"],
+      "example": ["Das ist das Computerprogramm."]
+    },
+    "computer_game": {
+      "en": ["computer_game"],
+      "ru": ["компьютерная игра"],
+      "de": ["das Computerspiel"],
+      "example": ["Das ist das Computerspiel."]
+    },
+    "computer_system": {
+      "en": ["computer_system"],
+      "ru": ["компьютерная система"],
+      "de": ["das Computersystem"],
+      "example": ["Das ist das Computersystem."]
+    },
+    "couscous": {
+      "en": ["couscous"],
+      "ru": ["кускус"],
+      "de": ["der Couscous"],
+      "example": ["Das ist der Couscous."]
+    }
   },
   "d": {
-    "there": [
-      {
-        "en": "there",
-        "ru": "там",
-        "de": "da"
-      }
-    ],
-    "for_it": [
-      {
-        "en": "for_it",
-        "ru": "для этого, за это",
-        "de": "dafür"
-      }
-    ],
-    "afterwards": [
-      {
-        "en": "afterwards",
-        "ru": "потом, после этого",
-        "de": "danach"
-      }
-    ],
-    "gratitude": [
-      {
-        "en": "gratitude",
-        "ru": "благодарность",
-        "de": "Dank"
-      }
-    ],
-    "thank_you": [
-      {
-        "en": "thank_you",
-        "ru": "спасибо",
-        "de": "danke"
-      }
-    ],
-    "then": [
-      {
-        "en": "then",
-        "ru": "тогда, потом",
-        "de": "dann"
-      }
-    ],
-    "about_it": [
-      {
-        "en": "about_it",
-        "ru": "об этом",
-        "de": "darüber"
-      }
-    ],
-    "the_neuter": [
-      {
-        "en": "the_neuter",
-        "ru": "определенный артикль среднего рода",
-        "de": "das"
-      }
-    ],
-    "date": [
-      {
-        "en": "date",
-        "ru": "дата",
-        "de": "Datum"
-      }
-    ],
-    "last": [
-      {
-        "en": "last",
-        "ru": "длиться",
-        "de": "dauern"
-      }
-    ],
-    "for_that": [
-      {
-        "en": "for_that",
-        "ru": "к этому, для этого",
-        "de": "dazu"
-      }
-    ],
-    "your": [
-      {
-        "en": "your",
-        "ru": "твой, твоя",
-        "de": "dein/deine"
-      }
-    ],
-    "think": [
-      {
-        "en": "think",
-        "ru": "думать",
-        "de": "denken"
-      }
-    ],
-    "because": [
-      {
-        "en": "because",
-        "ru": "потому что",
-        "de": "denn"
-      }
-    ],
-    "the_masculine": [
-      {
-        "en": "the_masculine",
-        "ru": "определенный артикль мужского рода",
-        "de": "der"
-      }
-    ],
-    "german": [
-      {
-        "en": "german",
-        "ru": "немецкий язык",
-        "de": "Deutsch"
-      }
-    ],
-    "german_course": [
-      {
-        "en": "german_course",
-        "ru": "курс немецкого языка",
-        "de": "Deutschkurs"
-      }
-    ],
-    "map_of_germany": [
-      {
-        "en": "map_of_germany",
-        "ru": "карта Германии",
-        "de": "Deutschlandkarte"
-      }
-    ],
-    "december": [
-      {
-        "en": "december",
-        "ru": "декабрь",
-        "de": "Dezember"
-      }
-    ],
-    "dialogue": [
-      {
-        "en": "dialogue",
-        "ru": "диалог",
-        "de": "Dialog"
-      }
-    ],
-    "the_feminine": [
-      {
-        "en": "the_feminine",
-        "ru": "определенный артикль женского рода",
-        "de": "die"
-      }
-    ],
-    "hallway": [
-      {
-        "en": "hallway",
-        "ru": "прихожая, коридор",
-        "de": "Diele"
-      }
-    ],
-    "service": [
-      {
-        "en": "service",
-        "ru": "служба, дежурство",
-        "de": "Dienst"
-      }
-    ],
-    "tuesday": [
-      {
-        "en": "tuesday",
-        "ru": "вторник",
-        "de": "Dienstag"
-      }
-    ],
-    "this": [
-      {
-        "en": "this",
-        "ru": "этот, эта, это",
-        "de": "dieser/diese/dieses"
-      }
-    ],
-    "to_you": [
-      {
-        "en": "to_you",
-        "ru": "тебе",
-        "de": "dir"
-      }
-    ],
-    "directly": [
-      {
-        "en": "directly",
-        "ru": "прямо, непосредственно",
-        "de": "direkt"
-      }
-    ],
-    "after_all": [
-      {
-        "en": "after_all",
-        "ru": "ведь, же, всё-таки",
-        "de": "doch"
-      }
-    ],
-    "thursday": [
-      {
-        "en": "thursday",
-        "ru": "четверг",
-        "de": "Donnerstag"
-      }
-    ],
-    "there_over_there": [
-      {
-        "en": "there_over_there",
-        "ru": "вон там",
-        "de": "dort"
-      }
-    ],
-    "can": [
-      {
-        "en": "can",
-        "ru": "банка",
-        "de": "Dose"
-      }
-    ],
-    "outside": [
-      {
-        "en": "outside",
-        "ru": "снаружи, на улице",
-        "de": "draußen"
-      }
-    ],
-    "three_times": [
-      {
-        "en": "three_times",
-        "ru": "три раза",
-        "de": "dreimal"
-      }
-    ],
-    "urgent": [
-      {
-        "en": "urgent",
-        "ru": "срочно, срочный",
-        "de": "dringend"
-      }
-    ],
-    "third": [
-      {
-        "en": "third",
-        "ru": "третий, третья, третье",
-        "de": "dritte"
-      }
-    ],
-    "you": [
-      {
-        "en": "you",
-        "ru": "ты",
-        "de": "du"
-      }
-    ],
-    "dark": [
-      {
-        "en": "dark",
-        "ru": "темный, темно",
-        "de": "dunkel"
-      }
-    ],
-    "through": [
-      {
-        "en": "through",
-        "ru": "через, сквозь",
-        "de": "durch"
-      }
-    ],
-    "announcement": [
-      {
-        "en": "announcement",
-        "ru": "объявление по громкой связи",
-        "de": "Durchsage"
-      }
-    ],
-    "may": [
-      {
-        "en": "may",
-        "ru": "мочь, иметь разрешение",
-        "de": "dürfen"
-      }
-    ],
-    "shower": [
-      {
-        "en": "shower",
-        "ru": "душ",
-        "de": "Dusche"
-      }
-    ]
+    "there": {
+      "en": ["there"],
+      "ru": ["там"],
+      "de": ["da"],
+      "example": ["Ich bin schon da."]
+    },
+    "for_it": {
+      "en": ["for_it"],
+      "ru": ["для этого", "за это"],
+      "de": ["dafür"],
+      "example": ["Danke dafür."]
+    },
+    "afterwards": {
+      "en": ["afterwards"],
+      "ru": ["потом", "после этого"],
+      "de": ["danach"],
+      "example": ["Danach trinken wir Kaffee."]
+    },
+    "gratitude": {
+      "en": ["gratitude"],
+      "ru": ["благодарность"],
+      "de": ["der Dank"],
+      "example": ["Das ist der Dank."]
+    },
+    "thank_you": {
+      "en": ["thank_you"],
+      "ru": ["спасибо"],
+      "de": ["danke"],
+      "example": ["Danke für deine Hilfe."]
+    },
+    "then": {
+      "en": ["then"],
+      "ru": ["тогда", "потом"],
+      "de": ["dann"],
+      "example": ["Dann gehen wir nach Hause."]
+    },
+    "about_it": {
+      "en": ["about_it"],
+      "ru": ["об этом"],
+      "de": ["darüber"],
+      "example": ["Wir sprechen später darüber."]
+    },
+    "the_neuter": {
+      "en": ["the_neuter"],
+      "ru": ["определенный артикль среднего рода"],
+      "de": ["das"],
+      "example": ["Das ist das richtige Buch."]
+    },
+    "date": {
+      "en": ["date"],
+      "ru": ["дата"],
+      "de": ["das Datum"],
+      "example": ["Das ist das Datum."]
+    },
+    "last": {
+      "en": ["last"],
+      "ru": ["длиться"],
+      "de": ["dauern"],
+      "example": ["Ich möchte dauern."]
+    },
+    "for_that": {
+      "en": ["for_that"],
+      "ru": ["к этому", "для этого"],
+      "de": ["dazu"],
+      "example": ["Ich sage später noch etwas dazu."]
+    },
+    "your": {
+      "en": ["your"],
+      "ru": ["твой", "твоя"],
+      "de": ["dein", "deine"],
+      "example": ["Ist das dein Buch?"]
+    },
+    "think": {
+      "en": ["think"],
+      "ru": ["думать"],
+      "de": ["denken"],
+      "example": ["Ich möchte denken."]
+    },
+    "because": {
+      "en": ["because"],
+      "ru": ["потому что"],
+      "de": ["denn"],
+      "example": ["Ich bleibe zu Hause, denn ich bin müde."]
+    },
+    "the_masculine": {
+      "en": ["the_masculine"],
+      "ru": ["определенный артикль мужского рода"],
+      "de": ["der"],
+      "example": ["Der Mann ist schon hier."]
+    },
+    "german": {
+      "en": ["german"],
+      "ru": ["немецкий язык"],
+      "de": ["Deutsch"],
+      "example": ["Ich lerne Deutsch."]
+    },
+    "german_course": {
+      "en": ["german_course"],
+      "ru": ["курс немецкого языка"],
+      "de": ["der Deutschkurs"],
+      "example": ["Das ist der Deutschkurs."]
+    },
+    "map_of_germany": {
+      "en": ["map_of_germany"],
+      "ru": ["карта Германии"],
+      "de": ["die Deutschlandkarte"],
+      "example": ["Das ist die Deutschlandkarte."]
+    },
+    "december": {
+      "en": ["december"],
+      "ru": ["декабрь"],
+      "de": ["der Dezember"],
+      "example": ["Das ist der Dezember."]
+    },
+    "dialogue": {
+      "en": ["dialogue"],
+      "ru": ["диалог", "разговор"],
+      "de": ["der Dialog"],
+      "example": ["Das ist der Dialog."]
+    },
+    "the_feminine": {
+      "en": ["the_feminine"],
+      "ru": ["определенный артикль женского рода"],
+      "de": ["die"],
+      "example": ["Die Tasche ist neu."]
+    },
+    "hallway": {
+      "en": ["hallway"],
+      "ru": ["прихожая", "коридор"],
+      "de": ["die Diele"],
+      "example": ["Das ist die Diele."]
+    },
+    "service": {
+      "en": ["service"],
+      "ru": ["служба", "дежурство"],
+      "de": ["der Dienst"],
+      "example": ["Das ist der Dienst."]
+    },
+    "tuesday": {
+      "en": ["tuesday"],
+      "ru": ["вторник"],
+      "de": ["der Dienstag"],
+      "example": ["Das ist der Dienstag."]
+    },
+    "this": {
+      "en": ["this"],
+      "ru": ["этот", "эта", "это"],
+      "de": ["dieser", "diese", "dieses"],
+      "example": ["Dieses Buch ist interessant."]
+    },
+    "to_you": {
+      "en": ["to_you"],
+      "ru": ["тебе"],
+      "de": ["dir"],
+      "example": ["Ich helfe dir gern."]
+    },
+    "directly": {
+      "en": ["directly"],
+      "ru": ["прямо", "непосредственно"],
+      "de": ["direkt"],
+      "example": ["Das ist direkt."]
+    },
+    "after_all": {
+      "en": ["after_all"],
+      "ru": ["ведь", "же", "всё-таки"],
+      "de": ["doch"],
+      "example": ["Komm doch mit!"]
+    },
+    "thursday": {
+      "en": ["thursday"],
+      "ru": ["четверг"],
+      "de": ["der Donnerstag"],
+      "example": ["Das ist der Donnerstag."]
+    },
+    "there_over_there": {
+      "en": ["there_over_there"],
+      "ru": ["вон там"],
+      "de": ["dort"],
+      "example": ["Meine Freundin wohnt dort."]
+    },
+    "can": {
+      "en": ["can"],
+      "ru": ["банка"],
+      "de": ["die Dose"],
+      "example": ["Das ist die Dose."]
+    },
+    "outside": {
+      "en": ["outside"],
+      "ru": ["снаружи", "на улице"],
+      "de": ["draußen"],
+      "example": ["Ich möchte draußen."]
+    },
+    "three_times": {
+      "en": ["three_times"],
+      "ru": ["три раза"],
+      "de": ["dreimal"],
+      "example": ["Ich trainiere dreimal pro Woche."]
+    },
+    "urgent": {
+      "en": ["urgent"],
+      "ru": ["срочно", "срочный"],
+      "de": ["dringend"],
+      "example": ["Das ist dringend."]
+    },
+    "third": {
+      "en": ["third"],
+      "ru": ["третий", "третья", "третье"],
+      "de": ["dritte"],
+      "example": ["Das ist dritte."]
+    },
+    "you": {
+      "en": ["you"],
+      "ru": ["ты"],
+      "de": ["du"],
+      "example": ["Du bist heute früh hier."]
+    },
+    "dark": {
+      "en": ["dark"],
+      "ru": ["темный", "темно"],
+      "de": ["dunkel"],
+      "example": ["Das ist dunkel."]
+    },
+    "through": {
+      "en": ["through"],
+      "ru": ["через", "сквозь"],
+      "de": ["durch"],
+      "example": ["Wir gehen durch den Park."]
+    },
+    "announcement": {
+      "en": ["announcement"],
+      "ru": ["объявление по громкой связи"],
+      "de": ["die Durchsage"],
+      "example": ["Das ist die Durchsage."]
+    },
+    "may": {
+      "en": ["may"],
+      "ru": ["мочь", "иметь разрешение"],
+      "de": ["dürfen"],
+      "example": ["Darf ich hereinkommen?"]
+    },
+    "shower": {
+      "en": ["shower"],
+      "ru": ["душ"],
+      "de": ["die Dusche"],
+      "example": ["Das ist die Dusche."]
+    }
+  },
+  "e": {
+    "just": {
+      "en": ["just"],
+      "ru": ["только что", "как раз"],
+      "de": ["eben"],
+      "example": ["Ich möchte eben."]
+    },
+    "egg": {
+      "en": ["egg"],
+      "ru": ["яйцо"],
+      "de": ["das Ei"],
+      "example": ["Das ist das Ei."]
+    },
+    "a_an_one": {
+      "en": ["a", "an", "one"],
+      "ru": ["неопределенный артикль", "один", "одна"],
+      "de": ["ein", "eine"],
+      "example": ["Ich habe ein Auto."]
+    },
+    "simple": {
+      "en": ["simple", "easy"],
+      "ru": ["простой", "легко"],
+      "de": ["einfach"],
+      "example": ["Das ist einfach."]
+    },
+    "single_family_house": {
+      "en": ["single_family_house"],
+      "ru": ["частный дом", "дом на одну семью"],
+      "de": ["das Einfamilienhaus"],
+      "example": ["Das ist das Einfamilienhaus."]
+    },
+    "some": {
+      "en": ["some", "several"],
+      "ru": ["некоторые", "несколько"],
+      "de": ["einige"],
+      "example": ["Einige Leute warten schon."]
+    },
+    "go_shopping": {
+      "en": ["go shopping"],
+      "ru": ["делать покупки"],
+      "de": ["einkaufen"],
+      "example": ["Ich möchte einkaufen."]
+    },
+    "shopping_trip": {
+      "en": ["shopping trip"],
+      "ru": ["поход по магазинам"],
+      "de": ["der Einkaufsbummel"],
+      "example": ["Das ist der Einkaufsbummel."]
+    },
+    "shopping_list": {
+      "en": ["shopping_list"],
+      "ru": ["список покупок"],
+      "de": ["der Einkaufszettel"],
+      "example": ["Das ist der Einkaufszettel."]
+    },
+    "invite": {
+      "en": ["invite"],
+      "ru": ["приглашать"],
+      "de": ["einladen"],
+      "example": ["Ich möchte einladen."]
+    },
+    "invitation": {
+      "en": ["invitation"],
+      "ru": ["приглашение"],
+      "de": ["die Einladung"],
+      "example": ["Das ist die Einladung."]
+    },
+    "once": {
+      "en": ["once"],
+      "ru": ["один раз", "однажды"],
+      "de": ["einmal"],
+      "example": ["Ich war einmal in Wien."]
+    },
+    "agreed": {
+      "en": ["agreed", "okay"],
+      "ru": ["согласен", "договорились"],
+      "de": ["einverstanden"],
+      "example": ["Ich möchte einverstanden."]
+    },
+    "single_ticket": {
+      "en": ["single_ticket"],
+      "ru": ["билет в один конец", "разовый билет"],
+      "de": ["die Einzelfahrkarte"],
+      "example": ["Das ist die Einzelfahrkarte."]
+    },
+    "ice_cream": {
+      "en": ["ice cream"],
+      "ru": ["мороженое"],
+      "de": ["das Eis"],
+      "example": ["Das ist das Eis."]
+    },
+    "electrical_appliance": {
+      "en": ["electrical_appliance"],
+      "ru": ["электроприбор"],
+      "de": ["das Elektrogerät"],
+      "example": ["Das ist das Elektrogerät."]
+    },
+    "elbow": {
+      "en": ["elbow"],
+      "ru": ["локоть"],
+      "de": ["der Ellbogen", "der Ellenbogen"],
+      "example": ["Das ist der Ellbogen."]
+    },
+    "parents": {
+      "en": ["parents"],
+      "ru": ["родители"],
+      "de": ["die Eltern"],
+      "example": ["Die Eltern sind hier."]
+    },
+    "email": {
+      "en": ["email"],
+      "ru": ["электронная почта", "e-mail"],
+      "de": ["die E-Mail"],
+      "example": ["Das ist die E-Mail."]
+    },
+    "recipient": {
+      "en": ["recipient"],
+      "ru": ["получатель"],
+      "de": ["der Empfänger"],
+      "example": ["Das ist der Empfänger."]
+    },
+    "finally": {
+      "en": ["finally"],
+      "ru": ["наконец"],
+      "de": ["endlich"],
+      "example": ["Das ist endlich."]
+    },
+    "narrow": {
+      "en": ["narrow", "tight"],
+      "ru": ["узкий", "тесный"],
+      "de": ["eng"],
+      "example": ["Das ist eng."]
+    },
+    "apology": {
+      "en": ["apology", "excuse me"],
+      "ru": ["извинение", "извините"],
+      "de": ["die Entschuldigung"],
+      "example": ["Das ist die Entschuldigung."]
+    },
+    "apology_letter": {
+      "en": ["apology_letter"],
+      "ru": ["письмо с извинениями"],
+      "de": ["das Entschuldigungsschreiben"],
+      "example": ["Das ist das Entschuldigungsschreiben."]
+    },
+    "he": {
+      "en": ["he"],
+      "ru": ["он"],
+      "de": ["er"],
+      "example": ["Er kommt später."]
+    },
+    "pea": {
+      "en": ["pea"],
+      "ru": ["горошина", "горох"],
+      "de": ["die Erbse"],
+      "example": ["Das ist die Erbse."]
+    },
+    "strawberry": {
+      "en": ["strawberry"],
+      "ru": ["клубника"],
+      "de": ["die Erdbeere"],
+      "example": ["Das ist die Erdbeere."]
+    },
+    "ground_floor": {
+      "en": ["ground_floor"],
+      "ru": ["первый этаж"],
+      "de": ["das Erdgeschoss"],
+      "example": ["Das ist das Erdgeschoss."]
+    },
+    "catch_a_cold": {
+      "en": ["catch a cold"],
+      "ru": ["простудиться"],
+      "de": ["erkälten"],
+      "example": ["Ich möchte erkälten."]
+    },
+    "cold": {
+      "en": ["cold"],
+      "ru": ["простуда"],
+      "de": ["die Erkältung"],
+      "example": ["Das ist die Erkältung."]
+    },
+    "explain": {
+      "en": ["explain"],
+      "ru": ["объяснять"],
+      "de": ["erklären"],
+      "example": ["Ich möchte erklären."]
+    },
+    "replace": {
+      "en": ["replace"],
+      "ru": ["заменять"],
+      "de": ["ersetzen"],
+      "example": ["Ich möchte ersetzen."]
+    },
+    "only": {
+      "en": ["only", "not until"],
+      "ru": ["только", "лишь"],
+      "de": ["erst"],
+      "example": ["Ich komme erst morgen."]
+    },
+    "first": {
+      "en": ["first"],
+      "ru": ["первый", "первая", "первое"],
+      "de": ["erste"],
+      "example": ["Heute ist mein erster Arbeitstag."]
+    },
+    "adult": {
+      "en": ["adult"],
+      "ru": ["взрослый"],
+      "de": ["der Erwachsene", "die Erwachsene"],
+      "example": ["Das ist der Erwachsene."]
+    },
+    "tell": {
+      "en": ["tell"],
+      "ru": ["рассказывать"],
+      "de": ["erzählen"],
+      "example": ["Ich möchte erzählen."]
+    },
+    "it": {
+      "en": ["it"],
+      "ru": ["оно", "это"],
+      "de": ["es"],
+      "example": ["Es ist kalt."]
+    },
+    "eat": {
+      "en": ["eat"],
+      "ru": ["есть", "кушать"],
+      "de": ["essen"],
+      "example": ["Wir essen heute zusammen."]
+    },
+    "something": {
+      "en": ["something"],
+      "ru": ["что-то"],
+      "de": ["etwas"],
+      "example": ["Ich möchte etwas essen."]
+    },
+    "you_plural": {
+      "en": ["you (plural)"],
+      "ru": ["вас", "вам"],
+      "de": ["euch"],
+      "example": ["Ich sehe euch morgen."]
+    },
+    "your_plural": {
+      "en": ["your (plural)"],
+      "ru": ["ваш", "ваша", "ваши"],
+      "de": ["euer", "eure"],
+      "example": ["Wo ist eure Tasche?"]
+    },
+    "euro": {
+      "en": ["euro"],
+      "ru": ["евро"],
+      "de": ["der Euro"],
+      "example": ["Das ist der Euro."]
+    },
+    "extra": {
+      "en": ["extra"],
+      "ru": ["дополнительно", "дополнительный"],
+      "de": ["extra"],
+      "example": ["Das ist extra."]
+    }
+  },
+  "f": {
+    "drive": {
+      "en": ["drive"],
+      "ru": ["ехать", "водить"],
+      "de": ["fahren"],
+      "example": ["Wir fahren morgen nach Hamburg."]
+    },
+    "driver": {
+      "en": ["driver"],
+      "ru": ["водитель"],
+      "de": ["der Fahrer"],
+      "example": ["Das ist der Fahrer."]
+    },
+    "passenger": {
+      "en": ["passenger"],
+      "ru": ["пассажир"],
+      "de": ["der Fahrgast"],
+      "example": ["Das ist der Fahrgast."]
+    },
+    "ticket": {
+      "en": ["ticket"],
+      "ru": ["билет"],
+      "de": ["die Fahrkarte"],
+      "example": ["Das ist die Fahrkarte."]
+    },
+    "bicycle": {
+      "en": ["bicycle"],
+      "ru": ["велосипед"],
+      "de": ["das Fahrrad"],
+      "example": ["Das ist das Fahrrad."]
+    },
+    "fall": {
+      "en": ["fall"],
+      "ru": ["падать"],
+      "de": ["fallen"],
+      "example": ["Ich möchte fallen."]
+    },
+    "wrong": {
+      "en": ["wrong"],
+      "ru": ["неправильный", "неверный"],
+      "de": ["falsch"],
+      "example": ["Das ist falsch."]
+    },
+    "family": {
+      "en": ["family"],
+      "ru": ["семья"],
+      "de": ["die Familie"],
+      "example": ["Das ist die Familie."]
+    },
+    "family_photo": {
+      "en": ["family_photo"],
+      "ru": ["семейная фотография", "семейное фото"],
+      "de": ["das Familienfoto"],
+      "example": ["Das ist das Familienfoto."]
+    },
+    "surname": {
+      "en": ["surname"],
+      "ru": ["фамилия"],
+      "de": ["der Familienname"],
+      "example": ["Das ist der Familienname."]
+    },
+    "marital_status": {
+      "en": ["marital_status"],
+      "ru": ["семейное положение"],
+      "de": ["der Familienstand"],
+      "example": ["Das ist der Familienstand."]
+    },
+    "catch": {
+      "en": ["catch"],
+      "ru": ["ловить"],
+      "de": ["fangen"],
+      "example": ["Ich möchte fangen."]
+    },
+    "color": {
+      "en": ["color"],
+      "ru": ["цвет"],
+      "de": ["die Farbe"],
+      "example": ["Das ist die Farbe."]
+    },
+    "almost": {
+      "en": ["almost"],
+      "ru": ["почти"],
+      "de": ["fast"],
+      "example": ["Ich bin fast fertig."]
+    },
+    "february": {
+      "en": ["february"],
+      "ru": ["февраль"],
+      "de": ["der Februar"],
+      "example": ["Das ist der Februar."]
+    },
+    "celebration": {
+      "en": ["celebration"],
+      "ru": ["праздник", "торжество"],
+      "de": ["die Feier"],
+      "example": ["Das ist die Feier."]
+    },
+    "end_of_workday": {
+      "en": ["end_of_workday"],
+      "ru": ["конец рабочего дня"],
+      "de": ["der Feierabend"],
+      "example": ["Das ist der Feierabend."]
+    },
+    "celebrate": {
+      "en": ["celebrate"],
+      "ru": ["праздновать"],
+      "de": ["feiern"],
+      "example": ["Ich möchte feiern."]
+    },
+    "public_holiday": {
+      "en": ["public_holiday"],
+      "ru": ["праздничный день"],
+      "de": ["der Feiertag"],
+      "example": ["Das ist der Feiertag."]
+    },
+    "window": {
+      "en": ["window"],
+      "ru": ["окно"],
+      "de": ["das Fenster"],
+      "example": ["Das ist das Fenster."]
+    },
+    "vacation_home": {
+      "en": ["vacation_home"],
+      "ru": ["дом для отдыха", "дача"],
+      "de": ["das Ferienhaus"],
+      "example": ["Das ist das Ferienhaus."]
+    },
+    "watch_tv": {
+      "en": ["watch_tv"],
+      "ru": ["смотреть телевизор"],
+      "de": ["fernsehen"],
+      "example": ["Ich möchte fernsehen."]
+    },
+    "television": {
+      "en": ["television"],
+      "ru": ["телевизор"],
+      "de": ["der Fernseher"],
+      "example": ["Das ist der Fernseher."]
+    },
+    "ready": {
+      "en": ["ready"],
+      "ru": ["готовый", "готово"],
+      "de": ["fertig"],
+      "example": ["Das ist fertig."]
+    },
+    "festival": {
+      "en": ["festival"],
+      "ru": ["праздник", "фестиваль"],
+      "de": ["das Fest"],
+      "example": ["Das ist das Fest."]
+    },
+    "fever": {
+      "en": ["fever"],
+      "ru": ["температура", "жар"],
+      "de": ["das Fieber"],
+      "example": ["Das ist das Fieber."]
+    },
+    "film": {
+      "en": ["film"],
+      "ru": ["фильм"],
+      "de": ["der Film"],
+      "example": ["Das ist der Film."]
+    },
+    "find": {
+      "en": ["find"],
+      "ru": ["находить"],
+      "de": ["finden"],
+      "example": ["Ich finde die Idee gut."]
+    },
+    "finger": {
+      "en": ["finger"],
+      "ru": ["палец"],
+      "de": ["der Finger"],
+      "example": ["Das ist der Finger."]
+    },
+    "company": {
+      "en": ["company"],
+      "ru": ["фирма", "компания"],
+      "de": ["die Firma"],
+      "example": ["Das ist die Firma."]
+    },
+    "fish": {
+      "en": ["fish"],
+      "ru": ["рыба"],
+      "de": ["der Fisch"],
+      "example": ["Das ist der Fisch."]
+    },
+    "bottle": {
+      "en": ["bottle"],
+      "ru": ["бутылка"],
+      "de": ["die Flasche"],
+      "example": ["Das ist die Flasche."]
+    },
+    "meat": {
+      "en": ["meat"],
+      "ru": ["мясо"],
+      "de": ["das Fleisch"],
+      "example": ["Das ist das Fleisch."]
+    },
+    "flexible": {
+      "en": ["flexible"],
+      "ru": ["гибкий"],
+      "de": ["flexibel"],
+      "example": ["Das ist flexibel."]
+    },
+    "airport": {
+      "en": ["airport"],
+      "ru": ["аэропорт"],
+      "de": ["der Flughafen"],
+      "example": ["Das ist der Flughafen."]
+    },
+    "hallway": {
+      "en": ["hallway"],
+      "ru": ["коридор"],
+      "de": ["der Flur"],
+      "example": ["Das ist der Flur."]
+    },
+    "form": {
+      "en": ["form"],
+      "ru": ["форма"],
+      "de": ["die Form"],
+      "example": ["Das ist die Form."]
+    },
+    "formular": {
+      "en": ["formular"],
+      "ru": ["формуляр", "бланк"],
+      "de": ["das Formular"],
+      "example": ["Das ist das Formular."]
+    },
+    "photo": {
+      "en": ["photo"],
+      "ru": ["фото", "фотография"],
+      "de": ["das Foto"],
+      "example": ["Das ist das Foto."]
+    },
+    "photograph": {
+      "en": ["photograph"],
+      "ru": ["фотографировать"],
+      "de": ["fotografieren"],
+      "example": ["Ich möchte fotografieren."]
+    },
+    "question": {
+      "en": ["question"],
+      "ru": ["вопрос"],
+      "de": ["die Frage"],
+      "example": ["Das ist die Frage."]
+    },
+    "ask": {
+      "en": ["ask"],
+      "ru": ["спрашивать"],
+      "de": ["fragen"],
+      "example": ["Ich frage meine Lehrerin."]
+    },
+    "woman": {
+      "en": ["woman"],
+      "ru": ["женщина", "госпожа"],
+      "de": ["die Frau"],
+      "example": ["Das ist die Frau."]
+    },
+    "free": {
+      "en": ["free"],
+      "ru": ["свободный", "бесплатный"],
+      "de": ["frei"],
+      "example": ["Das ist frei."]
+    },
+    "friday": {
+      "en": ["friday"],
+      "ru": ["пятница"],
+      "de": ["der Freitag"],
+      "example": ["Das ist der Freitag."]
+    },
+    "be_happy": {
+      "en": ["be_happy"],
+      "ru": ["радоваться"],
+      "de": ["freuen"],
+      "example": ["Ich möchte freuen."]
+    },
+    "friend": {
+      "en": ["friend"],
+      "ru": ["друг", "подруга"],
+      "de": ["der Freund", "die Freundin"],
+      "example": ["Das ist der Freund."]
+    },
+    "friendly": {
+      "en": ["friendly"],
+      "ru": ["дружелюбный"],
+      "de": ["freundlich"],
+      "example": ["Das ist freundlich."]
+    },
+    "fresh": {
+      "en": ["fresh"],
+      "ru": ["свежий"],
+      "de": ["frisch"],
+      "example": ["Das ist frisch."]
+    },
+    "glad": {
+      "en": ["glad"],
+      "ru": ["радостный", "довольный"],
+      "de": ["froh"],
+      "example": ["Das ist froh."]
+    },
+    "early": {
+      "en": ["early"],
+      "ru": ["ранний", "рано"],
+      "de": ["früh"],
+      "example": ["Das ist früh."]
+    },
+    "earlier": {
+      "en": ["earlier"],
+      "ru": ["раньше"],
+      "de": ["früher"],
+      "example": ["Das ist früher."]
+    },
+    "spring": {
+      "en": ["spring"],
+      "ru": ["весна"],
+      "de": ["der Frühling"],
+      "example": ["Das ist der Frühling."]
+    },
+    "breakfast": {
+      "en": ["breakfast"],
+      "ru": ["завтрак"],
+      "de": ["das Frühstück"],
+      "example": ["Das ist das Frühstück."]
+    },
+    "have_breakfast": {
+      "en": ["have_breakfast"],
+      "ru": ["завтракать"],
+      "de": ["frühstücken"],
+      "example": ["Ich möchte frühstücken."]
+    },
+    "feel": {
+      "en": ["feel"],
+      "ru": ["чувствовать"],
+      "de": ["fühlen"],
+      "example": ["Ich möchte fühlen."]
+    },
+    "drivers_license": {
+      "en": ["drivers_license"],
+      "ru": ["водительские права"],
+      "de": ["der Führerschein"],
+      "example": ["Das ist der Führerschein."]
+    },
+    "for": {
+      "en": ["for"],
+      "ru": ["для", "за"],
+      "de": ["für"],
+      "example": ["Das Geschenk ist für dich."]
+    },
+    "terrible": {
+      "en": ["terrible"],
+      "ru": ["ужасный"],
+      "de": ["furchtbar"],
+      "example": ["Das ist furchtbar."]
+    },
+    "football": {
+      "en": ["football"],
+      "ru": ["футбол"],
+      "de": ["der Fußball"],
+      "example": ["Das ist der Fußball."]
+    },
+    "football_player": {
+      "en": ["football_player"],
+      "ru": ["футболист"],
+      "de": ["der Fußballspieler"],
+      "example": ["Das ist der Fußballspieler."]
+    }
+  },
+  "g": {
+    "quite": {
+      "en": ["quite", "completely"],
+      "ru": ["совсем", "полностью"],
+      "de": ["ganz"],
+      "example": ["Das ist ganz einfach."]
+    },
+    "garage": {
+      "en": ["garage"],
+      "ru": ["гараж"],
+      "de": ["die Garage"],
+      "example": ["Das ist die Garage."]
+    },
+    "garden": {
+      "en": ["garden"],
+      "ru": ["сад"],
+      "de": ["der Garten"],
+      "example": ["Das ist der Garten."]
+    },
+    "garden_party": {
+      "en": ["garden_party"],
+      "ru": ["вечеринка в саду"],
+      "de": ["die Gartenparty"],
+      "example": ["Das ist die Gartenparty."]
+    },
+    "guest": {
+      "en": ["guest"],
+      "ru": ["гость", "гостья"],
+      "de": ["der Gast"],
+      "example": ["Das ist der Gast."]
+    },
+    "building": {
+      "en": ["building"],
+      "ru": ["здание"],
+      "de": ["das Gebäude"],
+      "example": ["Das ist das Gebäude."]
+    },
+    "give": {
+      "en": ["give"],
+      "ru": ["давать"],
+      "de": ["geben"],
+      "example": ["Kannst du mir bitte das Salz geben?"]
+    },
+    "be_born": {
+      "en": ["be_born"],
+      "ru": ["родиться", "быть рожденным"],
+      "de": ["geboren sein"],
+      "example": ["Ich möchte geboren sein."]
+    },
+    "birthday": {
+      "en": ["birthday"],
+      "ru": ["день рождения"],
+      "de": ["der Geburtstag"],
+      "example": ["Das ist der Geburtstag."]
+    },
+    "birthday_cake": {
+      "en": ["birthday_cake"],
+      "ru": ["праздничный торт", "торт ко дню рождения"],
+      "de": ["die Geburtstagstorte"],
+      "example": ["Das ist die Geburtstagstorte."]
+    },
+    "dear": {
+      "en": ["dear"],
+      "ru": ["уважаемый", "уважаемая"],
+      "de": ["geehrter", "geehrte"],
+      "example": ["Sehr geehrte Frau Keller, ich habe eine Frage."]
+    },
+    "like": {
+      "en": ["like", "please"],
+      "ru": ["нравиться"],
+      "de": ["gefallen"],
+      "example": ["Ich möchte gefallen."]
+    },
+    "mutual": {
+      "en": ["mutual"],
+      "ru": ["взаимный"],
+      "de": ["gegenseitig"],
+      "example": ["Das ist gegenseitig."]
+    },
+    "opposite": {
+      "en": ["opposite", "across from"],
+      "ru": ["напротив"],
+      "de": ["gegenüber"],
+      "example": ["Die Apotheke ist direkt gegenüber."]
+    },
+    "go": {
+      "en": ["go"],
+      "ru": ["идти", "ходить"],
+      "de": ["gehen"],
+      "example": ["Ich gehe jetzt nach Hause."]
+    },
+    "yellow": {
+      "en": ["yellow"],
+      "ru": ["желтый"],
+      "de": ["gelb"],
+      "example": ["Das Auto ist gelb."]
+    },
+    "money": {
+      "en": ["money"],
+      "ru": ["деньги"],
+      "de": ["das Geld"],
+      "example": ["Das ist das Geld."]
+    },
+    "together": {
+      "en": ["together"],
+      "ru": ["вместе"],
+      "de": ["gemeinsam"],
+      "example": ["Wir lernen gemeinsam."]
+    },
+    "vegetables": {
+      "en": ["vegetables"],
+      "ru": ["овощи"],
+      "de": ["das Gemüse"],
+      "example": ["Das ist das Gemüse."]
+    },
+    "cozy": {
+      "en": ["cozy", "comfortable"],
+      "ru": ["уютный"],
+      "de": ["gemütlich"],
+      "example": ["Das ist gemütlich."]
+    },
+    "exact": {
+      "en": ["exactly"],
+      "ru": ["точно", "именно"],
+      "de": ["genau"],
+      "example": ["Das ist genau richtig."]
+    },
+    "just_as": {
+      "en": ["just as", "exactly as"],
+      "ru": ["точно так же"],
+      "de": ["genauso"],
+      "example": ["Ich mache es genauso."]
+    },
+    "open": {
+      "en": ["open"],
+      "ru": ["открыто", "открыт"],
+      "de": ["geöffnet"],
+      "example": ["Das ist geöffnet."]
+    },
+    "well_maintained": {
+      "en": ["well_maintained"],
+      "ru": ["ухоженный"],
+      "de": ["gepflegt"],
+      "example": ["Das ist gepflegt."]
+    },
+    "currently": {
+      "en": ["currently", "just now"],
+      "ru": ["сейчас", "как раз"],
+      "de": ["gerade"],
+      "example": ["Ich lerne gerade."]
+    },
+    "straight_ahead": {
+      "en": ["straight_ahead"],
+      "ru": ["прямо"],
+      "de": ["geradeaus"],
+      "example": ["Gehen Sie bitte geradeaus."]
+    },
+    "device": {
+      "en": ["device"],
+      "ru": ["устройство", "прибор"],
+      "de": ["das Gerät"],
+      "example": ["Das ist das Gerät."]
+    },
+    "gladly": {
+      "en": ["gladly"],
+      "ru": ["охотно", "с удовольствием"],
+      "de": ["gern"],
+      "example": ["Ich möchte gern."]
+    },
+    "shop": {
+      "en": ["shop", "business"],
+      "ru": ["магазин", "дело"],
+      "de": ["das Geschäft"],
+      "example": ["Das ist das Geschäft."]
+    },
+    "gift": {
+      "en": ["gift"],
+      "ru": ["подарок"],
+      "de": ["das Geschenk"],
+      "example": ["Das ist das Geschenk."]
+    },
+    "divorced": {
+      "en": ["divorced"],
+      "ru": ["в разводе", "разведенный", "разведенная"],
+      "de": ["geschieden"],
+      "example": ["Ich möchte geschieden."]
+    },
+    "siblings": {
+      "en": ["siblings"],
+      "ru": ["братья и сестры"],
+      "de": ["die Geschwister"],
+      "example": ["Die Geschwister sind hier."]
+    },
+    "face": {
+      "en": ["face"],
+      "ru": ["лицо"],
+      "de": ["das Gesicht"],
+      "example": ["Das ist das Gesicht."]
+    },
+    "conversation": {
+      "en": ["conversation"],
+      "ru": ["разговор", "беседа"],
+      "de": ["das Gespräch"],
+      "example": ["Das ist das Gespräch."]
+    },
+    "yesterday": {
+      "en": ["yesterday"],
+      "ru": ["вчера"],
+      "de": ["gestern"],
+      "example": ["Ich möchte gestern."]
+    },
+    "health": {
+      "en": ["health"],
+      "ru": ["здоровье"],
+      "de": ["die Gesundheit"],
+      "example": ["Das ist die Gesundheit."]
+    },
+    "health_insurance_card": {
+      "en": ["health_insurance_card"],
+      "ru": ["медицинская страховая карта"],
+      "de": ["die Gesundheitskarte"],
+      "example": ["Das ist die Gesundheitskarte."]
+    },
+    "drink": {
+      "en": ["drink"],
+      "ru": ["напиток"],
+      "de": ["das Getränk"],
+      "example": ["Das ist das Getränk."]
+    },
+    "guitar": {
+      "en": ["guitar"],
+      "ru": ["гитара"],
+      "de": ["die Gitarre"],
+      "example": ["Das ist die Gitarre."]
+    },
+    "glass": {
+      "en": ["glass"],
+      "ru": ["стакан", "бокал"],
+      "de": ["das Glas"],
+      "example": ["Das ist das Glas."]
+    },
+    "believe": {
+      "en": ["believe"],
+      "ru": ["верить", "полагать"],
+      "de": ["glauben"],
+      "example": ["Ich möchte glauben."]
+    },
+    "same": {
+      "en": ["same", "soon"],
+      "ru": ["такой же", "скоро"],
+      "de": ["gleich"],
+      "example": ["Wir haben die gleiche Idee."]
+    },
+    "platform": {
+      "en": ["platform"],
+      "ru": ["путь", "платформа"],
+      "de": ["das Gleis"],
+      "example": ["Das ist das Gleis."]
+    },
+    "happy": {
+      "en": ["happy"],
+      "ru": ["счастливый"],
+      "de": ["glücklich"],
+      "example": ["Das ist glücklich."]
+    },
+    "lucky_day": {
+      "en": ["lucky_day"],
+      "ru": ["счастливый день"],
+      "de": ["der Glückstag"],
+      "example": ["Das ist der Glückstag."]
+    },
+    "degree": {
+      "en": ["degree"],
+      "ru": ["градус"],
+      "de": ["der Grad"],
+      "example": ["Das ist der Grad."]
+    },
+    "gram": {
+      "en": ["gram"],
+      "ru": ["грамм"],
+      "de": ["das Gramm"],
+      "example": ["Das ist das Gramm."]
+    },
+    "grammar": {
+      "en": ["grammar"],
+      "ru": ["грамматика"],
+      "de": ["die Grammatik"],
+      "example": ["Das ist die Grammatik."]
+    },
+    "gray": {
+      "en": ["gray"],
+      "ru": ["серый"],
+      "de": ["grau"],
+      "example": ["Das Auto ist grau."]
+    },
+    "barbecue": {
+      "en": ["barbecue", "grill"],
+      "ru": ["жарить на гриле"],
+      "de": ["grillen"],
+      "example": ["Ich möchte grillen."]
+    },
+    "flu": {
+      "en": ["flu"],
+      "ru": ["грипп"],
+      "de": ["die Grippe"],
+      "example": ["Das ist die Grippe."]
+    },
+    "big": {
+      "en": ["big", "tall"],
+      "ru": ["большой", "высокий"],
+      "de": ["groß"],
+      "example": ["Das ist groß."]
+    },
+    "size": {
+      "en": ["size"],
+      "ru": ["размер"],
+      "de": ["die Größe"],
+      "example": ["Das ist die Größe."]
+    },
+    "green": {
+      "en": ["green"],
+      "ru": ["зеленый"],
+      "de": ["grün"],
+      "example": ["Das Auto ist grün."]
+    },
+    "group": {
+      "en": ["group"],
+      "ru": ["группа"],
+      "de": ["die Gruppe"],
+      "example": ["Das ist die Gruppe."]
+    },
+    "greeting": {
+      "en": ["greeting"],
+      "ru": ["привет", "приветствие"],
+      "de": ["der Gruß"],
+      "example": ["Das ist der Gruß."]
+    },
+    "look": {
+      "en": ["look"],
+      "ru": ["смотреть"],
+      "de": ["gucken"],
+      "example": ["Ich möchte gucken."]
+    },
+    "valid": {
+      "en": ["valid"],
+      "ru": ["действительный"],
+      "de": ["gültig"],
+      "example": ["Das ist gültig."]
+    },
+    "cheap": {
+      "en": ["cheap", "inexpensive"],
+      "ru": ["дешевый", "выгодный"],
+      "de": ["günstig"],
+      "example": ["Das ist günstig."]
+    },
+    "good": {
+      "en": ["good"],
+      "ru": ["хороший", "хорошо"],
+      "de": ["gut"],
+      "example": ["Das ist gut."]
+    }
+  },
+  "h": {
+    "hair": {
+      "en": ["hair"],
+      "ru": ["волос", "волосы"],
+      "de": ["das Haar"],
+      "example": ["Das ist das Haar."]
+    },
+    "have": {
+      "en": ["have"],
+      "ru": ["иметь"],
+      "de": ["haben"],
+      "example": ["Ich habe heute viel zu tun."]
+    },
+    "hail": {
+      "en": ["hail"],
+      "ru": ["идти (о граде)", "сыпать градом"],
+      "de": ["hageln"],
+      "example": ["Ich möchte hageln."]
+    },
+    "half": {
+      "en": ["half"],
+      "ru": ["половина", "пол-"],
+      "de": ["halb"],
+      "example": ["Ich warte noch eine halbe Stunde."]
+    },
+    "part_time": {
+      "en": ["part-time"],
+      "ru": ["неполный рабочий день", "полдня"],
+      "de": ["halbtags"],
+      "example": ["Ich arbeite halbtags."]
+    },
+    "hello": {
+      "en": ["hello"],
+      "ru": ["привет", "здравствуйте"],
+      "de": ["hallo"],
+      "example": ["Hallo, wie geht es dir?"]
+    },
+    "neck": {
+      "en": ["neck", "throat"],
+      "ru": ["шея", "горло"],
+      "de": ["der Hals"],
+      "example": ["Das ist der Hals."]
+    },
+    "ent_doctor": {
+      "en": ["ENT doctor"],
+      "ru": ["лор-врач", "отоларинголог"],
+      "de": ["der Hals-Nasen-Ohren-Arzt (HNO)"],
+      "example": ["Das ist der Hals-Nasen-Ohren-Arzt (HNO)."]
+    },
+    "sore_throat": {
+      "en": ["sore throat"],
+      "ru": ["боль в горле"],
+      "de": ["das Halsweh"],
+      "example": ["Das ist das Halsweh."]
+    },
+    "hold": {
+      "en": ["hold", "stop"],
+      "ru": ["держать", "останавливаться"],
+      "de": ["halten"],
+      "example": ["Ich möchte halten."]
+    },
+    "stop": {
+      "en": ["stop"],
+      "ru": ["остановка"],
+      "de": ["die Haltestelle"],
+      "example": ["Das ist die Haltestelle."]
+    },
+    "hand": {
+      "en": ["hand"],
+      "ru": ["рука", "кисть"],
+      "de": ["die Hand"],
+      "example": ["Das ist die Hand."]
+    },
+    "glove": {
+      "en": ["glove"],
+      "ru": ["перчатка"],
+      "de": ["der Handschuh"],
+      "example": ["Das ist der Handschuh."]
+    },
+    "mobile_phone_number": {
+      "en": ["mobile phone number"],
+      "ru": ["номер мобильного телефона"],
+      "de": ["die Handynummer"],
+      "example": ["Das ist die Handynummer."]
+    },
+    "hang": {
+      "en": ["hang"],
+      "ru": ["висеть"],
+      "de": ["hängen"],
+      "example": ["Ich möchte hängen."]
+    },
+    "hare": {
+      "en": ["hare", "rabbit"],
+      "ru": ["заяц"],
+      "de": ["der Hase"],
+      "example": ["Das ist der Hase."]
+    },
+    "ugly": {
+      "en": ["ugly"],
+      "ru": ["некрасивый", "уродливый"],
+      "de": ["hässlich"],
+      "example": ["Das ist hässlich."]
+    },
+    "main_train_station": {
+      "en": ["main train station"],
+      "ru": ["главный вокзал"],
+      "de": ["der Hauptbahnhof"],
+      "example": ["Das ist der Hauptbahnhof."]
+    },
+    "main_thing": {
+      "en": ["main thing"],
+      "ru": ["главное"],
+      "de": ["die Hauptsache"],
+      "example": ["Das ist die Hauptsache."]
+    },
+    "house": {
+      "en": ["house"],
+      "ru": ["дом"],
+      "de": ["das Haus"],
+      "example": ["Das ist das Haus."]
+    },
+    "family_doctor": {
+      "en": ["family doctor"],
+      "ru": ["семейный врач", "терапевт"],
+      "de": ["der Hausarzt"],
+      "example": ["Das ist der Hausarzt."]
+    },
+    "homework": {
+      "en": ["homework"],
+      "ru": ["домашнее задание"],
+      "de": ["die Hausaufgabe"],
+      "example": ["Das ist die Hausaufgabe."]
+    },
+    "hallway": {
+      "en": ["hallway", "stairwell"],
+      "ru": ["подъезд", "коридор дома"],
+      "de": ["der Hausflur"],
+      "example": ["Das ist der Hausflur."]
+    },
+    "househusband_housewife": {
+      "en": ["househusband", "housewife"],
+      "ru": ["домохозяин", "домохозяйка"],
+      "de": ["der Hausmann", "die Hausfrau"],
+      "example": ["Das ist der Hausmann."]
+    },
+    "house_number": {
+      "en": ["house number"],
+      "ru": ["номер дома"],
+      "de": ["die Hausnummer"],
+      "example": ["Das ist die Hausnummer."]
+    },
+    "pet": {
+      "en": ["pet"],
+      "ru": ["домашнее животное"],
+      "de": ["das Haustier"],
+      "example": ["Das ist das Haustier."]
+    },
+    "notebook": {
+      "en": ["notebook", "exercise book"],
+      "ru": ["тетрадь"],
+      "de": ["das Heft"],
+      "example": ["Das ist das Heft."]
+    },
+    "homeland": {
+      "en": ["homeland"],
+      "ru": ["родная страна"],
+      "de": ["das Heimatland"],
+      "example": ["Das ist das Heimatland."]
+    },
+    "marry": {
+      "en": ["marry"],
+      "ru": ["жениться", "выходить замуж"],
+      "de": ["heiraten"],
+      "example": ["Ich möchte heiraten."]
+    },
+    "hot": {
+      "en": ["hot"],
+      "ru": ["горячий", "жаркий"],
+      "de": ["heiß"],
+      "example": ["Heute ist es heiß."]
+    },
+    "be_called": {
+      "en": ["be called"],
+      "ru": ["называться"],
+      "de": ["heißen"],
+      "example": ["Ich heiße Anna."]
+    },
+    "heating": {
+      "en": ["heating"],
+      "ru": ["отопление"],
+      "de": ["die Heizung"],
+      "example": ["Das ist die Heizung."]
+    },
+    "help": {
+      "en": ["help"],
+      "ru": ["помощь"],
+      "de": ["die Hilfe"],
+      "example": ["Das ist die Hilfe."]
+    },
+    "help_someone": {
+      "en": ["help"],
+      "ru": ["помогать"],
+      "de": ["helfen"],
+      "example": ["Ich möchte helfen."]
+    },
+    "bright": {
+      "en": ["bright", "light"],
+      "ru": ["светлый", "яркий"],
+      "de": ["hell"],
+      "example": ["Das ist hell."]
+    },
+    "shirt": {
+      "en": ["shirt"],
+      "ru": ["рубашка"],
+      "de": ["das Hemd"],
+      "example": ["Das ist das Hemd."]
+    },
+    "autumn": {
+      "en": ["autumn"],
+      "ru": ["осень"],
+      "de": ["der Herbst"],
+      "example": ["Das ist der Herbst."]
+    },
+    "stove": {
+      "en": ["stove"],
+      "ru": ["плита"],
+      "de": ["der Herd"],
+      "example": ["Das ist der Herd."]
+    },
+    "mr": {
+      "en": ["Mr.", "gentleman"],
+      "ru": ["господин"],
+      "de": ["der Herr"],
+      "example": ["Das ist der Herr."]
+    },
+    "today": {
+      "en": ["today"],
+      "ru": ["сегодня"],
+      "de": ["heute"],
+      "example": ["Heute habe ich keine Zeit."]
+    },
+    "here": {
+      "en": ["here"],
+      "ru": ["здесь"],
+      "de": ["hier"],
+      "example": ["Hier ist noch frei."]
+    },
+    "raspberry": {
+      "en": ["raspberry"],
+      "ru": ["малина"],
+      "de": ["die Himbeere"],
+      "example": ["Das ist die Himbeere."]
+    },
+    "cardinal_direction": {
+      "en": ["cardinal direction"],
+      "ru": ["сторона света"],
+      "de": ["die Himmelsrichtung"],
+      "example": ["Das ist die Himmelsrichtung."]
+    },
+    "at_the_back": {
+      "en": ["at the back", "behind"],
+      "ru": ["сзади"],
+      "de": ["hinten"],
+      "example": ["Ich möchte hinten."]
+    },
+    "behind": {
+      "en": ["behind"],
+      "ru": ["позади", "за"],
+      "de": ["hinter"],
+      "example": ["Das Auto steht hinter dem Haus."]
+    },
+    "hobby": {
+      "en": ["hobby"],
+      "ru": ["хобби"],
+      "de": ["das Hobby"],
+      "example": ["Das ist das Hobby."]
+    },
+    "high_rise": {
+      "en": ["high-rise building"],
+      "ru": ["высотный дом"],
+      "de": ["das Hochhaus"],
+      "example": ["Das ist das Hochhaus."]
+    },
+    "wedding": {
+      "en": ["wedding"],
+      "ru": ["свадьба"],
+      "de": ["die Hochzeit"],
+      "example": ["Das ist die Hochzeit."]
+    },
+    "wedding_celebration": {
+      "en": ["wedding celebration"],
+      "ru": ["свадебное торжество"],
+      "de": ["die Hochzeitsfeier"],
+      "example": ["Das ist die Hochzeitsfeier."]
+    },
+    "honey": {
+      "en": ["honey"],
+      "ru": ["мед"],
+      "de": ["der Honig"],
+      "example": ["Das ist der Honig."]
+    },
+    "hear": {
+      "en": ["hear", "listen"],
+      "ru": ["слышать", "слушать"],
+      "de": ["hören"],
+      "example": ["Ich höre gern Musik."]
+    },
+    "trousers": {
+      "en": ["trousers", "pants"],
+      "ru": ["брюки"],
+      "de": ["die Hose"],
+      "example": ["Die Hose sind hier."]
+    },
+    "hotel": {
+      "en": ["hotel"],
+      "ru": ["отель", "гостиница"],
+      "de": ["das Hotel"],
+      "example": ["Das ist das Hotel."]
+    },
+    "dog": {
+      "en": ["dog"],
+      "ru": ["собака"],
+      "de": ["der Hund"],
+      "example": ["Das ist der Hund."]
+    },
+    "hunger": {
+      "en": ["hunger"],
+      "ru": ["голод"],
+      "de": ["der Hunger"],
+      "example": ["Das ist der Hunger."]
+    },
+    "cough": {
+      "en": ["cough"],
+      "ru": ["кашель"],
+      "de": ["der Husten"],
+      "example": ["Das ist der Husten."]
+    },
+    "cough_syrup": {
+      "en": ["cough syrup"],
+      "ru": ["сироп от кашля"],
+      "de": ["der Hustensaft"],
+      "example": ["Das ist der Hustensaft."]
+    }
+  },
+  "i": {
+    "i": {
+      "en": ["I"],
+      "ru": ["я"],
+      "de": ["ich"],
+      "example": ["Ich komme aus Berlin."]
+    },
+    "idea": {
+      "en": ["idea"],
+      "ru": ["идея"],
+      "de": ["die Idee"],
+      "example": ["Das ist die Idee."]
+    },
+    "him": {
+      "en": ["him", "to him"],
+      "ru": ["ему", "его"],
+      "de": ["ihm"],
+      "example": ["Ich gebe ihm das Buch."]
+    },
+    "you_formal": {
+      "en": ["you", "to you (formal)"],
+      "ru": ["Вам", "Вас (вежл.)"],
+      "de": ["Ihnen"],
+      "example": ["Ich möchte Ihnen."]
+    },
+    "her": {
+      "en": ["her", "to her"],
+      "ru": ["ей", "ее"],
+      "de": ["ihr"],
+      "example": ["Ich schreibe ihr heute."]
+    },
+    "your_formal": {
+      "en": ["your (formal)"],
+      "ru": ["Ваш", "Ваша", "Ваше", "Ваши"],
+      "de": ["Ihr", "Ihre"],
+      "example": ["Ist das Ihr Termin?"]
+    },
+    "her_their": {
+      "en": ["her", "their"],
+      "ru": ["ее", "их"],
+      "de": ["ihr", "ihre"],
+      "example": ["Ihre Kinder sind schon groß."]
+    },
+    "always": {
+      "en": ["always"],
+      "ru": ["всегда"],
+      "de": ["immer"],
+      "example": ["Ich komme immer pünktlich."]
+    },
+    "property": {
+      "en": ["property", "real estate"],
+      "ru": ["недвижимость", "объект недвижимости"],
+      "de": ["die Immobilie"],
+      "example": ["Das ist die Immobilie."]
+    },
+    "in": {
+      "en": ["in"],
+      "ru": ["в"],
+      "de": ["in"],
+      "example": ["Ich bin in der Küche."]
+    },
+    "information": {
+      "en": ["information"],
+      "ru": ["информация", "справка"],
+      "de": ["die Information"],
+      "example": ["Das ist die Information."]
+    },
+    "information_desk": {
+      "en": ["information desk"],
+      "ru": ["справочное окно", "стойка информации"],
+      "de": ["der Informationsschalter"],
+      "example": ["Das ist der Informationsschalter."]
+    },
+    "engineer": {
+      "en": ["engineer"],
+      "ru": ["инженер"],
+      "de": ["der Ingenieur"],
+      "example": ["Das ist der Ingenieur."]
+    },
+    "island": {
+      "en": ["island"],
+      "ru": ["остров"],
+      "de": ["die Insel"],
+      "example": ["Das ist die Insel."]
+    },
+    "island_tour": {
+      "en": ["island tour"],
+      "ru": ["экскурсия по острову"],
+      "de": ["die Inselrundfahrt"],
+      "example": ["Das ist die Inselrundfahrt."]
+    },
+    "in_total": {
+      "en": ["in total", "altogether"],
+      "ru": ["всего", "в целом"],
+      "de": ["insgesamt"],
+      "example": ["Insgesamt sind es zehn Personen."]
+    },
+    "install": {
+      "en": ["install"],
+      "ru": ["устанавливать"],
+      "de": ["installieren"],
+      "example": ["Ich möchte installieren."]
+    },
+    "intercity": {
+      "en": ["Intercity"],
+      "ru": ["поезд Intercity"],
+      "de": ["der Intercity"],
+      "example": ["Das ist der Intercity."]
+    },
+    "interesting": {
+      "en": ["interesting"],
+      "ru": ["интересный"],
+      "de": ["interessant"],
+      "example": ["Das ist interessant."]
+    },
+    "interview": {
+      "en": ["interview"],
+      "ru": ["интервью", "собеседование"],
+      "de": ["das Interview"],
+      "example": ["Das ist das Interview."]
+    }
+  },
+  "j": {
+    "yes": {
+      "en": ["yes"],
+      "ru": ["да"],
+      "de": ["ja"],
+      "example": ["Ja, das stimmt."]
+    },
+    "jacket": {
+      "en": ["jacket"],
+      "ru": ["куртка"],
+      "de": ["die Jacke"],
+      "example": ["Das ist die Jacke."]
+    },
+    "year": {
+      "en": ["year"],
+      "ru": ["год"],
+      "de": ["das Jahr"],
+      "example": ["Das ist das Jahr."]
+    },
+    "year_number": {
+      "en": ["year number"],
+      "ru": ["год", "дата"],
+      "de": ["die Jahreszahl"],
+      "example": ["Das ist die Jahreszahl."]
+    },
+    "season": {
+      "en": ["season"],
+      "ru": ["время года"],
+      "de": ["die Jahreszeit"],
+      "example": ["Das ist die Jahreszeit."]
+    },
+    "january": {
+      "en": ["january"],
+      "ru": ["январь"],
+      "de": ["der Januar"],
+      "example": ["Das ist der Januar."]
+    },
+    "jeans": {
+      "en": ["jeans"],
+      "ru": ["джинсы"],
+      "de": ["die Jeans"],
+      "example": ["Die Jeans sind hier."]
+    },
+    "each_every": {
+      "en": ["each", "every"],
+      "ru": ["каждый", "каждая", "каждое"],
+      "de": ["jeder", "jede", "jedes"],
+      "example": ["Jeder Tag ist anders."]
+    },
+    "now": {
+      "en": ["now"],
+      "ru": ["сейчас"],
+      "de": ["jetzt"],
+      "example": ["Jetzt habe ich Zeit."]
+    },
+    "job_center": {
+      "en": ["job center"],
+      "ru": ["центр занятости"],
+      "de": ["das Jobcenter"],
+      "example": ["Das ist das Jobcenter."]
+    },
+    "tracksuit": {
+      "en": ["tracksuit"],
+      "ru": ["спортивный костюм"],
+      "de": ["der Jogginganzug"],
+      "example": ["Das ist der Jogginganzug."]
+    },
+    "yogurt": {
+      "en": ["yogurt"],
+      "ru": ["йогурт"],
+      "de": ["der Joghurt"],
+      "example": ["Das ist der Joghurt."]
+    },
+    "july": {
+      "en": ["july"],
+      "ru": ["июль"],
+      "de": ["der Juli"],
+      "example": ["Das ist der Juli."]
+    },
+    "june": {
+      "en": ["june"],
+      "ru": ["июнь"],
+      "de": ["der Juni"],
+      "example": ["Das ist der Juni."]
+    }
+  },
+  "k": {
+    "coffee": {
+      "en": ["coffee"],
+      "ru": ["кофе"],
+      "de": ["der Kaffee"],
+      "example": ["Das ist der Kaffee."]
+    },
+    "coffee_machine": {
+      "en": ["coffee machine"],
+      "ru": ["кофемашина"],
+      "de": ["die Kaffeemaschine"],
+      "example": ["Das ist die Kaffeemaschine."]
+    },
+    "calendar": {
+      "en": ["calendar"],
+      "ru": ["календарь"],
+      "de": ["der Kalender"],
+      "example": ["Das ist der Kalender."]
+    },
+    "cold": {
+      "en": ["cold"],
+      "ru": ["холодный"],
+      "de": ["kalt"],
+      "example": ["Heute ist es kalt."]
+    },
+    "canteen": {
+      "en": ["canteen"],
+      "ru": ["столовая"],
+      "de": ["die Kantine"],
+      "example": ["Das ist die Kantine."]
+    },
+    "broken": {
+      "en": ["broken"],
+      "ru": ["сломанный"],
+      "de": ["kaputt"],
+      "example": ["Das ist kaputt."]
+    },
+    "card": {
+      "en": ["card", "map"],
+      "ru": ["карта", "карточка"],
+      "de": ["die Karte"],
+      "example": ["Das ist die Karte."]
+    },
+    "potato": {
+      "en": ["potato"],
+      "ru": ["картофель", "картошка"],
+      "de": ["die Kartoffel"],
+      "example": ["Das ist die Kartoffel."]
+    },
+    "cheese": {
+      "en": ["cheese"],
+      "ru": ["сыр"],
+      "de": ["der Käse"],
+      "example": ["Das ist der Käse."]
+    },
+    "cash_register": {
+      "en": ["cash register"],
+      "ru": ["касса"],
+      "de": ["die Kasse"],
+      "example": ["Das ist die Kasse."]
+    },
+    "receipt": {
+      "en": ["receipt"],
+      "ru": ["кассовый чек", "чек"],
+      "de": ["der Kassenbon"],
+      "example": ["Das ist der Kassenbon."]
+    },
+    "cashier": {
+      "en": ["cashier"],
+      "ru": ["кассир"],
+      "de": ["der Kassierer", "die Kassiererin"],
+      "example": ["Das ist der Kassierer."]
+    },
+    "buy": {
+      "en": ["buy"],
+      "ru": ["покупать"],
+      "de": ["kaufen"],
+      "example": ["Ich kaufe heute Brot."]
+    },
+    "businesswoman": {
+      "en": ["businesswoman"],
+      "ru": ["деловая женщина"],
+      "de": ["die Kauffrau"],
+      "example": ["Das ist die Kauffrau."]
+    },
+    "department_store": {
+      "en": ["department store"],
+      "ru": ["универмаг"],
+      "de": ["das Kaufhaus"],
+      "example": ["Das ist das Kaufhaus."]
+    },
+    "deposit": {
+      "en": ["deposit"],
+      "ru": ["залог"],
+      "de": ["die Kaution"],
+      "example": ["Das ist die Kaution."]
+    },
+    "no_not_any": {
+      "en": ["no", "not any"],
+      "ru": ["никакой", "нет"],
+      "de": ["kein", "keine"],
+      "example": ["Ich habe kein Geld dabei."]
+    },
+    "cookie": {
+      "en": ["cookie"],
+      "ru": ["печенье"],
+      "de": ["der Keks"],
+      "example": ["Das ist der Keks."]
+    },
+    "basement": {
+      "en": ["basement"],
+      "ru": ["подвал"],
+      "de": ["der Keller"],
+      "example": ["Das ist der Keller."]
+    },
+    "waiter": {
+      "en": ["waiter"],
+      "ru": ["официант"],
+      "de": ["der Kellner", "die Kellnerin"],
+      "example": ["Das ist der Kellner."]
+    },
+    "know": {
+      "en": ["know"],
+      "ru": ["знать", "быть знакомым"],
+      "de": ["kennen"],
+      "example": ["Ich möchte kennen."]
+    },
+    "chickpea": {
+      "en": ["chickpea"],
+      "ru": ["нут"],
+      "de": ["die Kichererbse"],
+      "example": ["Das ist die Kichererbse."]
+    },
+    "kilo": {
+      "en": ["kilo"],
+      "ru": ["кило", "килограмм"],
+      "de": ["das Kilo"],
+      "example": ["Das ist das Kilo."]
+    },
+    "child": {
+      "en": ["child"],
+      "ru": ["ребёнок"],
+      "de": ["das Kind"],
+      "example": ["Das ist das Kind."]
+    },
+    "kindergarten": {
+      "en": ["kindergarten"],
+      "ru": ["детский сад"],
+      "de": ["der Kindergarten"],
+      "example": ["Das ist der Kindergarten."]
+    },
+    "childrens_room": {
+      "en": ["children's room"],
+      "ru": ["детская комната"],
+      "de": ["das Kinderzimmer"],
+      "example": ["Das ist das Kinderzimmer."]
+    },
+    "cinema": {
+      "en": ["cinema"],
+      "ru": ["кинотеатр"],
+      "de": ["das Kino"],
+      "example": ["Das ist das Kino."]
+    },
+    "church": {
+      "en": ["church"],
+      "ru": ["церковь"],
+      "de": ["die Kirche"],
+      "example": ["Das ist die Kirche."]
+    },
+    "cherry": {
+      "en": ["cherry"],
+      "ru": ["вишня"],
+      "de": ["die Kirsche"],
+      "example": ["Das ist die Kirsche."]
+    },
+    "kiwi": {
+      "en": ["kiwi"],
+      "ru": ["киви"],
+      "de": ["die Kiwi"],
+      "example": ["Das ist die Kiwi."]
+    },
+    "clothes": {
+      "en": ["clothes"],
+      "ru": ["одежда", "шмотки"],
+      "de": ["die Klamotten"],
+      "example": ["Die Klamotten sind hier."]
+    },
+    "clear": {
+      "en": ["clear"],
+      "ru": ["ясный", "понятный", "ясно", "понятно"],
+      "de": ["klar"],
+      "example": ["Das ist klar."]
+    },
+    "great": {
+      "en": ["great"],
+      "ru": ["классный", "отличный", "классно"],
+      "de": ["klasse"],
+      "example": ["Das ist klasse!"]
+    },
+    "dress": {
+      "en": ["dress"],
+      "ru": ["платье"],
+      "de": ["das Kleid"],
+      "example": ["Das ist das Kleid."]
+    },
+    "wardrobe": {
+      "en": ["wardrobe"],
+      "ru": ["шкаф для одежды"],
+      "de": ["der Kleiderschrank"],
+      "example": ["Das ist der Kleiderschrank."]
+    },
+    "clothing": {
+      "en": ["clothing"],
+      "ru": ["одежда"],
+      "de": ["die Kleidung"],
+      "example": ["Das ist die Kleidung."]
+    },
+    "items_of_clothing": {
+      "en": ["items of clothing"],
+      "ru": ["предметы одежды"],
+      "de": ["die Kleidungsstücke"],
+      "example": ["Die Kleidungsstücke sind hier."]
+    },
+    "small": {
+      "en": ["small"],
+      "ru": ["маленький"],
+      "de": ["klein"],
+      "example": ["Das ist klein."]
+    },
+    "ring_bell": {
+      "en": ["ring", "buzz"],
+      "ru": ["звонить"],
+      "de": ["klingeln"],
+      "example": ["Ich möchte klingeln."]
+    },
+    "knee": {
+      "en": ["knee"],
+      "ru": ["колено"],
+      "de": ["das Knie"],
+      "example": ["Das ist das Knie."]
+    },
+    "tricky": {
+      "en": ["tricky"],
+      "ru": ["хитрый", "сложный"],
+      "de": ["knifflig"],
+      "example": ["Das ist knifflig."]
+    },
+    "cook_person": {
+      "en": ["cook"],
+      "ru": ["повар"],
+      "de": ["der Koch", "die Köchin"],
+      "example": ["Das ist der Koch."]
+    },
+    "cook": {
+      "en": ["cook"],
+      "ru": ["готовить"],
+      "de": ["kochen"],
+      "example": ["Ich möchte kochen."]
+    },
+    "suitcase": {
+      "en": ["suitcase"],
+      "ru": ["чемодан"],
+      "de": ["der Koffer"],
+      "example": ["Das ist der Koffer."]
+    },
+    "colleague": {
+      "en": ["colleague"],
+      "ru": ["коллега"],
+      "de": ["der Kollege", "die Kollegin"],
+      "example": ["Das ist der Kollege."]
+    },
+    "come": {
+      "en": ["come"],
+      "ru": ["приходить"],
+      "de": ["kommen"],
+      "example": ["Kommst du morgen?"]
+    },
+    "can": {
+      "en": ["can", "be able to"],
+      "ru": ["мочь", "уметь"],
+      "de": ["können"],
+      "example": ["Ich kann dir helfen."]
+    },
+    "contact": {
+      "en": ["contact"],
+      "ru": ["контакт"],
+      "de": ["der Kontakt"],
+      "example": ["Das ist der Kontakt."]
+    },
+    "check_control": {
+      "en": ["check", "control"],
+      "ru": ["проверка", "контроль"],
+      "de": ["die Kontrolle"],
+      "example": ["Das ist die Kontrolle."]
+    },
+    "concert": {
+      "en": ["concert"],
+      "ru": ["концерт"],
+      "de": ["das Konzert"],
+      "example": ["Das ist das Konzert."]
+    },
+    "head": {
+      "en": ["head"],
+      "ru": ["голова"],
+      "de": ["der Kopf"],
+      "example": ["Das ist der Kopf."]
+    },
+    "headache": {
+      "en": ["headache"],
+      "ru": ["головная боль"],
+      "de": ["die Kopfschmerzen"],
+      "example": ["Das ist die Kopfschmerzen."]
+    },
+    "body": {
+      "en": ["body"],
+      "ru": ["тело"],
+      "de": ["der Körper"],
+      "example": ["Das ist der Körper."]
+    },
+    "part_of_body": {
+      "en": ["part of the body"],
+      "ru": ["часть тела"],
+      "de": ["der Körperteil"],
+      "example": ["Das ist der Körperteil."]
+    },
+    "correct": {
+      "en": ["correct"],
+      "ru": ["исправлять"],
+      "de": ["korrigieren"],
+      "example": ["Ich möchte korrigieren."]
+    },
+    "cost": {
+      "en": ["cost"],
+      "ru": ["стоить"],
+      "de": ["kosten"],
+      "example": ["Ich möchte kosten."]
+    },
+    "motor_vehicle": {
+      "en": ["motor vehicle"],
+      "ru": ["транспортное средство"],
+      "de": ["das Kraftfahrzeug (KFZ)"],
+      "example": ["Das ist das Kraftfahrzeug (KFZ)."]
+    },
+    "sick": {
+      "en": ["sick"],
+      "ru": ["больной"],
+      "de": ["krank"],
+      "example": ["Das ist krank."]
+    },
+    "hospital": {
+      "en": ["hospital"],
+      "ru": ["больница"],
+      "de": ["das Krankenhaus"],
+      "example": ["Das ist das Krankenhaus."]
+    },
+    "health_insurance": {
+      "en": ["health insurance"],
+      "ru": ["медицинская страховка"],
+      "de": ["die Krankenkasse"],
+      "example": ["Das ist die Krankenkasse."]
+    },
+    "nursing_care": {
+      "en": ["nursing care"],
+      "ru": ["уход за больными"],
+      "de": ["die Krankenpflege"],
+      "example": ["Das ist die Krankenpflege."]
+    },
+    "nurse": {
+      "en": ["nurse"],
+      "ru": ["медсестра"],
+      "de": ["die Krankenschwester"],
+      "example": ["Das ist die Krankenschwester."]
+    },
+    "illness": {
+      "en": ["illness"],
+      "ru": ["болезнь"],
+      "de": ["die Krankheit"],
+      "example": ["Die Krankheit sind hier."]
+    },
+    "sick_note": {
+      "en": ["sick note"],
+      "ru": ["больничный лист"],
+      "de": ["die Krankmeldung"],
+      "example": ["Das ist die Krankmeldung."]
+    },
+    "creative": {
+      "en": ["creative"],
+      "ru": ["творческий"],
+      "de": ["kreativ"],
+      "example": ["Das ist kreativ."]
+    },
+    "intersection": {
+      "en": ["intersection"],
+      "ru": ["перекрёсток"],
+      "de": ["die Kreuzung"],
+      "example": ["Das ist die Kreuzung."]
+    },
+    "kitchen": {
+      "en": ["kitchen"],
+      "ru": ["кухня"],
+      "de": ["die Küche"],
+      "example": ["Das ist die Küche."]
+    },
+    "cake": {
+      "en": ["cake"],
+      "ru": ["пирог", "торт"],
+      "de": ["der Kuchen"],
+      "example": ["Das ist der Kuchen."]
+    },
+    "ballpoint_pen": {
+      "en": ["ballpoint pen"],
+      "ru": ["шариковая ручка"],
+      "de": ["der Kugelschreiber (Kuli)"],
+      "example": ["Das ist der Kugelschreiber (Kuli)."]
+    },
+    "refrigerator": {
+      "en": ["refrigerator"],
+      "ru": ["холодильник"],
+      "de": ["der Kühlschrank"],
+      "example": ["Das ist der Kühlschrank."]
+    },
+    "customer": {
+      "en": ["customer"],
+      "ru": ["клиент"],
+      "de": ["der Kunde", "die Kundin"],
+      "example": ["Das ist der Kunde."]
+    },
+    "course": {
+      "en": ["course"],
+      "ru": ["курс"],
+      "de": ["der Kurs"],
+      "example": ["Das ist der Kurs."]
+    },
+    "course_book": {
+      "en": ["course book"],
+      "ru": ["учебник курса"],
+      "de": ["das Kursbuch"],
+      "example": ["Das ist das Kursbuch."]
+    },
+    "course_room": {
+      "en": ["course room"],
+      "ru": ["аудитория"],
+      "de": ["der Kursraum"],
+      "example": ["Das ist der Kursraum."]
+    },
+    "course_participant": {
+      "en": ["course participant"],
+      "ru": ["участник курса"],
+      "de": ["der Kursteilnehmer", "die Kursteilnehmerin"],
+      "example": ["Das ist der Kursteilnehmer."]
+    },
+    "short": {
+      "en": ["short"],
+      "ru": ["короткий"],
+      "de": ["kurz"],
+      "example": ["Das ist kurz."]
+    },
+    "short_distance": {
+      "en": ["short distance"],
+      "ru": ["короткая дистанция"],
+      "de": ["die Kurzstrecke"],
+      "example": ["Das ist die Kurzstrecke."]
+    }
+  },
+  "l": {
+    "lamb_meat": {
+      "en": ["lamb meat"],
+      "ru": ["баранина"],
+      "de": ["das Lammfleisch"],
+      "example": ["Das ist das Lammfleisch."]
+    },
+    "lamp": {
+      "en": ["lamp"],
+      "ru": ["лампа"],
+      "de": ["die Lampe"],
+      "example": ["Das ist die Lampe."]
+    },
+    "country": {
+      "en": ["country"],
+      "ru": ["страна"],
+      "de": ["das Land"],
+      "example": ["Das ist das Land."]
+    },
+    "map": {
+      "en": ["map"],
+      "ru": ["карта"],
+      "de": ["die Landkarte"],
+      "example": ["Das ist die Landkarte."]
+    },
+    "long": {
+      "en": ["long"],
+      "ru": ["длинный", "долгий"],
+      "de": ["lang"],
+      "example": ["Das ist lang."]
+    },
+    "slow": {
+      "en": ["slow"],
+      "ru": ["медленный"],
+      "de": ["langsam"],
+      "example": ["Das ist langsam."]
+    },
+    "boring": {
+      "en": ["boring"],
+      "ru": ["скучный"],
+      "de": ["langweilig"],
+      "example": ["Das ist langweilig."]
+    },
+    "let_allow": {
+      "en": ["let", "allow"],
+      "ru": ["позволять", "разрешать", "оставлять"],
+      "de": ["lassen"],
+      "example": ["Lass mich kurz überlegen."]
+    },
+    "loud": {
+      "en": ["loud"],
+      "ru": ["громкий"],
+      "de": ["laut"],
+      "example": ["Das ist laut."]
+    },
+    "live": {
+      "en": ["live"],
+      "ru": ["жить"],
+      "de": ["leben"],
+      "example": ["Ich möchte leben."]
+    },
+    "food": {
+      "en": ["food"],
+      "ru": ["продукты", "еда"],
+      "de": ["die Lebensmittel"],
+      "example": ["Das ist die Lebensmittel."]
+    },
+    "delicious": {
+      "en": ["delicious"],
+      "ru": ["вкусный"],
+      "de": ["lecker"],
+      "example": ["Das ist lecker."]
+    },
+    "single": {
+      "en": ["single", "unmarried"],
+      "ru": ["холостой", "незамужняя"],
+      "de": ["ledig"],
+      "example": ["Er ist noch ledig."]
+    },
+    "teacher": {
+      "en": ["teacher"],
+      "ru": ["учитель", "учительница"],
+      "de": ["der Lehrer", "die Lehrerin"],
+      "example": ["Das ist der Lehrer."]
+    },
+    "unfortunately": {
+      "en": ["unfortunately"],
+      "ru": ["к сожалению"],
+      "de": ["leider"],
+      "example": ["Leider habe ich heute keine Zeit."]
+    },
+    "learn": {
+      "en": ["learn"],
+      "ru": ["учить", "изучать"],
+      "de": ["lernen"],
+      "example": ["Ich lerne jeden Tag Deutsch."]
+    },
+    "read": {
+      "en": ["read"],
+      "ru": ["читать"],
+      "de": ["lesen"],
+      "example": ["Ich lese gerade ein Buch."]
+    },
+    "last": {
+      "en": ["last"],
+      "ru": ["последний"],
+      "de": ["letzte"],
+      "example": ["Das ist letzte."]
+    },
+    "people": {
+      "en": ["people"],
+      "ru": ["люди"],
+      "de": ["die Leute"],
+      "example": ["Das ist die Leute."]
+    },
+    "rather": {
+      "en": ["rather", "dear"],
+      "ru": ["лучше", "охотнее; дорогой", "дорогая"],
+      "de": ["lieber", "liebe"],
+      "example": ["Ich trinke lieber Tee."]
+    },
+    "love": {
+      "en": ["love"],
+      "ru": ["любить"],
+      "de": ["lieben"],
+      "example": ["Ich möchte lieben."]
+    },
+    "preferably": {
+      "en": ["preferably", "best of all"],
+      "ru": ["больше всего", "предпочтительно"],
+      "de": ["liebsten (am liebsten)"],
+      "example": ["Am liebsten esse ich Pasta."]
+    },
+    "lie": {
+      "en": ["lie", "be located"],
+      "ru": ["лежать", "находиться"],
+      "de": ["liegen"],
+      "example": ["Ich möchte liegen."]
+    },
+    "purple": {
+      "en": ["purple"],
+      "ru": ["лиловый", "фиолетовый"],
+      "de": ["lila"],
+      "example": ["Das Auto ist lila."]
+    },
+    "lemonade": {
+      "en": ["lemonade"],
+      "ru": ["лимонад"],
+      "de": ["die Limonade (Limo)"],
+      "example": ["Das ist die Limonade (Limo)."]
+    },
+    "line": {
+      "en": ["line"],
+      "ru": ["линия"],
+      "de": ["die Linie"],
+      "example": ["Das ist die Linie."]
+    },
+    "left": {
+      "en": ["left"],
+      "ru": ["слева", "налево"],
+      "de": ["links"],
+      "example": ["Die Bank ist links."]
+    },
+    "list": {
+      "en": ["list"],
+      "ru": ["список"],
+      "de": ["die Liste"],
+      "example": ["Das ist die Liste."]
+    },
+    "liter": {
+      "en": ["liter"],
+      "ru": ["литр"],
+      "de": ["der Liter"],
+      "example": ["Das ist der Liter."]
+    },
+    "solution": {
+      "en": ["solution"],
+      "ru": ["решение"],
+      "de": ["die Lösung"],
+      "example": ["Das ist die Lösung."]
+    },
+    "balloon": {
+      "en": ["balloon"],
+      "ru": ["воздушный шар"],
+      "de": ["der Luftballon"],
+      "example": ["Das ist der Luftballon."]
+    },
+    "funny": {
+      "en": ["funny"],
+      "ru": ["смешной", "забавный"],
+      "de": ["lustig"],
+      "example": ["Das ist lustig."]
+    }
+  },
+  "m": {
+    "do_make": {
+      "en": ["do", "make"],
+      "ru": ["делать"],
+      "de": ["machen"],
+      "example": ["Was machst du heute?"]
+    },
+    "may": {
+      "en": ["may"],
+      "ru": ["май"],
+      "de": ["der Mai"],
+      "example": ["Das ist der Mai."]
+    },
+    "mom": {
+      "en": ["mom"],
+      "ru": ["мама"],
+      "de": ["die Mama"],
+      "example": ["Das ist die Mama."]
+    },
+    "sometimes": {
+      "en": ["sometimes"],
+      "ru": ["иногда"],
+      "de": ["manchmal"],
+      "example": ["Manchmal gehe ich zu Fuß."]
+    },
+    "mandarin": {
+      "en": ["mandarin"],
+      "ru": ["мандарин"],
+      "de": ["die Mandarine"],
+      "example": ["Das ist die Mandarine."]
+    },
+    "mango": {
+      "en": ["mango"],
+      "ru": ["манго"],
+      "de": ["die Mango"],
+      "example": ["Das ist die Mango."]
+    },
+    "man_husband": {
+      "en": ["man", "husband"],
+      "ru": ["мужчина", "муж"],
+      "de": ["der Mann"],
+      "example": ["Das ist der Mann."]
+    },
+    "coat": {
+      "en": ["coat"],
+      "ru": ["пальто"],
+      "de": ["der Mantel"],
+      "example": ["Das ist der Mantel."]
+    },
+    "market": {
+      "en": ["market"],
+      "ru": ["рынок"],
+      "de": ["der Markt"],
+      "example": ["Das ist der Markt."]
+    },
+    "jam": {
+      "en": ["jam"],
+      "ru": ["варенье", "джем"],
+      "de": ["die Marmelade"],
+      "example": ["Das ist die Marmelade."]
+    },
+    "march": {
+      "en": ["march"],
+      "ru": ["март"],
+      "de": ["der März"],
+      "example": ["Das ist der März."]
+    },
+    "mathematics": {
+      "en": ["mathematics"],
+      "ru": ["математика"],
+      "de": ["die Mathematik"],
+      "example": ["Die Mathematik sind hier."]
+    },
+    "maximum_at_most": {
+      "en": ["maximum", "at most"],
+      "ru": ["максимум", "максимально"],
+      "de": ["maximal"],
+      "example": ["Wir bleiben maximal zwei Stunden."]
+    },
+    "medication": {
+      "en": ["medication"],
+      "ru": ["лекарство", "медикамент"],
+      "de": ["das Medikament"],
+      "example": ["Das ist das Medikament."]
+    },
+    "sea": {
+      "en": ["sea"],
+      "ru": ["море"],
+      "de": ["das Meer"],
+      "example": ["Das ist das Meer."]
+    },
+    "flour": {
+      "en": ["flour"],
+      "ru": ["мука"],
+      "de": ["das Mehl"],
+      "example": ["Das ist das Mehl."]
+    },
+    "more": {
+      "en": ["more"],
+      "ru": ["больше", "ещё"],
+      "de": ["mehr"],
+      "example": ["Ich brauche mehr Zeit."]
+    },
+    "apartment_building": {
+      "en": ["apartment building"],
+      "ru": ["многоквартирный дом"],
+      "de": ["das Mehrfamilienhaus"],
+      "example": ["Das ist das Mehrfamilienhaus."]
+    },
+    "my": {
+      "en": ["my"],
+      "ru": ["мой", "моя"],
+      "de": ["mein", "meine"],
+      "example": ["Das ist meine Tasche."]
+    },
+    "most": {
+      "en": ["most"],
+      "ru": ["больше всего"],
+      "de": ["meisten (am meisten)"],
+      "example": ["Am meisten mag ich den Sommer."]
+    },
+    "mostly_usually": {
+      "en": ["mostly", "usually"],
+      "ru": ["обычно", "чаще всего"],
+      "de": ["meistens"],
+      "example": ["Ich frühstücke meistens zu Hause."]
+    },
+    "melon": {
+      "en": ["melon"],
+      "ru": ["дыня"],
+      "de": ["die Melone"],
+      "example": ["Das ist die Melone."]
+    },
+    "quantity_indication": {
+      "en": ["quantity indication"],
+      "ru": ["указание количества"],
+      "de": ["die Mengenangabe"],
+      "example": ["Das ist die Mengenangabe."]
+    },
+    "human_being": {
+      "en": ["human being", "person"],
+      "ru": ["человек"],
+      "de": ["der Mensch"],
+      "example": ["Das ist der Mensch."]
+    },
+    "meter": {
+      "en": ["meter"],
+      "ru": ["метр"],
+      "de": ["der Meter"],
+      "example": ["Das ist der Meter."]
+    },
+    "butcher": {
+      "en": ["butcher"],
+      "ru": ["мясник"],
+      "de": ["der Metzger"],
+      "example": ["Das ist der Metzger."]
+    },
+    "rent": {
+      "en": ["rent"],
+      "ru": ["арендная плата"],
+      "de": ["die Miete"],
+      "example": ["Das ist die Miete."]
+    },
+    "milk": {
+      "en": ["milk"],
+      "ru": ["молоко"],
+      "de": ["die Milch"],
+      "example": ["Das ist die Milch."]
+    },
+    "dairy_product": {
+      "en": ["dairy product"],
+      "ru": ["молочный продукт"],
+      "de": ["das Milchprodukt"],
+      "example": ["Das ist das Milchprodukt."]
+    },
+    "at_least": {
+      "en": ["at least"],
+      "ru": ["минимум", "по крайней мере"],
+      "de": ["mindestens"],
+      "example": ["Ich brauche mindestens zehn Minuten."]
+    },
+    "minus": {
+      "en": ["minus"],
+      "ru": ["минус"],
+      "de": ["minus"],
+      "example": ["Heute sind es minus zwei Grad."]
+    },
+    "minute": {
+      "en": ["minute"],
+      "ru": ["минута"],
+      "de": ["die Minute"],
+      "example": ["Das ist die Minute."]
+    },
+    "to_me": {
+      "en": ["to me"],
+      "ru": ["мне"],
+      "de": ["mir"],
+      "example": ["Das ist mir wichtig."]
+    },
+    "with": {
+      "en": ["with"],
+      "ru": ["с"],
+      "de": ["mit"],
+      "example": ["Ich komme mit dir."]
+    },
+    "bring_along": {
+      "en": ["bring along"],
+      "ru": ["приносить с собой"],
+      "de": ["mitbringen"],
+      "example": ["Ich möchte mitbringen."]
+    },
+    "noon": {
+      "en": ["noon"],
+      "ru": ["полдень"],
+      "de": ["der Mittag"],
+      "example": ["Das ist der Mittag."]
+    },
+    "lunch": {
+      "en": ["lunch"],
+      "ru": ["обед"],
+      "de": ["das Mittagessen"],
+      "example": ["Das ist das Mittagessen."]
+    },
+    "at_noon": {
+      "en": ["at noon", "at lunchtime"],
+      "ru": ["в полдень", "днём"],
+      "de": ["mittags"],
+      "example": ["Mittags esse ich in der Kantine."]
+    },
+    "lunch_break": {
+      "en": ["lunch break"],
+      "ru": ["обеденный перерыв"],
+      "de": ["die Mittagspause"],
+      "example": ["Das ist die Mittagspause."]
+    },
+    "wednesday": {
+      "en": ["wednesday"],
+      "ru": ["среда"],
+      "de": ["der Mittwoch"],
+      "example": ["Das ist der Mittwoch."]
+    },
+    "furniture": {
+      "en": ["furniture"],
+      "ru": ["мебель"],
+      "de": ["die Möbel"],
+      "example": ["Das ist die Möbel."]
+    },
+    "mobility": {
+      "en": ["mobility"],
+      "ru": ["мобильность"],
+      "de": ["die Mobilität"],
+      "example": ["Das ist die Mobilität."]
+    },
+    "furnished": {
+      "en": ["furnished"],
+      "ru": ["меблированный"],
+      "de": ["möbliert"],
+      "example": ["Das ist möbliert."]
+    },
+    "would_like": {
+      "en": ["would like"],
+      "ru": ["хотел(а) бы", "хотеть"],
+      "de": ["möchten"],
+      "example": ["Ich möchte möchten."]
+    },
+    "fashion": {
+      "en": ["fashion"],
+      "ru": ["мода"],
+      "de": ["die Mode"],
+      "example": ["Das ist die Mode."]
+    },
+    "model": {
+      "en": ["model"],
+      "ru": ["модель"],
+      "de": ["das Modell"],
+      "example": ["Das ist das Modell."]
+    },
+    "modern": {
+      "en": ["modern"],
+      "ru": ["современный"],
+      "de": ["modern"],
+      "example": ["Ich möchte modern."]
+    },
+    "like": {
+      "en": ["like"],
+      "ru": ["любить", "нравиться"],
+      "de": ["mögen"],
+      "example": ["Ich mag dieses Lied."]
+    },
+    "carrot": {
+      "en": ["carrot"],
+      "ru": ["морковь"],
+      "de": ["die Möhre"],
+      "example": ["Das ist die Möhre."]
+    },
+    "moment": {
+      "en": ["moment"],
+      "ru": ["момент"],
+      "de": ["der Moment"],
+      "example": ["Das ist der Moment."]
+    },
+    "month": {
+      "en": ["month"],
+      "ru": ["месяц"],
+      "de": ["der Monat"],
+      "example": ["Das ist der Monat."]
+    },
+    "monthly_rent": {
+      "en": ["monthly rent"],
+      "ru": ["месячная аренда"],
+      "de": ["die Monatsmiete"],
+      "example": ["Das ist die Monatsmiete."]
+    },
+    "moon": {
+      "en": ["moon"],
+      "ru": ["луна"],
+      "de": ["der Mond"],
+      "example": ["Das ist der Mond."]
+    },
+    "monday": {
+      "en": ["monday"],
+      "ru": ["понедельник"],
+      "de": ["der Montag"],
+      "example": ["Das ist der Montag."]
+    },
+    "tomorrow": {
+      "en": ["tomorrow"],
+      "ru": ["завтра"],
+      "de": ["morgen"],
+      "example": ["Ich möchte morgen."]
+    },
+    "morning": {
+      "en": ["morning"],
+      "ru": ["утро"],
+      "de": ["der Morgen"],
+      "example": ["Das ist der Morgen."]
+    },
+    "in_the_morning": {
+      "en": ["in the morning"],
+      "ru": ["по утрам", "утром"],
+      "de": ["morgens"],
+      "example": ["Morgens trinke ich immer Kaffee."]
+    },
+    "motorcycle": {
+      "en": ["motorcycle"],
+      "ru": ["мотоцикл"],
+      "de": ["das Motorrad"],
+      "example": ["Das ist das Motorrad."]
+    },
+    "tired": {
+      "en": ["tired"],
+      "ru": ["уставший"],
+      "de": ["müde"],
+      "example": ["Das ist müde."]
+    },
+    "trash": {
+      "en": ["trash"],
+      "ru": ["мусор"],
+      "de": ["der Müll"],
+      "example": ["Das ist der Müll."]
+    },
+    "mouth": {
+      "en": ["mouth"],
+      "ru": ["рот"],
+      "de": ["der Mund"],
+      "example": ["Das ist der Mund."]
+    },
+    "music": {
+      "en": ["music"],
+      "ru": ["музыка"],
+      "de": ["die Musik"],
+      "example": ["Das ist die Musik."]
+    },
+    "music_teacher": {
+      "en": ["music teacher"],
+      "ru": ["учитель музыки"],
+      "de": ["der Musiklehrer", "die Musiklehrerin"],
+      "example": ["Das ist der Musiklehrer."]
+    },
+    "must_have_to": {
+      "en": ["must", "have to"],
+      "ru": ["должен", "нужно"],
+      "de": ["müssen"],
+      "example": ["Ich muss jetzt gehen."]
+    },
+    "mother": {
+      "en": ["mother"],
+      "ru": ["мать"],
+      "de": ["die Mutter"],
+      "example": ["Das ist die Mutter."]
+    },
+    "cap": {
+      "en": ["cap"],
+      "ru": ["шапка"],
+      "de": ["die Mütze"],
+      "example": ["Das ist die Mütze."]
+    }
+  },
+  "n": {
+    "after_to": {
+      "en": ["after", "to"],
+      "ru": ["после; в", "на", "к"],
+      "de": ["nach"],
+      "example": ["Nach der Arbeit gehe ich nach Hause."]
+    },
+    "neighbor": {
+      "en": ["neighbor"],
+      "ru": ["сосед", "соседка"],
+      "de": ["der Nachbar", "die Nachbarin"],
+      "example": ["Das ist der Nachbar."]
+    },
+    "ask_again_inquire": {
+      "en": ["ask again", "inquire"],
+      "ru": ["переспрашивать", "уточнять"],
+      "de": ["nachfragen"],
+      "example": ["Ich möchte nachfragen."]
+    },
+    "afternoon": {
+      "en": ["afternoon"],
+      "ru": ["вторая половина дня", "день"],
+      "de": ["der Nachmittag"],
+      "example": ["Das ist der Nachmittag."]
+    },
+    "in_the_afternoon": {
+      "en": ["in the afternoon"],
+      "ru": ["днём", "после обеда"],
+      "de": ["nachmittags"],
+      "example": ["Nachmittags habe ich einen Kurs."]
+    },
+    "surname": {
+      "en": ["surname"],
+      "ru": ["фамилия"],
+      "de": ["der Nachname"],
+      "example": ["Das ist der Nachname."]
+    },
+    "next": {
+      "en": ["next"],
+      "ru": ["следующий", "следующая", "следующее"],
+      "de": ["nächster", "nächste", "nächstes"],
+      "example": ["Das ist nächster."]
+    },
+    "night": {
+      "en": ["night"],
+      "ru": ["ночь"],
+      "de": ["die Nacht"],
+      "example": ["Das ist die Nacht."]
+    },
+    "night_shift": {
+      "en": ["night shift"],
+      "ru": ["ночная смена", "ночное дежурство"],
+      "de": ["der Nachtdienst"],
+      "example": ["Das ist der Nachtdienst."]
+    },
+    "at_night": {
+      "en": ["at night"],
+      "ru": ["ночью"],
+      "de": ["nachts"],
+      "example": ["Nachts ist es hier sehr ruhig."]
+    },
+    "nape": {
+      "en": ["nape", "back of the neck"],
+      "ru": ["затылок", "задняя часть шеи"],
+      "de": ["der Nacken"],
+      "example": ["Das ist der Nacken."]
+    },
+    "name": {
+      "en": ["name"],
+      "ru": ["имя"],
+      "de": ["der Name"],
+      "example": ["Das ist der Name."]
+    },
+    "nose": {
+      "en": ["nose"],
+      "ru": ["нос"],
+      "de": ["die Nase"],
+      "example": ["Das ist die Nase."]
+    },
+    "wet": {
+      "en": ["wet"],
+      "ru": ["мокрый", "влажный"],
+      "de": ["nass"],
+      "example": ["Das ist nass."]
+    },
+    "nature": {
+      "en": ["nature"],
+      "ru": ["природа"],
+      "de": ["die Natur"],
+      "example": ["Das ist die Natur."]
+    },
+    "naturally_of_course": {
+      "en": ["naturally", "of course"],
+      "ru": ["естественно", "конечно"],
+      "de": ["natürlich"],
+      "example": ["Natürlich helfe ich dir."]
+    },
+    "foggy": {
+      "en": ["foggy"],
+      "ru": ["туманный"],
+      "de": ["nebelig"],
+      "example": ["Heute ist es nebelig."]
+    },
+    "next_to": {
+      "en": ["next to", "beside"],
+      "ru": ["рядом с", "возле"],
+      "de": ["neben"],
+      "example": ["Ich möchte neben."]
+    },
+    "utility_costs": {
+      "en": ["utility costs", "additional costs"],
+      "ru": ["коммунальные платежи", "дополнительные расходы"],
+      "de": ["die Nebenkosten"],
+      "example": ["Das ist die Nebenkosten."]
+    },
+    "take": {
+      "en": ["take"],
+      "ru": ["брать", "взять"],
+      "de": ["nehmen"],
+      "example": ["Ich nehme einen Kaffee."]
+    },
+    "no": {
+      "en": ["no"],
+      "ru": ["нет"],
+      "de": ["nein"],
+      "example": ["Nein, heute nicht."]
+    },
+    "nice": {
+      "en": ["nice"],
+      "ru": ["милый", "приятный"],
+      "de": ["nett"],
+      "example": ["Das ist nett."]
+    },
+    "new": {
+      "en": ["new"],
+      "ru": ["новый"],
+      "de": ["neu"],
+      "example": ["Das ist neu."]
+    },
+    "not": {
+      "en": ["not"],
+      "ru": ["не"],
+      "de": ["nicht"],
+      "example": ["Ich verstehe das nicht."]
+    },
+    "nothing": {
+      "en": ["nothing"],
+      "ru": ["ничего"],
+      "de": ["nichts"],
+      "example": ["Heute mache ich nichts."]
+    },
+    "never": {
+      "en": ["never"],
+      "ru": ["никогда"],
+      "de": ["nie"],
+      "example": ["Ich komme nie zu spät."]
+    },
+    "still_more": {
+      "en": ["still", "more"],
+      "ru": ["ещё", "всё ещё"],
+      "de": ["noch"],
+      "example": ["Ich brauche noch einen Moment."]
+    },
+    "again": {
+      "en": ["again"],
+      "ru": ["ещё раз", "снова"],
+      "de": ["nochmal"],
+      "example": ["Kannst du das nochmal sagen?"]
+    },
+    "north": {
+      "en": ["north"],
+      "ru": ["север"],
+      "de": ["der Norden"],
+      "example": ["Das ist der Norden."]
+    },
+    "emergency_consultation": {
+      "en": ["emergency consultation"],
+      "ru": ["экстренный приём"],
+      "de": ["die Notfallsprechstunde"],
+      "example": ["Das ist die Notfallsprechstunde."]
+    },
+    "note_paper": {
+      "en": ["note", "memo slip"],
+      "ru": ["листок для заметок", "записка"],
+      "de": ["der Notizzettel"],
+      "example": ["Das ist der Notizzettel."]
+    },
+    "november": {
+      "en": ["november"],
+      "ru": ["ноябрь"],
+      "de": ["der November"],
+      "example": ["Das ist der November."]
+    },
+    "noodle": {
+      "en": ["noodle"],
+      "ru": ["лапша"],
+      "de": ["die Nudel"],
+      "example": ["Das ist die Nudel."]
+    },
+    "now_then": {
+      "en": ["now", "then"],
+      "ru": ["теперь", "итак"],
+      "de": ["nun"],
+      "example": ["Nun fangen wir an."]
+    },
+    "only": {
+      "en": ["only"],
+      "ru": ["только", "лишь"],
+      "de": ["nur"],
+      "example": ["Das ist nur."]
+    }
+  },
+  "o": {
+    "upper_floor": {
+      "en": ["upper floor"],
+      "ru": ["верхний этаж"],
+      "de": ["das Obergeschoss"],
+      "example": ["Das ist das Obergeschoss."]
+    },
+    "fruit": {
+      "en": ["fruit"],
+      "ru": ["фрукты"],
+      "de": ["das Obst"],
+      "example": ["Das ist das Obst."]
+    },
+    "fruit_salad": {
+      "en": ["fruit salad"],
+      "ru": ["фруктовый салат"],
+      "de": ["der Obstsalat"],
+      "example": ["Das ist der Obstsalat."]
+    },
+    "or": {
+      "en": ["or"],
+      "ru": ["или"],
+      "de": ["oder"],
+      "example": ["Möchtest du Tee oder Kaffee?"]
+    },
+    "public": {
+      "en": ["public"],
+      "ru": ["публичный", "общественный"],
+      "de": ["öffentlich"],
+      "example": ["Das ist öffentlich."]
+    },
+    "often": {
+      "en": ["often"],
+      "ru": ["часто"],
+      "de": ["oft"],
+      "example": ["Ich gehe oft schwimmen."]
+    },
+    "without": {
+      "en": ["without"],
+      "ru": ["без"],
+      "de": ["ohne"],
+      "example": ["Ich trinke Kaffee ohne Zucker."]
+    },
+    "ear": {
+      "en": ["ear"],
+      "ru": ["ухо"],
+      "de": ["das Ohr"],
+      "example": ["Das ist das Ohr."]
+    },
+    "october": {
+      "en": ["october"],
+      "ru": ["октябрь"],
+      "de": ["der Oktober"],
+      "example": ["Das ist der Oktober."]
+    },
+    "oktoberfest": {
+      "en": ["oktoberfest"],
+      "ru": ["Октоберфест"],
+      "de": ["das Oktoberfest"],
+      "example": ["Das ist das Oktoberfest."]
+    },
+    "olive_oil": {
+      "en": ["olive oil"],
+      "ru": ["оливковое масло"],
+      "de": ["das Olivenöl"],
+      "example": ["Das ist das Olivenöl."]
+    },
+    "grandma": {
+      "en": ["grandma"],
+      "ru": ["бабушка"],
+      "de": ["die Oma"],
+      "example": ["Das ist die Oma."]
+    },
+    "online": {
+      "en": ["online"],
+      "ru": ["онлайн"],
+      "de": ["online"],
+      "example": ["Das ist online."]
+    },
+    "orange_noun": {
+      "en": ["orange"],
+      "ru": ["апельсин"],
+      "de": ["die Orange"],
+      "example": ["Das ist die Orange."]
+    },
+    "orange_adj": {
+      "en": ["orange"],
+      "ru": ["оранжевый"],
+      "de": ["orange"],
+      "example": ["Das Auto ist orange."]
+    },
+    "arrange": {
+      "en": ["arrange", "sort"],
+      "ru": ["упорядочивать", "сортировать"],
+      "de": ["ordnen"],
+      "example": ["Ich möchte ordnen."]
+    },
+    "order": {
+      "en": ["order", "tidiness"],
+      "ru": ["порядок"],
+      "de": ["die Ordnung"],
+      "example": ["Das ist die Ordnung."]
+    },
+    "organize": {
+      "en": ["organize"],
+      "ru": ["организовывать"],
+      "de": ["organisieren"],
+      "example": ["Ich möchte organisieren."]
+    },
+    "orientation": {
+      "en": ["orientation"],
+      "ru": ["ориентация"],
+      "de": ["die Orientierung"],
+      "example": ["Das ist die Orientierung."]
+    },
+    "place": {
+      "en": ["place", "location"],
+      "ru": ["место"],
+      "de": ["der Ort"],
+      "example": ["Das ist der Ort."]
+    },
+    "orthopedist": {
+      "en": ["orthopedist"],
+      "ru": ["ортопед"],
+      "de": ["der Orthopäde"],
+      "example": ["Das ist der Orthopäde."]
+    },
+    "east": {
+      "en": ["east"],
+      "ru": ["восток"],
+      "de": ["der Osten"],
+      "example": ["Das ist der Osten."]
+    },
+    "easter_egg": {
+      "en": ["easter egg"],
+      "ru": ["пасхальное яйцо"],
+      "de": ["das Osterei"],
+      "example": ["Das ist das Osterei."]
+    },
+    "easter_festival": {
+      "en": ["easter festival"],
+      "ru": ["Пасха", "пасхальный праздник"],
+      "de": ["das Osterfest"],
+      "example": ["Das ist das Osterfest."]
+    },
+    "easter_bunny": {
+      "en": ["easter bunny"],
+      "ru": ["пасхальный заяц"],
+      "de": ["der Osterhase"],
+      "example": ["Das ist der Osterhase."]
+    },
+    "easter": {
+      "en": ["easter"],
+      "ru": ["Пасха"],
+      "de": ["Ostern"],
+      "example": ["Ich möchte Ostern."]
+    }
+  },
+  "p": {
+    "pair": {
+      "en": ["pair", "couple"],
+      "ru": ["пара"],
+      "de": ["das Paar"],
+      "example": ["Das ist das Paar."]
+    },
+    "pack": {
+      "en": ["pack"],
+      "ru": ["паковать"],
+      "de": ["packen"],
+      "example": ["Ich möchte packen."]
+    },
+    "package": {
+      "en": ["package", "pack"],
+      "ru": ["упаковка", "пачка"],
+      "de": ["die Packung"],
+      "example": ["Das ist die Packung."]
+    },
+    "dad": {
+      "en": ["dad"],
+      "ru": ["папа"],
+      "de": ["der Papa"],
+      "example": ["Das ist der Papa."]
+    },
+    "paper": {
+      "en": ["paper"],
+      "ru": ["бумага"],
+      "de": ["das Papier"],
+      "example": ["Das ist das Papier."]
+    },
+    "wastepaper_basket": {
+      "en": ["wastepaper basket"],
+      "ru": ["корзина для бумаг"],
+      "de": ["der Papierkorb"],
+      "example": ["Das ist der Papierkorb."]
+    },
+    "bell_pepper": {
+      "en": ["bell pepper", "paprika"],
+      "ru": ["паприка", "сладкий перец"],
+      "de": ["die Paprika"],
+      "example": ["Das ist die Paprika."]
+    },
+    "park": {
+      "en": ["park"],
+      "ru": ["парк"],
+      "de": ["der Park"],
+      "example": ["Das ist der Park."]
+    },
+    "parking_fee": {
+      "en": ["parking fee"],
+      "ru": ["плата за парковку"],
+      "de": ["die Parkgebühr"],
+      "example": ["Das ist die Parkgebühr."]
+    },
+    "parking_lot": {
+      "en": ["parking lot", "parking space"],
+      "ru": ["парковка", "парковочное место"],
+      "de": ["der Parkplatz"],
+      "example": ["Das ist der Parkplatz."]
+    },
+    "partner": {
+      "en": ["partner"],
+      "ru": ["партнер", "партнерша"],
+      "de": ["der Partner", "die Partnerin"],
+      "example": ["Das ist der Partner."]
+    },
+    "fit_suit": {
+      "en": ["fit", "suit"],
+      "ru": ["подходить", "соответствовать"],
+      "de": ["passen"],
+      "example": [
+        "Das passt gut zu dir.",
+        "Die Schuhe passen mir gut. (по размеру)"
+      ]
+    },
+    "patient": {
+      "en": ["patient"],
+      "ru": ["пациент", "пациентка"],
+      "de": ["der Patient", "die Patientin"],
+      "example": ["Das ist der Patient."]
+    },
+    "break": {
+      "en": ["break"],
+      "ru": ["перерыв", "пауза"],
+      "de": ["die Pause"],
+      "example": ["Das ist die Pause."]
+    },
+    "via": {
+      "en": ["via", "by"],
+      "ru": ["через", "посредством"],
+      "de": ["per"],
+      "example": ["Schick mir das bitte per E-Mail."]
+    },
+    "person": {
+      "en": ["person"],
+      "ru": ["человек", "персона"],
+      "de": ["die Person"],
+      "example": ["Das ist die Person."]
+    },
+    "plant": {
+      "en": ["plant"],
+      "ru": ["растение"],
+      "de": ["die Pflanze"],
+      "example": ["Das ist die Pflanze."]
+    },
+    "bandage": {
+      "en": ["bandage", "plaster"],
+      "ru": ["пластырь"],
+      "de": ["das Pflaster"],
+      "example": ["Das ist das Pflaster."]
+    },
+    "care": {
+      "en": ["care"],
+      "ru": ["уход"],
+      "de": ["die Pflege"],
+      "example": ["Das ist die Pflege."]
+    },
+    "pound": {
+      "en": ["pound"],
+      "ru": ["фунт"],
+      "de": ["das Pfund"],
+      "example": ["Das ist das Pfund."]
+    },
+    "mushroom": {
+      "en": ["mushroom"],
+      "ru": ["гриб"],
+      "de": ["der Pilz"],
+      "example": ["Das ist der Pilz."]
+    },
+    "pizza": {
+      "en": ["pizza"],
+      "ru": ["пицца"],
+      "de": ["die Pizza"],
+      "example": ["Das ist die Pizza."]
+    },
+    "pizza_delivery_driver": {
+      "en": ["pizza delivery driver"],
+      "ru": ["доставщик пиццы"],
+      "de": ["der Pizzafahrer"],
+      "example": ["Das ist der Pizzafahrer."]
+    },
+    "pizzeria": {
+      "en": ["pizzeria"],
+      "ru": ["пиццерия"],
+      "de": ["die Pizzeria"],
+      "example": ["Das ist die Pizzeria."]
+    },
+    "plan": {
+      "en": ["plan"],
+      "ru": ["план"],
+      "de": ["der Plan"],
+      "example": ["Das ist der Plan."]
+    },
+    "plan_verb": {
+      "en": ["plan"],
+      "ru": ["планировать"],
+      "de": ["planen"],
+      "example": ["Ich möchte planen."]
+    },
+    "place_space_square": {
+      "en": ["place", "space", "square"],
+      "ru": ["место", "площадь"],
+      "de": ["der Platz"],
+      "example": ["Das ist der Platz."]
+    },
+    "police": {
+      "en": ["police"],
+      "ru": ["полиция"],
+      "de": ["die Polizei"],
+      "example": ["Das ist die Polizei."]
+    },
+    "position": {
+      "en": ["position"],
+      "ru": ["позиция"],
+      "de": ["die Position"],
+      "example": ["Das ist die Position."]
+    },
+    "positive": {
+      "en": ["positive"],
+      "ru": ["положительный"],
+      "de": ["positiv"],
+      "example": ["Das ist positiv."]
+    },
+    "mail": {
+      "en": ["mail", "post"],
+      "ru": ["почта"],
+      "de": ["die Post"],
+      "example": ["Das ist die Post."]
+    },
+    "postcard": {
+      "en": ["postcard"],
+      "ru": ["открытка"],
+      "de": ["die Postkarte"],
+      "example": ["Das ist die Postkarte."]
+    },
+    "postal_code": {
+      "en": ["postal code"],
+      "ru": ["почтовый индекс"],
+      "de": ["die Postleitzahl"],
+      "example": ["Das ist die Postleitzahl."]
+    },
+    "internship": {
+      "en": ["internship"],
+      "ru": ["практика", "стажировка"],
+      "de": ["das Praktikum"],
+      "example": ["Das ist das Praktikum."]
+    },
+    "internship_supervisor_female": {
+      "en": ["internship supervisor"],
+      "ru": ["руководительница практики"],
+      "de": ["die Praktikumsbetreuerin"],
+      "example": ["Das ist die Praktikumsbetreuerin."]
+    },
+    "practical": {
+      "en": ["practical"],
+      "ru": ["практичный"],
+      "de": ["praktisch"],
+      "example": ["Das ist praktisch."]
+    },
+    "practice_doctors_office": {
+      "en": ["practice", "doctor's office"],
+      "ru": ["практика", "врачебный кабинет"],
+      "de": ["die Praxis"],
+      "example": ["Das ist die Praxis."]
+    },
+    "group_practice": {
+      "en": ["group practice"],
+      "ru": ["совместная врачебная практика"],
+      "de": ["die Praxisgemeinschaft"],
+      "example": ["Das ist die Praxisgemeinschaft."]
+    },
+    "price": {
+      "en": ["price"],
+      "ru": ["цена"],
+      "de": ["der Preis"],
+      "example": ["Das ist der Preis."]
+    },
+    "per": {
+      "en": ["per"],
+      "ru": ["за", "на"],
+      "de": ["pro"],
+      "example": ["Das kostet zehn Euro pro Person."]
+    },
+    "try": {
+      "en": ["try"],
+      "ru": ["пробовать"],
+      "de": ["probieren"],
+      "example": ["Ich möchte probieren."]
+    },
+    "problem": {
+      "en": ["problem"],
+      "ru": ["проблема"],
+      "de": ["das Problem"],
+      "example": ["Das ist das Problem."]
+    },
+    "projector": {
+      "en": ["projector"],
+      "ru": ["проектор"],
+      "de": ["der Projektor"],
+      "example": ["Das ist der Projektor."]
+    },
+    "brochure": {
+      "en": ["brochure", "prospectus"],
+      "ru": ["брошюра", "рекламный проспект"],
+      "de": ["der Prospekt"],
+      "example": ["Das ist der Prospekt."]
+    },
+    "check_examine": {
+      "en": ["check", "examine"],
+      "ru": ["проверять"],
+      "de": ["prüfen"],
+      "example": ["Ich möchte prüfen."]
+    },
+    "pudding": {
+      "en": ["pudding"],
+      "ru": ["пудинг"],
+      "de": ["der Pudding"],
+      "example": ["Das ist der Pudding."]
+    },
+    "sweater": {
+      "en": ["sweater", "pullover"],
+      "ru": ["свитер"],
+      "de": ["der Pullover"],
+      "example": ["Das ist der Pullover."]
+    },
+    "punctual": {
+      "en": ["punctual", "on time"],
+      "ru": ["пунктуальный", "вовремя"],
+      "de": ["pünktlich"],
+      "example": ["Das ist pünktlich."]
+    },
+    "clean": {
+      "en": ["clean"],
+      "ru": ["чистить", "убирать"],
+      "de": ["putzen"],
+      "example": ["Ich möchte putzen."]
+    }
+  },
+  "q": {
+    "square_meter": {
+      "en": ["square meter"],
+      "ru": ["квадратный метр"],
+      "de": ["der Quadratmeter"],
+      "example": ["Das ist der Quadratmeter."]
+    }
+  },
+  "r": {
+    "eraser": {
+      "en": ["eraser"],
+      "ru": ["ластик"],
+      "de": ["der Radiergummi"],
+      "example": ["Das ist der Radiergummi."]
+    },
+    "radio": {
+      "en": ["radio"],
+      "ru": ["радио"],
+      "de": ["das Radio"],
+      "example": ["Das ist das Radio."]
+    },
+    "guess": {
+      "en": ["guess"],
+      "ru": ["угадывать"],
+      "de": ["raten"],
+      "example": ["Ich möchte raten."]
+    },
+    "town_hall": {
+      "en": ["town hall"],
+      "ru": ["ратуша"],
+      "de": ["das Rathaus"],
+      "example": ["Das ist das Rathaus."]
+    },
+    "smoke": {
+      "en": ["smoke"],
+      "ru": ["курить"],
+      "de": ["rauchen"],
+      "example": ["Ich möchte rauchen."]
+    },
+    "room_space": {
+      "en": ["room", "space"],
+      "ru": ["пространство", "помещение"],
+      "de": ["der Raum"],
+      "example": ["Das ist der Raum."]
+    },
+    "tidy_up": {
+      "en": ["tidy up"],
+      "ru": ["убирать"],
+      "de": ["räumen"],
+      "example": ["Ich möchte räumen."]
+    },
+    "calculate": {
+      "en": ["calculate"],
+      "ru": ["считать", "вычислять"],
+      "de": ["rechnen"],
+      "example": ["Ich möchte rechnen."]
+    },
+    "right": {
+      "en": ["right"],
+      "ru": ["справа", "направо"],
+      "de": ["rechts"],
+      "example": ["Die Apotheke ist rechts."]
+    },
+    "talk": {
+      "en": ["talk"],
+      "ru": ["говорить"],
+      "de": ["reden"],
+      "example": ["Ich möchte reden."]
+    },
+    "shelf": {
+      "en": ["shelf"],
+      "ru": ["полка", "стеллаж"],
+      "de": ["das Regal"],
+      "example": ["Das ist das Regal."]
+    },
+    "regularly": {
+      "en": ["regularly"],
+      "ru": ["регулярно"],
+      "de": ["regelmäßig"],
+      "example": ["Das ist regelmäßig."]
+    },
+    "regional_train": {
+      "en": ["regional train"],
+      "ru": ["региональный поезд", "электричка"],
+      "de": ["die Regionalbahn"],
+      "example": ["Das ist die Regionalbahn."]
+    },
+    "rain_verb": {
+      "en": ["rain"],
+      "ru": ["идти о дожде"],
+      "de": ["regnen"],
+      "example": ["Ich möchte regnen."]
+    },
+    "terraced_house": {
+      "en": ["terraced house"],
+      "ru": ["таунхаус"],
+      "de": ["das Reihenhaus"],
+      "example": ["Das ist das Reihenhaus."]
+    },
+    "rice": {
+      "en": ["rice"],
+      "ru": ["рис"],
+      "de": ["der Reis"],
+      "example": ["Das ist der Reis."]
+    },
+    "trip": {
+      "en": ["trip", "journey"],
+      "ru": ["поездка", "путешествие"],
+      "de": ["die Reise"],
+      "example": ["Das ist die Reise."]
+    },
+    "retiree": {
+      "en": ["retiree", "pensioner"],
+      "ru": ["пенсионер", "пенсионерка"],
+      "de": ["der Rentner", "die Rentnerin"],
+      "example": ["Das ist der Rentner."]
+    },
+    "repair_noun": {
+      "en": ["repair"],
+      "ru": ["ремонт"],
+      "de": ["die Reparatur"],
+      "example": ["Das ist die Reparatur."]
+    },
+    "repair_verb": {
+      "en": ["repair"],
+      "ru": ["ремонтировать", "чинить"],
+      "de": ["reparieren"],
+      "example": ["Ich möchte reparieren."]
+    },
+    "reporter": {
+      "en": ["reporter"],
+      "ru": ["репортер", "журналист"],
+      "de": ["der Reporter"],
+      "example": ["Das ist der Reporter."]
+    },
+    "restaurant": {
+      "en": ["restaurant"],
+      "ru": ["ресторан"],
+      "de": ["das Restaurant"],
+      "example": ["Das ist das Restaurant."]
+    },
+    "recipe": {
+      "en": ["recipe"],
+      "ru": ["рецепт"],
+      "de": ["das Rezept"],
+      "example": ["Das ist das Rezept."]
+    },
+    "correct": {
+      "en": ["correct", "right"],
+      "ru": ["правильный", "верный"],
+      "de": ["richtig"],
+      "example": ["Das ist richtig."]
+    },
+    "beef": {
+      "en": ["beef"],
+      "ru": ["говядина"],
+      "de": ["das Rindfleisch"],
+      "example": ["Das ist das Rindfleisch."]
+    },
+    "skirt": {
+      "en": ["skirt"],
+      "ru": ["юбка"],
+      "de": ["der Rock"],
+      "example": ["Das ist der Rock."]
+    },
+    "novel": {
+      "en": ["novel"],
+      "ru": ["роман"],
+      "de": ["der Roman"],
+      "example": ["Das ist der Roman."]
+    },
+    "red": {
+      "en": ["red"],
+      "ru": ["красный"],
+      "de": ["rot"],
+      "example": ["Das Auto ist rot."]
+    },
+    "back": {
+      "en": ["back"],
+      "ru": ["спина"],
+      "de": ["der Rücken"],
+      "example": ["Das ist der Rücken."]
+    },
+    "backpack": {
+      "en": ["backpack"],
+      "ru": ["рюкзак"],
+      "de": ["der Rucksack"],
+      "example": ["Das ist der Rucksack."]
+    },
+    "rest": {
+      "en": ["rest", "peace", "quiet"],
+      "ru": ["покой", "тишина", "отдых"],
+      "de": ["die Ruhe"],
+      "example": ["Das ist die Ruhe."]
+    },
+    "calm": {
+      "en": ["calm", "quiet"],
+      "ru": ["спокойный", "тихий"],
+      "de": ["ruhig"],
+      "example": ["Das ist ruhig."]
+    },
+    "round": {
+      "en": ["round"],
+      "ru": ["круглый"],
+      "de": ["rund"],
+      "example": ["Das ist rund."]
+    }
+  },
+  "s": {
+    "thing_matter": {
+      "en": ["thing", "matter"],
+      "ru": ["вещь", "дело"],
+      "de": ["die Sache"],
+      "example": ["Das ist die Sache."]
+    },
+    "juice": {
+      "en": ["juice"],
+      "ru": ["сок"],
+      "de": ["der Saft"],
+      "example": ["Das ist der Saft."]
+    },
+    "say": {
+      "en": ["say"],
+      "ru": ["сказать", "говорить"],
+      "de": ["sagen"],
+      "example": ["Ich möchte sagen."]
+    },
+    "cream": {
+      "en": ["cream"],
+      "ru": ["сливки"],
+      "de": ["die Sahne"],
+      "example": ["Das ist die Sahne."]
+    },
+    "salad": {
+      "en": ["salad"],
+      "ru": ["салат"],
+      "de": ["der Salat"],
+      "example": ["Das ist der Salat."]
+    },
+    "ointment": {
+      "en": ["ointment"],
+      "ru": ["мазь"],
+      "de": ["die Salbe"],
+      "example": ["Das ist die Salbe."]
+    },
+    "salt": {
+      "en": ["salt"],
+      "ru": ["соль"],
+      "de": ["das Salz"],
+      "example": ["Das ist das Salz."]
+    },
+    "saturday": {
+      "en": ["saturday"],
+      "ru": ["суббота"],
+      "de": ["der Samstag"],
+      "example": ["Das ist der Samstag."]
+    },
+    "on_saturdays": {
+      "en": ["on Saturdays"],
+      "ru": ["по субботам"],
+      "de": ["samstags"],
+      "example": ["Samstags arbeite ich nicht."]
+    },
+    "sentence": {
+      "en": ["sentence"],
+      "ru": ["предложение"],
+      "de": ["der Satz"],
+      "example": ["Das ist der Satz."]
+    },
+    "too_bad": {
+      "en": ["too bad", "what a pity"],
+      "ru": ["жаль"],
+      "de": ["schade"],
+      "example": ["Schade, ich habe heute keine Zeit."]
+    },
+    "scarf": {
+      "en": ["scarf"],
+      "ru": ["шарф"],
+      "de": ["der Schal"],
+      "example": ["Das ist der Schal."]
+    },
+    "treasure_darling": {
+      "en": ["treasure", "darling"],
+      "ru": ["сокровище", "дорогой", "дорогая"],
+      "de": ["der Schatz"],
+      "example": ["Das ist der Schatz."]
+    },
+    "look_watch": {
+      "en": ["look", "watch"],
+      "ru": ["смотреть"],
+      "de": ["schauen"],
+      "example": ["Ich möchte schauen."]
+    },
+    "shine_seem": {
+      "en": ["shine", "seem"],
+      "ru": ["светить", "казаться"],
+      "de": ["scheinen"],
+      "example": ["Ich möchte scheinen."]
+    },
+    "give_as_gift": {
+      "en": ["give as a gift"],
+      "ru": ["дарить"],
+      "de": ["schenken"],
+      "example": ["Ich möchte schenken."]
+    },
+    "send": {
+      "en": ["send"],
+      "ru": ["посылать", "отправлять"],
+      "de": ["schicken"],
+      "example": ["Ich möchte schicken."]
+    },
+    "rail_replacement_service": {
+      "en": ["rail replacement service"],
+      "ru": ["замещающее железнодорожное сообщение"],
+      "de": ["der Schienenersatzverkehr"],
+      "example": ["Das ist der Schienenersatzverkehr."]
+    },
+    "ship": {
+      "en": ["ship"],
+      "ru": ["корабль"],
+      "de": ["das Schiff"],
+      "example": ["Das ist das Schiff."]
+    },
+    "sleep": {
+      "en": ["sleep"],
+      "ru": ["спать"],
+      "de": ["schlafen"],
+      "example": ["Ich schlafe heute früh."]
+    },
+    "bedroom": {
+      "en": ["bedroom"],
+      "ru": ["спальня"],
+      "de": ["das Schlafzimmer"],
+      "example": ["Das ist das Schlafzimmer."]
+    },
+    "bad": {
+      "en": ["bad"],
+      "ru": ["плохой"],
+      "de": ["schlecht"],
+      "example": ["Das ist schlecht."]
+    },
+    "awful": {
+      "en": ["awful", "bad"],
+      "ru": ["ужасный", "плохой"],
+      "de": ["schlimm"],
+      "example": ["Das ist schlimm."]
+    },
+    "end": {
+      "en": ["end"],
+      "ru": ["конец"],
+      "de": ["der Schluss"],
+      "example": ["Das ist der Schluss."]
+    },
+    "key": {
+      "en": ["key"],
+      "ru": ["ключ"],
+      "de": ["der Schlüssel"],
+      "example": ["Das ist der Schlüssel."]
+    },
+    "narrow": {
+      "en": ["narrow"],
+      "ru": ["узкий"],
+      "de": ["schmal"],
+      "example": ["Das ist schmal."]
+    },
+    "taste": {
+      "en": ["taste"],
+      "ru": ["быть на вкус", "нравиться на вкус"],
+      "de": ["schmecken"],
+      "example": ["Ich möchte schmecken."]
+    },
+    "pain": {
+      "en": ["pain"],
+      "ru": ["боль"],
+      "de": ["der Schmerz"],
+      "example": ["Das ist der Schmerz."]
+    },
+    "snow": {
+      "en": ["snow"],
+      "ru": ["снег"],
+      "de": ["der Schnee"],
+      "example": ["Das ist der Schnee."]
+    },
+    "snowman": {
+      "en": ["snowman"],
+      "ru": ["снеговик"],
+      "de": ["der Schneemann"],
+      "example": ["Das ist der Schneemann."]
+    },
+    "snow_verb": {
+      "en": ["snow"],
+      "ru": ["идти о снеге"],
+      "de": ["schneien"],
+      "example": ["Ich möchte schneien."]
+    },
+    "fast": {
+      "en": ["fast"],
+      "ru": ["быстрый", "быстро"],
+      "de": ["schnell"],
+      "example": ["Das ist schnell."]
+    },
+    "cold_runny_nose": {
+      "en": ["cold", "runny nose"],
+      "ru": ["насморк"],
+      "de": ["der Schnupfen"],
+      "example": ["Das ist der Schnupfen."]
+    },
+    "chocolate": {
+      "en": ["chocolate"],
+      "ru": ["шоколад"],
+      "de": ["die Schokolade"],
+      "example": ["Das ist die Schokolade."]
+    },
+    "chocolate_cake": {
+      "en": ["chocolate cake"],
+      "ru": ["шоколадный торт"],
+      "de": ["der Schokoladenkuchen"],
+      "example": ["Das ist der Schokoladenkuchen."]
+    },
+    "beautiful": {
+      "en": ["beautiful", "nice"],
+      "ru": ["красивый", "хороший"],
+      "de": ["schön"],
+      "example": ["Das ist schön."]
+    },
+    "closet_wardrobe": {
+      "en": ["closet", "wardrobe"],
+      "ru": ["шкаф"],
+      "de": ["der Schrank"],
+      "example": ["Das ist der Schrank."]
+    },
+    "write": {
+      "en": ["write"],
+      "ru": ["писать"],
+      "de": ["schreiben"],
+      "example": ["Ich möchte schreiben."]
+    },
+    "shoe": {
+      "en": ["shoe"],
+      "ru": ["ботинок", "туфля"],
+      "de": ["der Schuh"],
+      "example": ["Das ist der Schuh."]
+    },
+    "school": {
+      "en": ["school"],
+      "ru": ["школа"],
+      "de": ["die Schule"],
+      "example": ["Das ist die Schule."]
+    },
+    "pupil_student": {
+      "en": ["pupil", "student"],
+      "ru": ["ученик", "ученица"],
+      "de": ["der Schüler", "die Schülerin"],
+      "example": ["Das ist der Schüler."]
+    },
+    "shoulder": {
+      "en": ["shoulder"],
+      "ru": ["плечо"],
+      "de": ["die Schulter"],
+      "example": ["Das ist die Schulter."]
+    },
+    "sister_in_law": {
+      "en": ["sister-in-law"],
+      "ru": ["свояченица"],
+      "de": ["die Schwägerin"],
+      "example": ["Das ist die Schwägerin."]
+    },
+    "pregnant": {
+      "en": ["pregnant"],
+      "ru": ["беременная"],
+      "de": ["schwanger"],
+      "example": ["Das ist schwanger."]
+    },
+    "black": {
+      "en": ["black"],
+      "ru": ["черный"],
+      "de": ["schwarz"],
+      "example": ["Das Auto ist schwarz."]
+    },
+    "pork": {
+      "en": ["pork"],
+      "ru": ["свинина"],
+      "de": ["das Schweinefleisch"],
+      "example": ["Das ist das Schweinefleisch."]
+    },
+    "sister": {
+      "en": ["sister"],
+      "ru": ["сестра"],
+      "de": ["die Schwester"],
+      "example": ["Das ist die Schwester."]
+    },
+    "daughter_in_law": {
+      "en": ["daughter-in-law"],
+      "ru": ["невестка"],
+      "de": ["die Schwiegertochter"],
+      "example": ["Das ist die Schwiegertochter."]
+    },
+    "father_in_law": {
+      "en": ["father-in-law"],
+      "ru": ["свекор", "тесть"],
+      "de": ["der Schwiegervater"],
+      "example": ["Das ist der Schwiegervater."]
+    },
+    "swimming_pool": {
+      "en": ["swimming pool"],
+      "ru": ["бассейн"],
+      "de": ["das Schwimmbad"],
+      "example": ["Das ist das Schwimmbad."]
+    },
+    "seal": {
+      "en": ["seal"],
+      "ru": ["тюлень"],
+      "de": ["der Seehund"],
+      "example": ["Das ist der Seehund."]
+    },
+    "see": {
+      "en": ["see"],
+      "ru": ["видеть"],
+      "de": ["sehen"],
+      "example": ["Ich sehe dich morgen."]
+    },
+    "very": {
+      "en": ["very"],
+      "ru": ["очень"],
+      "de": ["sehr"],
+      "example": ["Das ist sehr interessant."]
+    },
+    "be": {
+      "en": ["be"],
+      "ru": ["быть"],
+      "de": ["sein"],
+      "example": ["Ich bin heute zu Hause."]
+    },
+    "his_its": {
+      "en": ["his", "its"],
+      "ru": ["его"],
+      "de": ["sein", "seine"],
+      "example": ["Das ist sein Schlüssel."]
+    },
+    "page": {
+      "en": ["page"],
+      "ru": ["страница"],
+      "de": ["die Seite"],
+      "example": ["Das ist die Seite."]
+    },
+    "sparkling_wine": {
+      "en": ["sparkling wine"],
+      "ru": ["сект", "игристое вино"],
+      "de": ["der Sekt"],
+      "example": ["Das ist der Sekt."]
+    },
+    "seldom": {
+      "en": ["seldom"],
+      "ru": ["редко"],
+      "de": ["selten"],
+      "example": ["Ich möchte selten."]
+    },
+    "september": {
+      "en": ["september"],
+      "ru": ["сентябрь"],
+      "de": ["der September"],
+      "example": ["Das ist der September."]
+    },
+    "serve": {
+      "en": ["serve"],
+      "ru": ["подавать"],
+      "de": ["servieren"],
+      "example": ["Ich möchte servieren."]
+    },
+    "armchair": {
+      "en": ["armchair"],
+      "ru": ["кресло"],
+      "de": ["der Sessel"],
+      "example": ["Das ist der Sessel."]
+    },
+    "t_shirt": {
+      "en": ["shirt", "t-shirt"],
+      "ru": ["футболка"],
+      "de": ["das Shirt"],
+      "example": ["Das ist das Shirt."]
+    },
+    "oneself": {
+      "en": ["oneself"],
+      "ru": ["себя", "себе"],
+      "de": ["sich"],
+      "example": ["Man muss sich gut vorbereiten."]
+    },
+    "safe_sure": {
+      "en": ["safe", "sure"],
+      "ru": ["безопасный", "уверенный"],
+      "de": ["sicher"],
+      "example": ["Das ist sicher."]
+    },
+    "you_formal": {
+      "en": ["you (formal)"],
+      "ru": ["Вы"],
+      "de": ["Sie"],
+      "example": ["Kommen Sie bitte herein."]
+    },
+    "she_they": {
+      "en": ["she", "they"],
+      "ru": ["она", "они"],
+      "de": ["sie"],
+      "example": ["Sie kommt heute später."]
+    },
+    "sing": {
+      "en": ["sing"],
+      "ru": ["петь"],
+      "de": ["singen"],
+      "example": ["Ich möchte singen."]
+    },
+    "sit": {
+      "en": ["sit"],
+      "ru": ["сидеть"],
+      "de": ["sitzen"],
+      "example": ["Ich möchte sitzen."]
+    },
+    "ski": {
+      "en": ["ski"],
+      "ru": ["лыжи"],
+      "de": ["der Ski"],
+      "example": ["Das ist der Ski."]
+    },
+    "so": {
+      "en": ["so"],
+      "ru": ["так"],
+      "de": ["so"],
+      "example": ["Das ist so."]
+    },
+    "sock": {
+      "en": ["sock"],
+      "ru": ["носок"],
+      "de": ["die Socke"],
+      "example": ["Das ist die Socke."]
+    },
+    "sofa": {
+      "en": ["sofa"],
+      "ru": ["диван"],
+      "de": ["das Sofa"],
+      "example": ["Das ist das Sofa."]
+    },
+    "immediately": {
+      "en": ["immediately"],
+      "ru": ["сразу", "немедленно"],
+      "de": ["sofort"],
+      "example": ["Ich komme sofort."]
+    },
+    "son": {
+      "en": ["son"],
+      "ru": ["сын"],
+      "de": ["der Sohn"],
+      "example": ["Das ist der Sohn."]
+    },
+    "should": {
+      "en": ["should", "be supposed to"],
+      "ru": ["быть должным", "следовать"],
+      "de": ["sollen"],
+      "example": ["Ich soll meine Mutter anrufen."]
+    },
+    "summer": {
+      "en": ["summer"],
+      "ru": ["лето"],
+      "de": ["der Sommer"],
+      "example": ["Das ist der Sommer."]
+    },
+    "special_offer": {
+      "en": ["special offer"],
+      "ru": ["специальное предложение"],
+      "de": ["das Sonderangebot"],
+      "example": ["Das ist das Sonderangebot."]
+    },
+    "sun": {
+      "en": ["sun"],
+      "ru": ["солнце"],
+      "de": ["die Sonne"],
+      "example": ["Das ist die Sonne."]
+    },
+    "sunny": {
+      "en": ["sunny"],
+      "ru": ["солнечный"],
+      "de": ["sonnig"],
+      "example": ["Heute ist es sonnig."]
+    },
+    "sunday": {
+      "en": ["sunday"],
+      "ru": ["воскресенье"],
+      "de": ["der Sonntag"],
+      "example": ["Das ist der Sonntag."]
+    },
+    "otherwise_else": {
+      "en": ["otherwise", "else"],
+      "ru": ["иначе", "еще"],
+      "de": ["sonst"],
+      "example": ["Sonst ist alles gut."]
+    },
+    "miscellaneous": {
+      "en": ["miscellaneous"],
+      "ru": ["прочее"],
+      "de": ["sonstiges"],
+      "example": ["Sonstiges steht am Ende der Liste."]
+    },
+    "anyway": {
+      "en": ["anyway"],
+      "ru": ["в любом случае"],
+      "de": ["sowieso"],
+      "example": ["Ich komme sowieso mit."]
+    },
+    "fun": {
+      "en": ["fun"],
+      "ru": ["удовольствие", "веселье"],
+      "de": ["der Spaß"],
+      "example": ["Das ist der Spaß."]
+    },
+    "late": {
+      "en": ["late"],
+      "ru": ["поздно", "поздний"],
+      "de": ["spät"],
+      "example": ["Das ist spät."]
+    },
+    "later": {
+      "en": ["later"],
+      "ru": ["позже"],
+      "de": ["später"],
+      "example": ["Das ist später."]
+    },
+    "walk_stroll": {
+      "en": ["walk", "stroll"],
+      "ru": ["гулять"],
+      "de": ["spazieren"],
+      "example": ["Ich möchte spazieren."]
+    },
+    "specialty": {
+      "en": ["specialty"],
+      "ru": ["фирменное блюдо", "специальность"],
+      "de": ["die Spezialität"],
+      "example": ["Das ist die Spezialität."]
+    },
+    "game": {
+      "en": ["game"],
+      "ru": ["игра"],
+      "de": ["das Spiel"],
+      "example": ["Das ist das Spiel."]
+    },
+    "play": {
+      "en": ["play"],
+      "ru": ["играть"],
+      "de": ["spielen"],
+      "example": ["Die Kinder spielen im Garten."]
+    },
+    "sharpener": {
+      "en": ["sharpener"],
+      "ru": ["точилка"],
+      "de": ["der Spitzer"],
+      "example": ["Das ist der Spitzer."]
+    },
+    "sport": {
+      "en": ["sport"],
+      "ru": ["спорт"],
+      "de": ["der Sport"],
+      "example": ["Das ist der Sport."]
+    },
+    "sports_shoe": {
+      "en": ["sports shoe"],
+      "ru": ["спортивная обувь"],
+      "de": ["der Sportschuh"],
+      "example": ["Das ist der Sportschuh."]
+    },
+    "language": {
+      "en": ["language"],
+      "ru": ["язык"],
+      "de": ["die Sprache"],
+      "example": ["Das ist die Sprache."]
+    },
+    "language_school": {
+      "en": ["language school"],
+      "ru": ["языковая школа"],
+      "de": ["die Sprachschule"],
+      "example": ["Das ist die Sprachschule."]
+    },
+    "speak": {
+      "en": ["speak"],
+      "ru": ["говорить"],
+      "de": ["sprechen"],
+      "example": ["Wir sprechen heute Deutsch."]
+    },
+    "consultation_hour": {
+      "en": ["consultation hour"],
+      "ru": ["часы приема"],
+      "de": ["die Sprechstunde"],
+      "example": ["Das ist die Sprechstunde."]
+    },
+    "medical_assistant": {
+      "en": ["medical assistant"],
+      "ru": ["помощница врача"],
+      "de": ["die Sprechstundenhilfe"],
+      "example": ["Das ist die Sprechstundenhilfe."]
+    },
+    "consultation_room": {
+      "en": ["consultation room"],
+      "ru": ["кабинет врача"],
+      "de": ["das Sprechzimmer"],
+      "example": ["Das ist das Sprechzimmer."]
+    },
+    "wash_dishes_rinse": {
+      "en": ["wash dishes", "rinse"],
+      "ru": ["мыть посуду", "ополаскивать"],
+      "de": ["spülen"],
+      "example": ["Ich möchte spülen."]
+    },
+    "dishwasher": {
+      "en": ["dishwasher"],
+      "ru": ["посудомоечная машина"],
+      "de": ["die Spülmaschine"],
+      "example": ["Das ist die Spülmaschine."]
+    },
+    "city": {
+      "en": ["city"],
+      "ru": ["город"],
+      "de": ["die Stadt"],
+      "example": ["Das ist die Stadt."]
+    },
+    "city_map": {
+      "en": ["city map"],
+      "ru": ["план города"],
+      "de": ["der Stadtplan"],
+      "example": ["Das ist der Stadtplan."]
+    },
+    "city_forest": {
+      "en": ["city forest"],
+      "ru": ["городской лес"],
+      "de": ["der Stadtwald"],
+      "example": ["Das ist der Stadtwald."]
+    },
+    "registry_office": {
+      "en": ["registry office"],
+      "ru": ["загс"],
+      "de": ["das Standesamt"],
+      "example": ["Das ist das Standesamt."]
+    },
+    "strong": {
+      "en": ["strong"],
+      "ru": ["сильный"],
+      "de": ["stark"],
+      "example": ["Das ist stark."]
+    },
+    "stand": {
+      "en": ["stand"],
+      "ru": ["стоять"],
+      "de": ["stehen"],
+      "example": ["Ich möchte stehen."]
+    },
+    "climb_get_on": {
+      "en": ["climb", "get on"],
+      "ru": ["подниматься", "садиться в транспорт"],
+      "de": ["steigen"],
+      "example": ["Ich möchte steigen."]
+    },
+    "put_place": {
+      "en": ["put", "place"],
+      "ru": ["ставить", "помещать"],
+      "de": ["stellen"],
+      "example": ["Ich stelle die Tasche auf den Stuhl."]
+    },
+    "forehead": {
+      "en": ["forehead"],
+      "ru": ["лоб"],
+      "de": ["die Stirn"],
+      "example": ["Das ist die Stirn."]
+    },
+    "beach": {
+      "en": ["beach"],
+      "ru": ["пляж"],
+      "de": ["der Strand"],
+      "example": ["Das ist der Strand."]
+    },
+    "street": {
+      "en": ["street"],
+      "ru": ["улица"],
+      "de": ["die Straße"],
+      "example": ["Das ist die Straße."]
+    },
+    "tram": {
+      "en": ["tram"],
+      "ru": ["трамвай"],
+      "de": ["die Straßenbahn"],
+      "example": ["Das ist die Straßenbahn."]
+    },
+    "paint_cancel": {
+      "en": ["paint", "cancel"],
+      "ru": ["красить", "вычеркивать"],
+      "de": ["streichen"],
+      "example": ["Ich möchte streichen."]
+    },
+    "stress": {
+      "en": ["stress"],
+      "ru": ["стресс"],
+      "de": ["der Stress"],
+      "example": ["Das ist der Stress."]
+    },
+    "stressful": {
+      "en": ["stressful"],
+      "ru": ["стрессовый", "напряженный"],
+      "de": ["stressig"],
+      "example": ["Das ist stressig."]
+    },
+    "cardigan": {
+      "en": ["cardigan"],
+      "ru": ["кардиган"],
+      "de": ["die Strickjacke"],
+      "example": ["Das ist die Strickjacke."]
+    },
+    "stocking": {
+      "en": ["stocking"],
+      "ru": ["чулок"],
+      "de": ["der Strumpf"],
+      "example": ["Das ist der Strumpf."]
+    },
+    "piece": {
+      "en": ["piece"],
+      "ru": ["кусок", "штука"],
+      "de": ["das Stück"],
+      "example": ["Das ist das Stück."]
+    },
+    "university_student": {
+      "en": ["university student"],
+      "ru": ["студент", "студентка"],
+      "de": ["der Student", "die Studentin"],
+      "example": ["Das ist der Student."]
+    },
+    "study": {
+      "en": ["study"],
+      "ru": ["учиться", "изучать"],
+      "de": ["studieren"],
+      "example": ["Ich möchte studieren."]
+    },
+    "studies": {
+      "en": ["studies", "degree"],
+      "ru": ["учеба", "обучение"],
+      "de": ["das Studium"],
+      "example": ["Das ist das Studium."]
+    },
+    "chair": {
+      "en": ["chair"],
+      "ru": ["стул"],
+      "de": ["der Stuhl"],
+      "example": ["Das ist der Stuhl."]
+    },
+    "hour": {
+      "en": ["hour"],
+      "ru": ["час"],
+      "de": ["die Stunde"],
+      "example": ["Das ist die Stunde."]
+    },
+    "for_hours": {
+      "en": ["for hours"],
+      "ru": ["часами"],
+      "de": ["stundenlang"],
+      "example": ["Er lernt stundenlang."]
+    },
+    "timetable": {
+      "en": ["timetable"],
+      "ru": ["расписание"],
+      "de": ["der Stundenplan"],
+      "example": ["Das ist der Stundenplan."]
+    },
+    "search_look_for": {
+      "en": ["search", "look for"],
+      "ru": ["искать"],
+      "de": ["suchen"],
+      "example": ["Ich möchte suchen."]
+    },
+    "south": {
+      "en": ["south"],
+      "ru": ["юг"],
+      "de": ["der Süden"],
+      "example": ["Das ist der Süden."]
+    },
+    "great": {
+      "en": ["great"],
+      "ru": ["классный", "отличный", "классно"],
+      "de": ["super"],
+      "example": ["Das ist super!"]
+    },
+    "super_good": {
+      "en": ["super good"],
+      "ru": ["супер", "очень хорошо"],
+      "de": ["supergut"],
+      "example": ["Das ist supergut."]
+    },
+    "supermarket": {
+      "en": ["supermarket"],
+      "ru": ["супермаркет"],
+      "de": ["der Supermarkt"],
+      "example": ["Das ist der Supermarkt."]
+    },
+    "soup": {
+      "en": ["soup"],
+      "ru": ["суп"],
+      "de": ["die Suppe"],
+      "example": ["Das ist die Suppe."]
+    },
+    "sweet": {
+      "en": ["sweet"],
+      "ru": ["сладкий"],
+      "de": ["süß"],
+      "example": ["Das ist süß."]
+    }
+  },
+  "t": {
+    "table": {
+      "en": ["table"],
+      "ru": ["таблица"],
+      "de": ["die Tabelle"],
+      "example": ["Das ist die Tabelle."]
+    },
+    "pill": {
+      "en": ["pill", "tablet"],
+      "ru": ["таблетка"],
+      "de": ["die Tablette"],
+      "example": ["Das ist die Tablette."]
+    },
+    "blackboard": {
+      "en": ["blackboard"],
+      "ru": ["доска"],
+      "de": ["die Tafel"],
+      "example": ["Das ist die Tafel."]
+    },
+    "day": {
+      "en": ["day"],
+      "ru": ["день"],
+      "de": ["der Tag"],
+      "example": ["Das ist der Tag."]
+    },
+    "day_ticket": {
+      "en": ["day ticket"],
+      "ru": ["дневной билет"],
+      "de": ["die Tageskarte"],
+      "example": ["Das ist die Tageskarte."]
+    },
+    "dance": {
+      "en": ["dance"],
+      "ru": ["танцевать"],
+      "de": ["tanzen"],
+      "example": ["Ich möchte tanzen."]
+    },
+    "bag": {
+      "en": ["bag"],
+      "ru": ["сумка"],
+      "de": ["die Tasche"],
+      "example": ["Das ist die Tasche."]
+    },
+    "cup": {
+      "en": ["cup"],
+      "ru": ["чашка"],
+      "de": ["die Tasse"],
+      "example": ["Das ist die Tasse."]
+    },
+    "taxi": {
+      "en": ["taxi"],
+      "ru": ["такси"],
+      "de": ["das Taxi"],
+      "example": ["Das ist das Taxi."]
+    },
+    "taxi_driver": {
+      "en": ["taxi driver"],
+      "ru": ["таксист", "таксистка"],
+      "de": ["der Taxifahrer", "die Taxifahrerin"],
+      "example": ["Das ist der Taxifahrer."]
+    },
+    "technician": {
+      "en": ["technician"],
+      "ru": ["техник", "специалист"],
+      "de": ["der Techniker", "die Technikerin"],
+      "example": ["Das ist der Techniker."]
+    },
+    "tea": {
+      "en": ["tea"],
+      "ru": ["чай"],
+      "de": ["der Tee"],
+      "example": ["Das ist der Tee."]
+    },
+    "telephone": {
+      "en": ["telephone", "phone"],
+      "ru": ["телефон"],
+      "de": ["das Telefon"],
+      "example": ["Das ist das Telefon."]
+    },
+    "phone": {
+      "en": ["phone", "talk on the phone"],
+      "ru": ["звонить", "разговаривать по телефону"],
+      "de": ["telefonieren"],
+      "example": ["Ich möchte telefonieren."]
+    },
+    "telephone_number": {
+      "en": ["telephone number"],
+      "ru": ["номер телефона"],
+      "de": ["die Telefonnummer"],
+      "example": ["Das ist die Telefonnummer."]
+    },
+    "plate": {
+      "en": ["plate"],
+      "ru": ["тарелка"],
+      "de": ["der Teller"],
+      "example": ["Das ist der Teller."]
+    },
+    "tennis": {
+      "en": ["tennis"],
+      "ru": ["теннис"],
+      "de": ["das Tennis"],
+      "example": ["Das ist das Tennis."]
+    },
+    "carpet": {
+      "en": ["carpet"],
+      "ru": ["ковер"],
+      "de": ["der Teppich"],
+      "example": ["Das ist der Teppich."]
+    },
+    "appointment": {
+      "en": ["appointment"],
+      "ru": ["встреча", "запись"],
+      "de": ["der Termin"],
+      "example": ["Das ist der Termin."]
+    },
+    "terrace": {
+      "en": ["terrace"],
+      "ru": ["терраса"],
+      "de": ["die Terrasse"],
+      "example": ["Das ist die Terrasse."]
+    },
+    "expensive": {
+      "en": ["expensive"],
+      "ru": ["дорогой"],
+      "de": ["teuer"],
+      "example": ["Das ist teuer."]
+    },
+    "text": {
+      "en": ["text"],
+      "ru": ["текст"],
+      "de": ["der Text"],
+      "example": ["Das ist der Text."]
+    },
+    "tip": {
+      "en": ["tip", "hint"],
+      "ru": ["совет", "подсказка"],
+      "de": ["der Tipp"],
+      "example": ["Das ist der Tipp."]
+    },
+    "desk_table": {
+      "en": ["table", "desk"],
+      "ru": ["стол"],
+      "de": ["der Tisch"],
+      "example": ["Das ist der Tisch."]
+    },
+    "daughter": {
+      "en": ["daughter"],
+      "ru": ["дочь"],
+      "de": ["die Tochter"],
+      "example": ["Das ist die Tochter."]
+    },
+    "toilet": {
+      "en": ["toilet"],
+      "ru": ["туалет"],
+      "de": ["die Toilette"],
+      "example": ["Das ist die Toilette."]
+    },
+    "great_cool": {
+      "en": ["great", "cool"],
+      "ru": ["классный", "отличный"],
+      "de": ["toll"],
+      "example": ["Das ist toll!"]
+    },
+    "tomato": {
+      "en": ["tomato"],
+      "ru": ["помидор"],
+      "de": ["die Tomate"],
+      "example": ["Das ist die Tomate."]
+    },
+    "cake": {
+      "en": ["cake"],
+      "ru": ["торт"],
+      "de": ["die Torte"],
+      "example": ["Das ist die Torte."]
+    },
+    "tourist": {
+      "en": ["tourist"],
+      "ru": ["турист"],
+      "de": ["der Tourist"],
+      "example": ["Das ist der Tourist."]
+    },
+    "carry_wear": {
+      "en": ["carry", "wear"],
+      "ru": ["носить", "нести"],
+      "de": ["tragen"],
+      "example": ["Ich möchte tragen."]
+    },
+    "grape": {
+      "en": ["grape"],
+      "ru": ["виноград"],
+      "de": ["die Traube"],
+      "example": ["Das ist die Traube."]
+    },
+    "dream_job": {
+      "en": ["dream job"],
+      "ru": ["работа мечты"],
+      "de": ["der Traumberuf"],
+      "example": ["Das ist der Traumberuf."]
+    },
+    "dream_apartment": {
+      "en": ["dream apartment"],
+      "ru": ["квартира мечты"],
+      "de": ["die Traumwohnung"],
+      "example": ["Das ist die Traumwohnung."]
+    },
+    "meet": {
+      "en": ["meet"],
+      "ru": ["встречать", "встречаться"],
+      "de": ["treffen"],
+      "example": ["Wir treffen uns um acht."]
+    },
+    "drink": {
+      "en": ["drink"],
+      "ru": ["пить"],
+      "de": ["trinken"],
+      "example": ["Ich trinke gern Tee."]
+    },
+    "dry": {
+      "en": ["dry"],
+      "ru": ["сухой"],
+      "de": ["trocken"],
+      "example": ["Ich möchte trocken."]
+    },
+    "drop": {
+      "en": ["drop"],
+      "ru": ["капля"],
+      "de": ["der Tropfen"],
+      "example": ["Das ist der Tropfen."]
+    },
+    "bye": {
+      "en": ["bye"],
+      "ru": ["пока"],
+      "de": ["tschüss"],
+      "example": ["Tschüss, bis morgen!"]
+    },
+    "do": {
+      "en": ["do"],
+      "ru": ["делать"],
+      "de": ["tun"],
+      "example": ["Was kann ich für dich tun?"]
+    },
+    "door": {
+      "en": ["door"],
+      "ru": ["дверь"],
+      "de": ["die Tür"],
+      "example": ["Das ist die Tür."]
+    },
+    "typical": {
+      "en": ["typical"],
+      "ru": ["типичный"],
+      "de": ["typisch"],
+      "example": ["Das ist typisch."]
+    }
+  },
+  "u": {
+    "over_above": {
+      "en": ["over", "above"],
+      "ru": ["над", "через"],
+      "de": ["über"],
+      "example": ["Die Lampe hängt über dem Tisch."]
+    },
+    "everywhere": {
+      "en": ["everywhere"],
+      "ru": ["везде", "повсюду"],
+      "de": ["überall"],
+      "example": ["Im Sommer sind überall Leute."]
+    },
+    "at_all": {
+      "en": ["at all", "generally"],
+      "ru": ["вообще"],
+      "de": ["überhaupt"],
+      "example": ["Ich habe überhaupt keine Zeit."]
+    },
+    "day_after_tomorrow": {
+      "en": ["day after tomorrow"],
+      "ru": ["послезавтра"],
+      "de": ["übermorgen"],
+      "example": ["Ich möchte übermorgen."]
+    },
+    "exercise": {
+      "en": ["exercise"],
+      "ru": ["упражнение"],
+      "de": ["die Übung"],
+      "example": ["Das ist die Übung."]
+    },
+    "exercise_book": {
+      "en": ["exercise book"],
+      "ru": ["тетрадь с упражнениями", "сборник упражнений"],
+      "de": ["das Übungsbuch"],
+      "example": ["Das ist das Übungsbuch."]
+    },
+    "clock": {
+      "en": ["clock", "watch", "o'clock"],
+      "ru": ["часы", "час"],
+      "de": ["die Uhr"],
+      "example": ["Das ist die Uhr."]
+    },
+    "time_of_day": {
+      "en": ["time", "time of day"],
+      "ru": ["время"],
+      "de": ["die Uhrzeit"],
+      "example": ["Das ist die Uhrzeit."]
+    },
+    "at_around": {
+      "en": ["at", "around"],
+      "ru": ["в", "около"],
+      "de": ["um"],
+      "example": ["Wir treffen uns um acht Uhr."]
+    },
+    "change_trains": {
+      "en": ["change trains", "transfer"],
+      "ru": ["делать пересадку", "пересаживаться"],
+      "de": ["umsteigen"],
+      "example": ["Ich möchte umsteigen."]
+    },
+    "exchange_return": {
+      "en": ["exchange", "return"],
+      "ru": ["обменивать", "менять", "возвращать товар"],
+      "de": ["umtauschen"],
+      "example": ["Ich möchte umtauschen."]
+    },
+    "absolutely": {
+      "en": ["absolutely", "definitely"],
+      "ru": ["обязательно", "непременно"],
+      "de": ["unbedingt"],
+      "example": ["Du musst unbedingt zum Arzt gehen."]
+    },
+    "and": {
+      "en": ["and"],
+      "ru": ["и"],
+      "de": ["und"],
+      "example": ["Ich kaufe Brot und Milch."]
+    },
+    "approximately": {
+      "en": ["approximately"],
+      "ru": ["примерно"],
+      "de": ["ungefähr"],
+      "example": ["Das dauert ungefähr eine Stunde."]
+    },
+    "uncomfortable": {
+      "en": ["uncomfortable", "not cozy"],
+      "ru": ["неуютный"],
+      "de": ["ungemütlich"],
+      "example": ["Das ist ungemütlich."]
+    },
+    "unhappy": {
+      "en": ["unhappy"],
+      "ru": ["несчастный"],
+      "de": ["unglücklich"],
+      "example": ["Das ist unglücklich."]
+    },
+    "unlucky_day": {
+      "en": ["unlucky day"],
+      "ru": ["несчастливый день"],
+      "de": ["der Unglückstag"],
+      "example": ["Das ist der Unglückstag."]
+    },
+    "university": {
+      "en": ["university"],
+      "ru": ["университет"],
+      "de": ["die Universität"],
+      "example": ["Das ist die Universität."]
+    },
+    "irregular": {
+      "en": ["irregular"],
+      "ru": ["нерегулярный"],
+      "de": ["unregelmäßig"],
+      "example": ["Das ist unregelmäßig."]
+    },
+    "us": {
+      "en": ["us"],
+      "ru": ["нас", "нам"],
+      "de": ["uns"],
+      "example": ["Er hilft uns oft."]
+    },
+    "our": {
+      "en": ["our"],
+      "ru": ["наш", "наша"],
+      "de": ["unser", "unsere"],
+      "example": ["Unsere Wohnung ist klein, aber schön."]
+    },
+    "under": {
+      "en": ["under"],
+      "ru": ["под"],
+      "de": ["unter"],
+      "example": ["Die Katze schläft unter dem Tisch."]
+    },
+    "lesson_class": {
+      "en": ["lesson", "class"],
+      "ru": ["занятие", "урок"],
+      "de": ["der Unterricht"],
+      "example": ["Das ist der Unterricht."]
+    },
+    "teach": {
+      "en": ["teach"],
+      "ru": ["преподавать", "обучать"],
+      "de": ["unterrichten"],
+      "example": ["Ich möchte unterrichten."]
+    },
+    "signature": {
+      "en": ["signature"],
+      "ru": ["подпись"],
+      "de": ["die Unterschrift"],
+      "example": ["Das ist die Unterschrift."]
+    },
+    "underline": {
+      "en": ["underline"],
+      "ru": ["подчеркивать"],
+      "de": ["unterstreichen"],
+      "example": ["Ich möchte unterstreichen."]
+    },
+    "examination": {
+      "en": ["examination", "checkup"],
+      "ru": ["обследование", "осмотр"],
+      "de": ["die Untersuchung"],
+      "example": ["Das ist die Untersuchung."]
+    },
+    "vacation": {
+      "en": ["vacation", "holiday"],
+      "ru": ["отпуск", "каникулы"],
+      "de": ["der Urlaub"],
+      "example": ["Das ist der Urlaub."]
+    }
+  },
+  "v": {
+    "father": {
+      "en": ["father"],
+      "ru": ["отец", "папа"],
+      "de": ["der Vater"],
+      "example": ["Das ist der Vater."]
+    },
+    "association_bandage": {
+      "en": ["association", "bandage"],
+      "ru": ["союз", "объединение", "повязка"],
+      "de": ["der Verband"],
+      "example": ["Das ist der Verband."]
+    },
+    "connect": {
+      "en": ["connect"],
+      "ru": ["соединять", "связывать"],
+      "de": ["verbinden"],
+      "example": ["Ich möchte verbinden."]
+    },
+    "earn": {
+      "en": ["earn"],
+      "ru": ["зарабатывать"],
+      "de": ["verdienen"],
+      "example": ["Ich möchte verdienen."]
+    },
+    "decree_availability": {
+      "en": ["decree", "availability"],
+      "ru": ["распоряжение", "предоставление"],
+      "de": ["die Verfügung"],
+      "example": ["Das ist die Verfügung."]
+    },
+    "forget": {
+      "en": ["forget"],
+      "ru": ["забывать"],
+      "de": ["vergessen"],
+      "example": ["Ich möchte vergessen."]
+    },
+    "compare": {
+      "en": ["compare"],
+      "ru": ["сравнивать"],
+      "de": ["vergleichen"],
+      "example": ["Ich möchte vergleichen."]
+    },
+    "married": {
+      "en": ["married"],
+      "ru": ["женат", "замужем"],
+      "de": ["verheiratet"],
+      "example": ["Das ist verheiratet."]
+    },
+    "salesperson": {
+      "en": ["salesperson"],
+      "ru": ["продавец", "продавщица"],
+      "de": ["der Verkäufer", "die Verkäuferin"],
+      "example": ["Das ist der Verkäufer."]
+    },
+    "means_of_transport": {
+      "en": ["means of transport"],
+      "ru": ["транспортное средство"],
+      "de": ["das Verkehrsmittel"],
+      "example": ["Das ist das Verkehrsmittel."]
+    },
+    "different": {
+      "en": ["different", "various"],
+      "ru": ["разный", "различный"],
+      "de": ["verschieden"],
+      "example": ["Ich möchte verschieden."]
+    },
+    "understood": {
+      "en": ["understood"],
+      "ru": ["понял", "понятно"],
+      "de": ["verstanden"],
+      "example": ["Ich möchte verstanden."]
+    },
+    "understand": {
+      "en": ["understand"],
+      "ru": ["понимать"],
+      "de": ["verstehen"],
+      "example": ["Ich möchte verstehen."]
+    },
+    "widowed": {
+      "en": ["widowed"],
+      "ru": ["овдовевший", "овдовевшая"],
+      "de": ["verwitwet"],
+      "example": ["Das ist verwitwet."]
+    },
+    "delay": {
+      "en": ["delay"],
+      "ru": ["задерживать", "откладывать"],
+      "de": ["verzögern"],
+      "example": ["Ich möchte verzögern."]
+    },
+    "much_many": {
+      "en": ["much", "many"],
+      "ru": ["много"],
+      "de": ["viel"],
+      "example": ["Ich habe heute viel Arbeit."]
+    },
+    "maybe": {
+      "en": ["maybe", "perhaps"],
+      "ru": ["может быть", "возможно"],
+      "de": ["vielleicht"],
+      "example": ["Vielleicht kommt er später."]
+    },
+    "quarter": {
+      "en": ["quarter"],
+      "ru": ["четверть"],
+      "de": ["das Viertel"],
+      "example": ["Das ist das Viertel."]
+    },
+    "adult_education_center": {
+      "en": ["adult education center"],
+      "ru": ["народный университет", "центр обучения взрослых"],
+      "de": ["die Volkshochschule (VHS)"],
+      "example": ["Das ist die Volkshochschule (VHS)."]
+    },
+    "full": {
+      "en": ["full"],
+      "ru": ["полный"],
+      "de": ["voll"],
+      "example": ["Das ist voll."]
+    },
+    "from_of": {
+      "en": ["from", "of"],
+      "ru": ["от", "из", "с"],
+      "de": ["von"],
+      "example": ["Das Geschenk ist von meiner Oma."]
+    },
+    "before_in_front_of": {
+      "en": ["before", "in front of"],
+      "ru": ["перед", "до"],
+      "de": ["vor"],
+      "example": ["Ich warte vor dem Kino."]
+    },
+    "past_over": {
+      "en": ["past", "over"],
+      "ru": ["мимо", "прошло", "окончено"],
+      "de": ["vorbei"],
+      "example": ["Der Bus fährt vorbei."]
+    },
+    "day_before_yesterday": {
+      "en": ["day before yesterday"],
+      "ru": ["позавчера"],
+      "de": ["vorgestern"],
+      "example": ["Ich möchte vorgestern."]
+    },
+    "morning_before_noon": {
+      "en": ["morning", "before noon"],
+      "ru": ["дообеденное время", "утро"],
+      "de": ["der Vormittag"],
+      "example": ["Das ist der Vormittag."]
+    },
+    "in_the_mornings": {
+      "en": ["in the mornings"],
+      "ru": ["по утрам", "в первой половине дня"],
+      "de": ["vormittags"],
+      "example": ["Vormittags bin ich im Büro."]
+    },
+    "first_name": {
+      "en": ["first name"],
+      "ru": ["имя"],
+      "de": ["der Vorname"],
+      "example": ["Das ist der Vorname."]
+    },
+    "at_the_front": {
+      "en": ["at the front", "in front"],
+      "ru": ["спереди", "впереди"],
+      "de": ["vorne"],
+      "example": ["Bitte vorne einsteigen."]
+    },
+    "precaution_provision": {
+      "en": ["precaution", "provision"],
+      "ru": ["предосторожность", "обеспечение"],
+      "de": ["die Vorsorge"],
+      "example": ["Das ist die Vorsorge."]
+    },
+    "introduce_imagine": {
+      "en": ["introduce", "imagine"],
+      "ru": ["представлять", "знакомить"],
+      "de": ["vorstellen"],
+      "example": ["Ich möchte vorstellen."]
+    }
+  },
+  "w": {
+    "choose_vote": {
+      "en": ["choose", "vote"],
+      "ru": ["выбирать", "голосовать"],
+      "de": ["wählen"],
+      "example": ["Ich möchte wählen."]
+    },
+    "wall": {
+      "en": ["wall"],
+      "ru": ["стена"],
+      "de": ["die Wand"],
+      "example": ["Das ist die Wand."]
+    },
+    "when": {
+      "en": ["when"],
+      "ru": ["когда"],
+      "de": ["wann"],
+      "example": ["Wann kommst du nach Hause?"]
+    },
+    "warm": {
+      "en": ["warm"],
+      "ru": ["теплый"],
+      "de": ["warm"],
+      "example": ["Heute ist es warm."]
+    },
+    "wait": {
+      "en": ["wait"],
+      "ru": ["ждать"],
+      "de": ["warten"],
+      "example": ["Ich möchte warten."]
+    },
+    "waiting_room": {
+      "en": ["waiting room"],
+      "ru": ["зал ожидания"],
+      "de": ["das Wartezimmer"],
+      "example": ["Das ist das Wartezimmer."]
+    },
+    "why": {
+      "en": ["why"],
+      "ru": ["почему"],
+      "de": ["warum"],
+      "example": ["Warum bist du so müde?"]
+    },
+    "what": {
+      "en": ["what"],
+      "ru": ["что"],
+      "de": ["was"],
+      "example": ["Was machst du heute?"]
+    },
+    "wash": {
+      "en": ["wash"],
+      "ru": ["мыть", "стирать"],
+      "de": ["waschen"],
+      "example": ["Ich möchte waschen."]
+    },
+    "washing_machine": {
+      "en": ["washing machine"],
+      "ru": ["стиральная машина"],
+      "de": ["die Waschmaschine"],
+      "example": ["Das ist die Waschmaschine."]
+    },
+    "water": {
+      "en": ["water"],
+      "ru": ["вода"],
+      "de": ["das Wasser"],
+      "example": ["Das ist das Wasser."]
+    },
+    "toilet_wc": {
+      "en": ["toilet", "restroom"],
+      "ru": ["туалет"],
+      "de": ["das WC"],
+      "example": ["Das ist das WC."]
+    },
+    "change_exchange_noun": {
+      "en": ["change", "exchange"],
+      "ru": ["обмен", "смена"],
+      "de": ["der Wechsel"],
+      "example": ["Das ist der Wechsel."]
+    },
+    "change_exchange": {
+      "en": ["change", "exchange"],
+      "ru": ["менять", "обменивать"],
+      "de": ["wechseln"],
+      "example": ["Ich möchte wechseln."]
+    },
+    "way_path": {
+      "en": ["way", "path"],
+      "ru": ["путь", "дорога"],
+      "de": ["der Weg"],
+      "example": ["Das ist der Weg."]
+    },
+    "move_away": {
+      "en": ["move away"],
+      "ru": ["переезжать"],
+      "de": ["wegziehen"],
+      "example": ["Ich möchte wegziehen."]
+    },
+    "hurt_ache": {
+      "en": ["hurt", "ache"],
+      "ru": ["болеть", "причинять боль"],
+      "de": ["wehtun"],
+      "example": ["Ich möchte wehtun."]
+    },
+    "christmas": {
+      "en": ["Christmas"],
+      "ru": ["Рождество"],
+      "de": ["Weihnachten"],
+      "example": ["Ich möchte Weihnachten."]
+    },
+    "christmas_tree": {
+      "en": ["Christmas tree"],
+      "ru": ["рождественская елка"],
+      "de": ["der Weihnachtsbaum"],
+      "example": ["Das ist der Weihnachtsbaum."]
+    },
+    "christmas_party": {
+      "en": ["Christmas party"],
+      "ru": ["рождественский праздник"],
+      "de": ["die Weihnachtsfeier"],
+      "example": ["Die Weihnachtsfeier sind hier."]
+    },
+    "christmas_present": {
+      "en": ["Christmas present"],
+      "ru": ["рождественский подарок"],
+      "de": ["das Weihnachtsgeschenk"],
+      "example": ["Das ist das Weihnachtsgeschenk."]
+    },
+    "santa_claus": {
+      "en": ["Santa Claus"],
+      "ru": ["Дед Мороз"],
+      "de": ["der Weihnachtsmann"],
+      "example": ["Das ist der Weihnachtsmann."]
+    },
+    "wine": {
+      "en": ["wine"],
+      "ru": ["вино"],
+      "de": ["der Wein"],
+      "example": ["Das ist der Wein."]
+    },
+    "further_continue": {
+      "en": ["further", "continue"],
+      "ru": ["дальше"],
+      "de": ["weiter"],
+      "example": ["Bitte gehen Sie weiter."]
+    },
+    "which": {
+      "en": ["which"],
+      "ru": ["какой", "какая", "какое"],
+      "de": ["welcher", "welche", "welches"],
+      "example": ["Welches Buch meinst du?"]
+    },
+    "international_womens_day": {
+      "en": ["International Women's Day"],
+      "ru": ["Международный женский день"],
+      "de": ["der Weltfrauentag"],
+      "example": ["Das ist der Weltfrauentag."]
+    },
+    "if_when": {
+      "en": ["if", "when"],
+      "ru": ["если", "когда"],
+      "de": ["wenn"],
+      "example": ["Wenn ich Zeit habe, komme ich vorbei."]
+    },
+    "who": {
+      "en": ["who"],
+      "ru": ["кто"],
+      "de": ["wer"],
+      "example": ["Wer ist das?"]
+    },
+    "become": {
+      "en": ["become"],
+      "ru": ["становиться"],
+      "de": ["werden"],
+      "example": ["Es wird bald dunkel."]
+    },
+    "workshop_garage": {
+      "en": ["workshop", "garage"],
+      "ru": ["мастерская"],
+      "de": ["die Werkstatt"],
+      "example": ["Das ist die Werkstatt."]
+    },
+    "west_germany": {
+      "en": ["West Germany"],
+      "ru": ["Западная Германия"],
+      "de": ["Westdeutschland"],
+      "example": ["Meine Familie kommt aus Westdeutschland."]
+    },
+    "west": {
+      "en": ["west"],
+      "ru": ["запад"],
+      "de": ["der Westen"],
+      "example": ["Das ist der Westen."]
+    },
+    "weather": {
+      "en": ["weather"],
+      "ru": ["погода"],
+      "de": ["das Wetter"],
+      "example": ["Das ist das Wetter."]
+    },
+    "weather_forecast": {
+      "en": ["weather forecast"],
+      "ru": ["прогноз погоды"],
+      "de": ["der Wetterbericht"],
+      "example": ["Das ist der Wetterbericht."]
+    },
+    "important": {
+      "en": ["important"],
+      "ru": ["важный"],
+      "de": ["wichtig"],
+      "example": ["Das ist wichtig."]
+    },
+    "how": {
+      "en": ["how"],
+      "ru": ["как"],
+      "de": ["wie"],
+      "example": ["Wie heißt du?"]
+    },
+    "again": {
+      "en": ["again"],
+      "ru": ["снова", "опять"],
+      "de": ["wieder"],
+      "example": ["Wir sehen uns morgen wieder."]
+    },
+    "goodbye_on_phone": {
+      "en": ["goodbye (on the phone)"],
+      "ru": ["до свидания (по телефону)"],
+      "de": ["Wiederhören"],
+      "example": ["Ich möchte Wiederhören."]
+    },
+    "come_back": {
+      "en": ["come back"],
+      "ru": ["возвращаться"],
+      "de": ["wiederkommen"],
+      "example": ["Ich möchte wiederkommen."]
+    },
+    "goodbye_see_you_again": {
+      "en": ["goodbye", "see you again"],
+      "ru": ["до свидания"],
+      "de": ["Wiedersehen"],
+      "example": ["Ich möchte Wiedersehen."]
+    },
+    "why_informal": {
+      "en": ["why"],
+      "ru": ["почему"],
+      "de": ["wieso"],
+      "example": ["Wieso lachst du?"]
+    },
+    "welcome": {
+      "en": ["welcome"],
+      "ru": ["добро пожаловать"],
+      "de": ["willkommen"],
+      "example": ["Ich möchte willkommen."]
+    },
+    "windy": {
+      "en": ["windy"],
+      "ru": ["ветреный"],
+      "de": ["windig"],
+      "example": ["Heute ist es windig."]
+    },
+    "winter": {
+      "en": ["winter"],
+      "ru": ["зима"],
+      "de": ["der Winter"],
+      "example": ["Das ist der Winter."]
+    },
+    "winter_coat": {
+      "en": ["winter coat"],
+      "ru": ["зимнее пальто"],
+      "de": ["der Wintermantel"],
+      "example": ["Das ist der Wintermantel."]
+    },
+    "we": {
+      "en": ["we"],
+      "ru": ["мы"],
+      "de": ["wir"],
+      "example": ["Wir lernen zusammen."]
+    },
+    "know": {
+      "en": ["know"],
+      "ru": ["знать"],
+      "de": ["wissen"],
+      "example": ["Ich weiß die Antwort."]
+    },
+    "where": {
+      "en": ["where"],
+      "ru": ["где"],
+      "de": ["wo"],
+      "example": ["Wo wohnst du?"]
+    },
+    "week": {
+      "en": ["week"],
+      "ru": ["неделя"],
+      "de": ["die Woche"],
+      "example": ["Das ist die Woche."]
+    },
+    "weekend": {
+      "en": ["weekend"],
+      "ru": ["выходные"],
+      "de": ["das Wochenende"],
+      "example": ["Das ist das Wochenende."]
+    },
+    "weekly_market": {
+      "en": ["weekly market"],
+      "ru": ["еженедельный рынок"],
+      "de": ["der Wochenmarkt"],
+      "example": ["Das ist der Wochenmarkt."]
+    },
+    "from_where": {
+      "en": ["from where"],
+      "ru": ["откуда"],
+      "de": ["woher"],
+      "example": ["Woher kommst du?"]
+    },
+    "to_where": {
+      "en": ["to where"],
+      "ru": ["куда"],
+      "de": ["wohin"],
+      "example": ["Wohin gehst du?"]
+    },
+    "live_reside": {
+      "en": ["live", "reside"],
+      "ru": ["жить", "проживать"],
+      "de": ["wohnen"],
+      "example": ["Ich wohne in Köln."]
+    },
+    "place_of_residence": {
+      "en": ["place of residence"],
+      "ru": ["место жительства"],
+      "de": ["der Wohnort"],
+      "example": ["Das ist der Wohnort."]
+    },
+    "apartment": {
+      "en": ["apartment"],
+      "ru": ["квартира"],
+      "de": ["die Wohnung"],
+      "example": ["Das ist die Wohnung."]
+    },
+    "apartment_listing": {
+      "en": ["apartment listing"],
+      "ru": ["объявление о квартире"],
+      "de": ["die Wohnungsanzeige"],
+      "example": ["Das ist die Wohnungsanzeige."]
+    },
+    "apartment_search": {
+      "en": ["apartment search"],
+      "ru": ["поиск квартиры"],
+      "de": ["die Wohnungssuche"],
+      "example": ["Das ist die Wohnungssuche."]
+    },
+    "living_room": {
+      "en": ["living room"],
+      "ru": ["гостиная"],
+      "de": ["das Wohnzimmer"],
+      "example": ["Das ist das Wohnzimmer."]
+    },
+    "want": {
+      "en": ["want"],
+      "ru": ["хотеть"],
+      "de": ["wollen"],
+      "example": ["Ich will heute früh schlafen."]
+    },
+    "word": {
+      "en": ["word"],
+      "ru": ["слово"],
+      "de": ["das Wort"],
+      "example": ["Das ist das Wort."]
+    },
+    "dictionary": {
+      "en": ["dictionary"],
+      "ru": ["словарь"],
+      "de": ["das Wörterbuch"],
+      "example": ["Das ist das Wörterbuch."]
+    },
+    "wonderfully_beautiful": {
+      "en": ["wonderfully beautiful"],
+      "ru": ["очень красивый"],
+      "de": ["wunderschön"],
+      "example": ["Das ist wunderschön."]
+    },
+    "wish": {
+      "en": ["wish"],
+      "ru": ["желать"],
+      "de": ["wünschen"],
+      "example": ["Ich möchte wünschen."]
+    }
+  },
+  "z": {
+    "number": {
+      "en": ["number"],
+      "ru": ["число", "номер"],
+      "de": ["die Zahl"],
+      "example": ["Das ist die Zahl."]
+    },
+    "pay": {
+      "en": ["pay"],
+      "ru": ["платить"],
+      "de": ["zahlen"],
+      "example": ["Ich möchte zahlen."]
+    },
+    "tooth": {
+      "en": ["tooth"],
+      "ru": ["зуб"],
+      "de": ["der Zahn"],
+      "example": ["Das ist der Zahn."]
+    },
+    "toe": {
+      "en": ["toe"],
+      "ru": ["палец на ноге"],
+      "de": ["der Zeh"],
+      "example": ["Das ist der Zeh."]
+    },
+    "draw": {
+      "en": ["draw"],
+      "ru": ["рисовать"],
+      "de": ["zeichnen"],
+      "example": ["Ich möchte zeichnen."]
+    },
+    "show": {
+      "en": ["show"],
+      "ru": ["показывать"],
+      "de": ["zeigen"],
+      "example": ["Kannst du mir den Weg zeigen?"]
+    },
+    "time": {
+      "en": ["time"],
+      "ru": ["время"],
+      "de": ["die Zeit"],
+      "example": ["Das ist die Zeit."]
+    },
+    "newspaper": {
+      "en": ["newspaper"],
+      "ru": ["газета"],
+      "de": ["die Zeitung"],
+      "example": ["Das ist die Zeitung."]
+    },
+    "center": {
+      "en": ["center"],
+      "ru": ["центр"],
+      "de": ["das Zentrum"],
+      "example": ["Das ist das Zentrum."]
+    },
+    "note": {
+      "en": ["note", "slip of paper"],
+      "ru": ["записка", "листок"],
+      "de": ["der Zettel"],
+      "example": ["Das ist der Zettel."]
+    },
+    "room": {
+      "en": ["room"],
+      "ru": ["комната"],
+      "de": ["das Zimmer"],
+      "example": ["Das ist das Zimmer."]
+    },
+    "lemon": {
+      "en": ["lemon"],
+      "ru": ["лимон"],
+      "de": ["die Zitrone"],
+      "example": ["Das ist die Zitrone."]
+    },
+    "to": {
+      "en": ["to"],
+      "ru": ["к", "в"],
+      "de": ["zu"],
+      "example": ["Das passt gut zu dir."]
+    },
+    "on_foot": {
+      "en": ["on foot"],
+      "ru": ["пешком"],
+      "de": ["zu Fuß"],
+      "example": ["Ich gehe heute zu Fuß."]
+    },
+    "at_home": {
+      "en": ["at home"],
+      "ru": ["дома"],
+      "de": ["zu Hause"],
+      "example": ["Ich bin heute zu Hause."]
+    },
+    "sugar": {
+      "en": ["sugar"],
+      "ru": ["сахар"],
+      "de": ["der Zucker"],
+      "example": ["Das ist der Zucker."]
+    },
+    "first": {
+      "en": ["first"],
+      "ru": ["сначала"],
+      "de": ["zuerst"],
+      "example": ["Zuerst trinken wir einen Kaffee."]
+    },
+    "train": {
+      "en": ["train"],
+      "ru": ["поезд"],
+      "de": ["der Zug"],
+      "example": ["Das ist der Zug."]
+    },
+    "back": {
+      "en": ["back"],
+      "ru": ["назад", "обратно"],
+      "de": ["zurück"],
+      "example": ["Komm bitte zurück."]
+    },
+    "currently": {
+      "en": ["currently"],
+      "ru": ["в настоящее время"],
+      "de": ["zurzeit"],
+      "example": ["Zurzeit arbeite ich viel."]
+    },
+    "together": {
+      "en": ["together"],
+      "ru": ["вместе"],
+      "de": ["zusammen"],
+      "example": ["Ich möchte zusammen."]
+    },
+    "twice": {
+      "en": ["twice"],
+      "ru": ["дважды"],
+      "de": ["zweimal"],
+      "example": ["Ich trainiere zweimal pro Woche."]
+    },
+    "second": {
+      "en": ["second"],
+      "ru": ["второй", "вторая"],
+      "de": ["zweite"],
+      "example": ["Das ist zweite."]
+    },
+    "onion": {
+      "en": ["onion"],
+      "ru": ["лук"],
+      "de": ["die Zwiebel"],
+      "example": ["Das ist die Zwiebel."]
+    },
+    "between": {
+      "en": ["between"],
+      "ru": ["между"],
+      "de": ["zwischen"],
+      "example": ["Ich möchte zwischen."]
+    }
   }
 }
