@@ -7,7 +7,7 @@ import {
   type FormEvent,
   type KeyboardEvent,
 } from 'react'
-import { ArrowRight, Check, X } from 'lucide-react'
+import { ArrowRight, Check, ChevronDown, X } from 'lucide-react'
 import { LanguageDirectionSelect } from '@/components/trainer/LanguageDirectionSelect'
 import { ScoreGroupCard } from '@/components/trainer/ScoreGroupCard'
 import {
@@ -71,6 +71,7 @@ function App() {
   const [answer, setAnswer] = useState('')
   const [hasChecked, setHasChecked] = useState(false)
   const [isCorrect, setIsCorrect] = useState<boolean | null>(null)
+  const [isProgressOpen, setIsProgressOpen] = useState(false)
   const answerInputRef = useRef<HTMLInputElement | null>(null)
   const nextWordButtonRef = useRef<HTMLButtonElement | null>(null)
   const [expandedScoreGroups, setExpandedScoreGroups] =
@@ -281,8 +282,8 @@ function App() {
     currentScoreKey === null ? 0 : (progressByKey[currentScoreKey]?.score ?? 0)
   const promptPlaceholder =
     currentDirection.target === 'de'
-      ? 'Введите слово вместе с артиклем'
-      : 'Введите перевод'
+      ? 'Enter the word with the article'
+      : 'Enter the translation'
   const promptWord =
     resolvedCurrentWord === null
       ? null
@@ -306,7 +307,7 @@ function App() {
   }, [currentScore, currentScoreKey])
 
   const scoreGroups = useMemo(() => {
-    return currentBlockWords.reduce((groups, word) => {
+    return words.reduce((groups, word) => {
       const progress = progressByKey[getWordScoreKey(word.id, currentDirection)]
       const scoreGroupKey = getScoreGroupKey(progress)
 
@@ -316,7 +317,7 @@ function App() {
 
       return groups
     }, createEmptyScoreGroups())
-  }, [currentBlockWords, currentDirection, progressByKey])
+  }, [currentDirection, progressByKey])
   const scoreStats = useMemo(
     () =>
       SCORE_GROUP_ORDER.reduce(
@@ -366,55 +367,78 @@ function App() {
       </header>
 
       <section className="trainer-card">
-        <div className="mode-controls">
-          <LanguageDirectionSelect
-            value={currentDirection.source}
-            ariaLabel="Source language"
-            itemPrefix="source"
-            onValueChange={handleDirectionChange('source')}
-          />
-          <span className="mode-arrow" aria-hidden="true">
-            <ArrowRight size={18} />
-          </span>
-          <LanguageDirectionSelect
-            value={currentDirection.target}
-            ariaLabel="Target language"
-            itemPrefix="target"
-            onValueChange={handleDirectionChange('target')}
-          />
-        </div>
-        <div className="stats-card">
-          {SCORE_GROUP_SECTIONS.map((section) => (
-            <div key={section.title} className="stats-group">
-              <p className="stats-title">{section.title}</p>
-              <div className="stats-grid">
-                {section.items.map((item) => (
-                  <ScoreGroupCard
-                    key={item.key}
-                    label={item.label}
-                    description={item.description}
-                    tone={item.tone}
-                    emphasis={item.emphasis}
-                    value={scoreStats[item.key]}
-                    expanded={expandedScoreGroups[item.key]}
-                    items={scoreGroups[item.key]}
-                    direction={currentDirection}
-                    onToggle={() => handleScoreGroupToggle(item.key)}
-                    onKeyDown={handleScoreGroupKeyDown(item.key)}
-                  />
-                ))}
-              </div>
+        <div className="trainer-toolbar">
+          <div className="mode-controls">
+            <div className="mode-controls-group">
+              <LanguageDirectionSelect
+                value={currentDirection.source}
+                ariaLabel="Source language"
+                itemPrefix="source"
+                onValueChange={handleDirectionChange('source')}
+              />
+              <span className="mode-arrow" aria-hidden="true">
+                <ArrowRight size={18} />
+              </span>
+              <LanguageDirectionSelect
+                value={currentDirection.target}
+                ariaLabel="Target language"
+                itemPrefix="target"
+                onValueChange={handleDirectionChange('target')}
+              />
             </div>
-          ))}
+            <Button
+              type="button"
+              variant="ghost"
+              className="progress-toggle"
+              aria-expanded={isProgressOpen}
+              onClick={() => setIsProgressOpen((currentValue) => !currentValue)}
+            >
+              <span>Show Progress</span>
+              <ChevronDown
+                size={18}
+                aria-hidden="true"
+                className="progress-toggle-icon"
+                data-open={isProgressOpen}
+              />
+            </Button>
+          </div>
+          <div className="stats-panel" data-open={isProgressOpen} aria-hidden={!isProgressOpen}>
+            <div className="stats-card">
+              {SCORE_GROUP_SECTIONS.map((section) => (
+                <div key={section.title} className="stats-group">
+                  <p className="stats-title">{section.title}</p>
+                  <div className="stats-grid">
+                    {section.items.map((item) => (
+                      <ScoreGroupCard
+                        key={item.key}
+                        groupKey={item.key}
+                        emoji={item.emoji}
+                        label={item.label}
+                        description={item.description}
+                        tone={item.tone}
+                        emphasis={item.emphasis}
+                        value={scoreStats[item.key]}
+                        expanded={expandedScoreGroups[item.key]}
+                        items={scoreGroups[item.key]}
+                        direction={currentDirection}
+                        onToggle={() => handleScoreGroupToggle(item.key)}
+                        onKeyDown={handleScoreGroupKeyDown(item.key)}
+                      />
+                    ))}
+                  </div>
+                </div>
+              ))}
+            </div>
+          </div>
         </div>
 
         {shouldShowCompletionScreen ? (
           <div className="word-card block-complete-card">
             <div className="block-complete-content">
-              <h2 className="h2 block-complete-title">Блок завершен</h2>
+              <h2 className="h2 block-complete-title">Block complete</h2>
               <p className="subtitle">
-                Вы угадали все {currentBlockWords.length} слов этого блока на 3
-                балла.
+                You guessed all {currentBlockWords.length} words in this block
+                with a score of 3.
               </p>
               {hasMoreWordsForNextBlock ? (
                 <Button
@@ -423,24 +447,18 @@ function App() {
                   className={CONTROL_CLASS_NAME}
                   onClick={startNextBlock}
                 >
-                  Перейти к следующему блоку
+                  Go to the next block
                 </Button>
               ) : (
                 <p className="subtitle">
-                  Новых слов больше не осталось. Все слова для этого режима
-                  выучены.
+                  There are no new words left. All words for this mode have been
+                  learned.
                 </p>
               )}
             </div>
           </div>
         ) : resolvedCurrentWord !== null ? (
           <div className="word-card">
-            <div className="word-header">
-              <span className="letter-badge">
-                {resolvedCurrentWord.letter.toUpperCase()}
-              </span>
-            </div>
-
             <div className="word-main-row">
               <h2 className="h2 word-main">{promptWord}</h2>
               {scoreMarkers.length > 0 ? (
@@ -477,7 +495,7 @@ function App() {
                   className={CONTROL_CLASS_NAME}
                   disabled={hasChecked}
                 >
-                  Проверить
+                  Check
                 </Button>
                 <Button
                   type="button"
@@ -487,7 +505,7 @@ function App() {
                   ref={nextWordButtonRef}
                   onClick={handleNextWord}
                 >
-                  Следующее слово
+                  Next word
                 </Button>
               </div>
             </form>
@@ -497,13 +515,13 @@ function App() {
                 className="result-banner"
                 data-tone={isCorrect ? 'positive' : 'negative'}
               >
-                <strong>{isCorrect ? 'Правильно' : 'Неправильно'}</strong>
+                <strong>{isCorrect ? 'Correct' : 'Incorrect'}</strong>
                 {!isCorrect ? (
-                  <span>Правильный вариант: {correctAnswer}</span>
+                  <span>Correct answer: {correctAnswer}</span>
                 ) : null}
                 {examples.length > 0 ? (
                   <div className="result-banner-examples">
-                    <strong>Пример</strong>
+                    <strong>Example</strong>
                     <div className="example-list">
                       {examples.map((example) => (
                         <p key={example} className="example-item">
@@ -520,8 +538,8 @@ function App() {
           <div className="word-card empty-state">
             <p>
               {hasMoreWordsForNextBlock
-                ? 'Подготавливаю новый блок слов.'
-                : 'Словарь пустой, слово не найдено.'}
+                ? 'Preparing a new block of words.'
+                : 'The dictionary is empty, word not found.'}
             </p>
           </div>
         )}

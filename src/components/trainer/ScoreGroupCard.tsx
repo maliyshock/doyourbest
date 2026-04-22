@@ -1,12 +1,14 @@
 import type { KeyboardEvent } from 'react'
 
 import type { LanguageDirection } from '@/lib/languages'
-import type { ScoreTone } from '@/types/trainer'
+import type { ScoreGroupKey, ScoreTone } from '@/types/trainer'
 import type { WordEntry } from '@/utils/trainer'
 
 import { ScoreGroupWords } from './ScoreGroupWords'
 
 type ScoreGroupCardProps = {
+  groupKey: ScoreGroupKey
+  emoji?: string
   label: string
   description?: string
   tone: ScoreTone
@@ -20,6 +22,8 @@ type ScoreGroupCardProps = {
 }
 
 export function ScoreGroupCard({
+  groupKey,
+  emoji,
   label,
   description,
   tone,
@@ -34,6 +38,7 @@ export function ScoreGroupCard({
   return (
     <div
       className="stat-item"
+      data-group-key={groupKey}
       data-tone={tone}
       data-emphasis={emphasis}
       data-active={expanded}
@@ -42,7 +47,14 @@ export function ScoreGroupCard({
       onClick={onToggle}
       onKeyDown={onKeyDown}
     >
-      <span className="stat-value">{value}</span>
+      <div className="stat-value-row">
+        {emoji !== undefined ? (
+          <span className="stat-value-emoji" aria-hidden="true">
+            {emoji}
+          </span>
+        ) : null}
+        <span className="stat-value">{value}</span>
+      </div>
       <span className="stat-label">{label}</span>
       {description !== undefined ? (
         <span className="stat-label-description">{description}</span>

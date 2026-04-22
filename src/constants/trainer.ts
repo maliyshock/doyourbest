@@ -13,12 +13,13 @@ export const SCORE_GROUP_ORDER: ScoreGroupKey[] = [
 
 export const SCORE_GROUP_SECTIONS: ScoreGroupSection[] = [
   {
-    title: 'Положительные в текущем блоке',
+    title: 'Positive overall',
     items: [
-      { key: 'positiveInProgress', label: 'В процессе', tone: 'positive' },
-      { key: 'positiveLearned', label: 'Выучено слов', tone: 'positive', emphasis: 'strong' },
+      { key: 'positiveInProgress', emoji: '🌱', label: 'In progress', tone: 'positive' },
+      { key: 'positiveLearned', emoji: '📘', label: 'Words learned', tone: 'positive', emphasis: 'strong' },
       {
         key: 'completed',
+        emoji: '🏆',
         label: 'Completed',
         description: 'Learned at least 3 times',
         tone: 'positive',
@@ -27,10 +28,10 @@ export const SCORE_GROUP_SECTIONS: ScoreGroupSection[] = [
     ],
   },
   {
-    title: 'Отрицательные в текущем блоке',
+    title: 'Negative overall',
     items: [
-      { key: 'negativeInProgress', label: 'Были ошибки', tone: 'negative' },
-      { key: 'negativeComplete', label: 'Ну ты чо', tone: 'negative', emphasis: 'strong' },
+      { key: 'negativeInProgress', emoji: '🧠', label: 'With mistakes', tone: 'negative' },
+      { key: 'negativeComplete', emoji: '🔁', label: 'Needs practice', tone: 'negative', emphasis: 'strong' },
     ],
   },
 ]

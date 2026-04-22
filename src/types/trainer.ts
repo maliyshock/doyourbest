@@ -11,6 +11,7 @@ export type ExpandedScoreGroups = Record<ScoreGroupKey, boolean>
 
 export type ScoreGroupConfig = {
   key: ScoreGroupKey
+  emoji?: string
   label: string
   description?: string
   tone: ScoreTone

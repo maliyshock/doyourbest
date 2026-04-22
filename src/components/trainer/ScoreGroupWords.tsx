@@ -11,7 +11,7 @@ type ScoreGroupWordsProps = {
 
 export function ScoreGroupWords({ items, direction }: ScoreGroupWordsProps) {
   if (items.length === 0) {
-    return <p className="stats-words-empty">Для этой категории пока нет слов.</p>
+    return <p className="stats-words-empty">No words in this category yet.</p>
   }
 
   return (
