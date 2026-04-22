@@ -8,6 +8,7 @@ import { ScoreGroupWords } from './ScoreGroupWords'
 
 type ScoreGroupCardProps = {
   label: string
+  description?: string
   tone: ScoreTone
   emphasis?: 'strong'
   value: number
@@ -20,6 +21,7 @@ type ScoreGroupCardProps = {
 
 export function ScoreGroupCard({
   label,
+  description,
   tone,
   emphasis,
   value,
@@ -42,6 +44,9 @@ export function ScoreGroupCard({
     >
       <span className="stat-value">{value}</span>
       <span className="stat-label">{label}</span>
+      {description !== undefined ? (
+        <span className="stat-label-description">{description}</span>
+      ) : null}
       <div className="stat-item-words" data-expanded={expanded} aria-hidden={!expanded}>
         <div className="stat-item-words-inner">
           <ScoreGroupWords items={items} direction={direction} />

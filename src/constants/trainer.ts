@@ -5,7 +5,8 @@ export const WORDS_PER_BLOCK = 30
 
 export const SCORE_GROUP_ORDER: ScoreGroupKey[] = [
   'positiveInProgress',
-  'positiveComplete',
+  'positiveLearned',
+  'completed',
   'negativeInProgress',
   'negativeComplete',
 ]
@@ -15,7 +16,14 @@ export const SCORE_GROUP_SECTIONS: ScoreGroupSection[] = [
     title: 'Положительные в текущем блоке',
     items: [
       { key: 'positiveInProgress', label: 'В процессе', tone: 'positive' },
-      { key: 'positiveComplete', label: 'Выучено слов', tone: 'positive', emphasis: 'strong' },
+      { key: 'positiveLearned', label: 'Выучено слов', tone: 'positive', emphasis: 'strong' },
+      {
+        key: 'completed',
+        label: 'Completed',
+        description: 'Learned at least 3 times',
+        tone: 'positive',
+        emphasis: 'strong',
+      },
     ],
   },
   {

@@ -1,65 +1,97 @@
 import { configureStore } from '@reduxjs/toolkit'
 
-import type { WordsState } from '@/features/words/wordsSlice'
+import type {
+  WordProgress,
+  WordProgressStatus,
+  WordsState,
+} from '@/features/words/wordsSlice'
 import wordsReducer from '@/features/words/wordsSlice'
-import { words } from '@/lib/dictionary'
-import { DEFAULT_LANGUAGE_DIRECTION, getWordScoreKey } from '@/lib/languages'
 
 const WORDS_STORAGE_KEY = 'doyourbest.words'
 
-const wordIdsByLegacyKey = words.reduce<Record<string, string[]>>(
-  (result, word) => {
-    result[word.key] ??= []
-    result[word.key].push(word.id)
-    return result
-  },
-  {}
-)
+function clampScore(value: number) {
+  return Math.max(-3, Math.min(3, value))
+}
+
+function isWordProgressStatus(value: unknown): value is WordProgressStatus {
+  return value === 'learning' || value === 'completed'
+}
+
+function normalizeWordProgress(value: unknown): WordProgress | null {
+  if (typeof value !== 'object' || value === null) {
+    return null
+  }
+
+  const {
+    score,
+    successCount,
+    successDateDay,
+    status,
+  } = value as Partial<WordProgress>
+
+  if (
+    typeof score !== 'number' ||
+    typeof successCount !== 'number' ||
+    !isWordProgressStatus(status)
+  ) {
+    return null
+  }
+
+  if (successDateDay !== null && typeof successDateDay !== 'string') {
+    return null
+  }
+
+  return {
+    score: clampScore(score),
+    successCount: Math.max(0, Math.floor(successCount)),
+    successDateDay,
+    status,
+  }
+}
 
 function normalizeWordsState(value: unknown): WordsState | undefined {
   if (typeof value !== 'object' || value === null) {
     return undefined
   }
 
-  const { scoresByKey, currentBlockWordIdsByDirection } = value as {
-    scoresByKey?: unknown
+  const {
+    progressByKey,
+    activeLearnedKeys,
+    currentBlockWordIdsByDirection,
+  } = value as {
+    progressByKey?: unknown
+    activeLearnedKeys?: unknown
     currentBlockWordIdsByDirection?: unknown
   }
 
-  if (typeof scoresByKey !== 'object' || scoresByKey === null) {
+  if (typeof progressByKey !== 'object' || progressByKey === null) {
     return undefined
   }
 
-  const migratedEntries = Object.entries(scoresByKey).map(([key, score]) => {
-    if (typeof score !== 'number') {
-      return null
-    }
+  const normalizedProgressByKey = Object.fromEntries(
+    Object.entries(progressByKey).flatMap(([key, progress]) => {
+      const normalizedProgress = normalizeWordProgress(progress)
 
-    const [directionKey, wordKey] = key.includes(':')
-      ? (key.split(/:(.+)/, 2) as [string, string])
-      : [getWordScoreKey('', DEFAULT_LANGUAGE_DIRECTION).split(':')[0], key]
-    const knownWordIds = wordIdsByLegacyKey[wordKey]
+      if (normalizedProgress === null) {
+        return []
+      }
 
-    if (knownWordIds !== undefined) {
-      return knownWordIds.map(
-        (wordId) => [`${directionKey}:${wordId}`, score] as const
-      )
-    }
+      return [[key, normalizedProgress] as const]
+    })
+  )
 
-    const nextKey = key.includes('->')
-      ? key
-      : getWordScoreKey(wordKey, DEFAULT_LANGUAGE_DIRECTION)
+  const normalizedActiveLearnedKeys =
+    typeof activeLearnedKeys === 'object' && activeLearnedKeys !== null
+      ? Object.fromEntries(
+          Object.entries(activeLearnedKeys).flatMap(([key, isActive]) => {
+            if (isActive !== true || normalizedProgressByKey[key] === undefined) {
+              return []
+            }
 
-    return [[nextKey, score] as const]
-  })
-
-  if (migratedEntries.some((entry) => entry === null)) {
-    return undefined
-  }
-
-  const validEntries = migratedEntries
-    .flat()
-    .filter((entry): entry is readonly [string, number] => entry !== null)
+            return [[key, true] as const]
+          })
+        )
+      : {}
 
   const normalizedCurrentBlocks =
     typeof currentBlockWordIdsByDirection === 'object' &&
@@ -81,7 +113,8 @@ function normalizeWordsState(value: unknown): WordsState | undefined {
       : {}
 
   return {
-    scoresByKey: Object.fromEntries(validEntries),
+    progressByKey: normalizedProgressByKey,
+    activeLearnedKeys: normalizedActiveLearnedKeys,
     currentBlockWordIdsByDirection: normalizedCurrentBlocks,
   }
 }

@@ -19,10 +19,11 @@ import {
 import { Button } from '@/components/ui/button'
 import { Input } from '@/components/ui/input'
 import {
+  decayExpiredLearnedWords,
   decreaseWordScore,
   increaseWordScore,
   selectCurrentBlockWordIds,
-  selectScoresByKey,
+  selectProgressByKey,
   setCurrentBlockWordIds,
 } from '@/features/words/wordsSlice'
 import { useAppDispatch, useAppSelector } from '@/hooks'
@@ -50,12 +51,13 @@ import {
   getScoreGroupKey,
   type WordEntry,
 } from '@/utils/trainer'
+import { getCurrentDayKey } from '@/utils/wordProgress'
 
 import './App.css'
 
 function App() {
   const dispatch = useAppDispatch()
-  const scoresByKey = useAppSelector(selectScoresByKey)
+  const progressByKey = useAppSelector(selectProgressByKey)
   const [currentDirection, setCurrentDirection] = useState<LanguageDirection>(
     DEFAULT_LANGUAGE_DIRECTION
   )
@@ -85,12 +87,12 @@ function App() {
     [currentBlockWordIds, wordsById]
   )
   const incompleteBlockWords = useMemo(
-    () => getAvailableWords(currentBlockWords, currentDirection, scoresByKey),
-    [currentBlockWords, currentDirection, scoresByKey]
+    () => getAvailableWords(currentBlockWords, currentDirection, progressByKey),
+    [currentBlockWords, currentDirection, progressByKey]
   )
   const availableWords = useMemo(
-    () => getAvailableWords(words, currentDirection, scoresByKey),
-    [currentDirection, scoresByKey]
+    () => getAvailableWords(words, currentDirection, progressByKey),
+    [currentDirection, progressByKey]
   )
   const hasCurrentBlock = currentBlockWords.length > 0
   const isCurrentBlockComplete =
@@ -110,11 +112,11 @@ function App() {
   const getNextBlockWords = useCallback(
     (direction: LanguageDirection) => {
       return getRandomWords(
-        getAvailableWords(words, direction, scoresByKey),
+        getAvailableWords(words, direction, progressByKey),
         WORDS_PER_BLOCK
       )
     },
-    [scoresByKey]
+    [progressByKey]
   )
 
   const setBlockWordIds = useCallback(
@@ -150,6 +152,20 @@ function App() {
 
     nextWordButtonRef.current?.focus()
   }, [hasChecked])
+
+  useEffect(() => {
+    const syncLearnedWords = () => {
+      dispatch(decayExpiredLearnedWords({ currentDayKey: getCurrentDayKey() }))
+    }
+
+    syncLearnedWords()
+
+    const intervalId = window.setInterval(syncLearnedWords, 60_000)
+
+    return () => {
+      window.clearInterval(intervalId)
+    }
+  }, [dispatch])
 
   const resolvedCurrentWord = useMemo(() => {
     if (hasChecked && currentWord !== null) {
@@ -249,7 +265,12 @@ function App() {
     setIsCorrect(correct)
 
     if (correct) {
-      dispatch(increaseWordScore(currentScoreKey))
+      dispatch(
+        increaseWordScore({
+          key: currentScoreKey,
+          currentDayKey: getCurrentDayKey(),
+        })
+      )
       return
     }
 
@@ -257,7 +278,7 @@ function App() {
   }
 
   const currentScore =
-    currentScoreKey === null ? 0 : (scoresByKey[currentScoreKey] ?? 0)
+    currentScoreKey === null ? 0 : (progressByKey[currentScoreKey]?.score ?? 0)
   const promptPlaceholder =
     currentDirection.target === 'de'
       ? 'Введите слово вместе с артиклем'
@@ -286,8 +307,8 @@ function App() {
 
   const scoreGroups = useMemo(() => {
     return currentBlockWords.reduce((groups, word) => {
-      const score = scoresByKey[getWordScoreKey(word.id, currentDirection)] ?? 0
-      const scoreGroupKey = getScoreGroupKey(score)
+      const progress = progressByKey[getWordScoreKey(word.id, currentDirection)]
+      const scoreGroupKey = getScoreGroupKey(progress)
 
       if (scoreGroupKey !== null) {
         groups[scoreGroupKey].push(word)
@@ -295,7 +316,7 @@ function App() {
 
       return groups
     }, createEmptyScoreGroups())
-  }, [currentBlockWords, currentDirection, scoresByKey])
+  }, [currentBlockWords, currentDirection, progressByKey])
   const scoreStats = useMemo(
     () =>
       SCORE_GROUP_ORDER.reduce(
@@ -305,7 +326,8 @@ function App() {
         },
         {
           positiveInProgress: 0,
-          positiveComplete: 0,
+          positiveLearned: 0,
+          completed: 0,
           negativeInProgress: 0,
           negativeComplete: 0,
         }
@@ -370,6 +392,7 @@ function App() {
                   <ScoreGroupCard
                     key={item.key}
                     label={item.label}
+                    description={item.description}
                     tone={item.tone}
                     emphasis={item.emphasis}
                     value={scoreStats[item.key]}

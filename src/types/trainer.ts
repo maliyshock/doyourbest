@@ -1,18 +1,18 @@
 export type ScoreGroupKey =
   | 'positiveInProgress'
-  | 'positiveComplete'
+  | 'positiveLearned'
+  | 'completed'
   | 'negativeInProgress'
   | 'negativeComplete'
 
 export type ScoreTone = 'positive' | 'negative'
-
-export type ScoresByKey = Record<string, number | undefined>
 
 export type ExpandedScoreGroups = Record<ScoreGroupKey, boolean>
 
 export type ScoreGroupConfig = {
   key: ScoreGroupKey
   label: string
+  description?: string
   tone: ScoreTone
   emphasis?: 'strong'
 }
